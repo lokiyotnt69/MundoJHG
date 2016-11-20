@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1,[COLOR white][I][B]-------------ALEMANIA--------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,Fox HD
+http://80.255.12.5:8000/3
+#EXTINF:-1,Nat Geo Wild HD
+http://80.255.12.5:8000/2
+#EXTINF:-1,Syfy HD
+http://80.255.12.5:8000/4
+#EXTINF:-1,AXN HD
+http://80.255.12.5:8000/5
+#EXTINF:-1,Spiesel TV
+http://80.255.12.5:8000/7
+#EXTINF:-1,Sport1+HD
+http://80.255.12.5:8000/6
+#EXTINF:-1,CN
+http://80.255.12.5:8000/8
+#EXTINF:-1,MTV
+http://80.255.12.5:8000/9
+#EXTINF:-1,Disney Cinemagic
+http://80.255.12.5:8000/10
+#EXTINF:-1,Nat Geo HD
+http://80.255.12.5:8000/11
+#EXTINF:-1,13StreetHD
+http://80.255.12.5:8000/12
+#EXTINF:-1,TNT Serie
+http://80.255.12.5:8000/15
+#EXTINF:-1,PLANET
+http://80.255.12.5:8000/13
+#EXTINF:-1,TNT Film
+http://80.255.12.5:8000/14
+#EXTINF:-1,Boomerang
+http://80.255.12.5:8000/16
