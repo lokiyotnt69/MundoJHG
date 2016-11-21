@@ -5627,3 +5627,261 @@ http://devcon.1dns1.com:8080/movie/cccamclup/okklgf87/4086.mp4
 http://devcon.1dns1.com:8080/movie/cccamclup/okklgf87/4085.mp4
 #EXTINF:-1,TR - CUNEYT ARKIN.Yakut.Gozlu.Kedi.1966
 http://devcon.1dns1.com:8080/movie/cccamclup/okklgf87/4084.mp4
+
+
+#EXTINF:-1,ES: Viva Nicaragua Canal 13
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6532.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TYC SpoRTS.
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6533.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TVN Cihile HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6534.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TVN Chile HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6535.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TVN Chile
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6536.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TV Mas
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6537.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TV Galicia
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6538.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6539.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Telpin Canal 2 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6540.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TELEVISA HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6541.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Teleticino
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6542.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Telesur (Venezuela)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6543.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Telemundo
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6544.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6545.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Telecinco
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6546.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6547.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: SyFy HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6551.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: SyFy
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6552.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Sevilla FC
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6553.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: RTV Canarias
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6554.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: .ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6555.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: RT Espanol
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6556.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Red Advenir
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6557.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Real MadridTV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6558.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Real Madrid TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6559.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Proyecto 40 - Mexico
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6560.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Proyecto 40
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6561.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: PDVSA TV (Venezuela)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6562.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Ondaluz Sierra
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6563.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Onda Azul
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6564.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Odisea
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6565.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6566.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6567.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Nick Jr.
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6568.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Navarra Tv
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6569.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6570.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6571.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Mundo Max
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6572.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: MTV Rocks
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6573.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Movistar Moto GP
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6574.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6575.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Mirame Tv
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6576.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Mexico Travel Channel
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6577.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Mega HD (Spain)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6578.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Mega HD (Chile)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6579.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: La Sexta HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6580.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: La 2
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6581.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: La 1 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6582.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: La 1
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6583.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Honduras
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6584.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Hollywood HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6585.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: History HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6586.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6587.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6588.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Fox HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6589.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6590.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Factoria de Ficcion
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6591.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: El Trece ( Argentina)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6593.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: El Pinguino HD (Chile)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6594.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DXTV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6595.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Distrito Comedia (Mexico)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6598.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6599.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Disney Channel
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6600.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6601.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Dcine Espanol
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6602.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6603.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Cosmo
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6604.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Condavision
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6605.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6606.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Cinemax HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6607.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Caza y Pesca
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6608.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6609.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal U (Colombia)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6610.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal Once
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6611.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal Deporte Olampico HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6612.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal De Las Estrellas
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6613.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal Costa
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6614.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6615.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal Baby
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6616.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal 24 Horas
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6617.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Xtra
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6618.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Toros HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6619.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Liga HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6620.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Golf
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6621.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Futbal
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6622.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Estrenos
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6623.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Deportes 2
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6624.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Deportes
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6625.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Comedia
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6626.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Ceries HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6627.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Canal  Accion
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6628.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6629.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6630.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Blica Dominicana
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6631.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: BeIN Spo.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6632.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6633.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Azteca Noticias (Mexico)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6634.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Azteca 7 (Mexico)
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6635.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN White
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6636.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6637.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6638.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Antena 3 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6639.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Anime TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6640.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: A3S HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6641.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6642.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: 8TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6643.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6644.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Teledeporte
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6645.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Taquilla 1
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6550.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Taquilla 2
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6549.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: Taquilla 3
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6548.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 4
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6651.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 5
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6650.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 6
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6649.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 7
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6648.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 8
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6647.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 9
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6646.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Taquilla 10
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6652.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES NATIONAL GEOGRAPHIC CHANNEL
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6653.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES NAT GEO WILDE
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6654.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6655.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Canal SERIES
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6656.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Canal  Series Xtra
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6657.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Canal  DCine
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6658.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES Canal
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6659.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
