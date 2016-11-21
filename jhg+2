@@ -1,4 +1,84 @@
 #EXTM3U
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1 tvg-id="9ba36a667016d1591be5c0cf3e64faea",Junior TV CZ
+http://46.99.168.4:9981/stream/channelid/1718264731?ticket=81CF4E3FE1AC4AC39FDE3890184A0A97932A2804&profile=pass
+#EXTINF:-1 tvg-id="ff631f9e89d1258111fdf44c958dd9b2",Tring Tring CZ
+http://46.99.168.4:9981/stream/channelid/505373695?ticket=FD2B737082F479927783236F16CC32CD60B94D8A&profile=pass
+#EXTINF:-1 tvg-id="0d41c48e2518a9df445f2057d17ce5a8",TIP TV CZ
+http://46.99.168.4:9981/stream/channelid/247742733?ticket=A8E8B69CBCA5128D399322B0A7F4F07E6F7586AD&profile=pass
+#EXTINF:-1 tvg-id="3c63de55fe579af6cc5aa70285817f01",Kids CZ
+http://46.99.168.4:9981/stream/channelid/1440637756?ticket=9FB5A51AECF04129E48241F5C905DCAB750AEC41&profile=pass
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Disney Channel RU
+http://92.240.232.205:8888/udp/232.232.69.3:5004
+#EXTINF:-1,Boomerang AR
+http://92.240.232.205:8888/udp/232.232.65.52:5004
+#EXTINF:-1,ducktv
+http://92.240.232.205:8888/udp/232.232.65.73:5004
+#EXTINF:-1,Minimax Cz
+http://92.240.232.205:8888/udp/232.232.77.4:5004
+#EXTINF:-1,Nick Jr
+http://92.240.232.205:8888/udp/232.232.64.167:5004
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Disney Junior.
+rtmp://newiphelikop.no-ip.org:44935/p6p/000disnjun.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #Disney Junior.
+#EXTINF:-1,Boomerang
+rtmp://newiphelikop.no-ip.org:44935/p6p/0000boomer.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #Boomerang
+#EXTINF:-1,BoomerangII
+rtmp://newiphelikop.no-ip.org:44935/p6p/KIDS-B_O_O_M_E_R.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #BoomerangII
+#EXTINF:-1,*NICKELODEON.
+rtmp://newiphelikop.no-ip.org:44935/p6p/555cnickelodeon.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #*NICKELODEON.
+#EXTINF:-1,*SMILE.
+rtmp://newiphelikop.no-ip.org:44935/p6p/555csmile.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #*SMILE.
+#EXTINF:-1,iptv-KIDS-2014
+rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS1.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS-2014
+#EXTINF:-1,iptv-KIDS 2
+rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS2.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 2
+#EXTINF:-1,iptv-KIDS 3
+rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS3.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 3
+#EXTINF:-1,iptv-KIDS 4
+rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS4.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 4
+#EXTINF:-1,iptv-KIDS 5
+rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS5.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 5
+#EXTINF:-1,BABY-TV.
+rtmp://newiphelikop.no-ip.org:44935/p6p/KIDS-PAN-BABY.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #BABY-TV
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange]--- [I][B]TURKEY[/B][/I] ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [I][B]KIDZ/ANIMEZ[/B][/I]
+http://31.186.24.233:8004/2
+#EXTINF:-1, [I][B]YUMURCAK TV[/B][/I]
+http://vivisolive-lh.akamaihd.net/i/syg_backup3_1@383108/index_360_av-b.m3u8?sd=10&rebase=on
+EXTINF:-1, [I][B]TRT COCUK[/B][/I]
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1, [I][B]TRT COCUK Secenek 2[/B][/I]
+http://sol.trtcdn.com/tv/trtcocuk/mp4:trtcocuk_1/playlist.m3u8
+#EXTINF:-1, [I][B]PLANET COCUK[/B][/I]
+rtmp://77.223.146.117/live/planetc
+#EXTINF:-1, [I][B]PLANET COCUK Secenek 2[/B][/I]
+http://edge.ailetv.net/org1/planetcocuk_me/playlist.m3u8
+#EXTINF:-1, [I][B]CARTOON NETWORK[/B][/I]
+http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
+#EXTINF:-1, [I][B]MINIKA GO[/B][/I]
+http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
+#EXTINF:-1, [I][B]MINIKA COCUK[/B][/I]
+http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
+#EXTINF:-1, [I][B]CIZGI FILM TV[/B][/I]
+mmsh://yayin.networkbil.com/cizgifilmtv
+#EXTINF:-1, [I][B]TV4[/B][/I]
+http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:-1, [I][B]TV4 Secenek 2[/B][/I]
+http://origin.live.web.tv.streamprovider.net/streams/ffbc4ac453d1a5a599313cd0e2bdc50d/index.m3u8
 #EXTINF:-1,AR:---QURAN-TV----
 http://163.172.52.141:7200/live/majidi/majidi/544.ts
 #EXTINF:-1,AR:BEIN_SPORTS_1
