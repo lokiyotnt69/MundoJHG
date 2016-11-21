@@ -25,167 +25,34 @@ plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1261.t
 #EXTINF:-1,ANTENA3HD
 plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
 ***** SPAIN *****
-#EXTINF:-1,SP Viajar - SP Viajar
-http://ip.cs4ip.com:8000/live/raji/raji/1829.ts
-#EXTINF:-1,SP TVI Inter - SP TVI Inter
-http://ip.cs4ip.com:8000/live/raji/raji/1825.ts
-#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
-http://ip.cs4ip.com:8000/live/raji/raji/1824.ts
-#EXTINF:-1,SP TNT - SP TNT
-http://ip.cs4ip.com:8000/live/raji/raji/1823.ts
-#EXTINF:-1,SP Teledeporte - SP Teledeporte
-http://ip.cs4ip.com:8000/live/raji/raji/1822.ts
-#EXTINF:-1,SP Telecino - SP Telecino
-http://ip.cs4ip.com:8000/live/raji/raji/1821.ts
-#EXTINF:-1,TCM_SPAIN
-http://ip.cs4ip.com:8000/live/raji/raji/1890.ts
-#EXTINF:-1,SyFy_SPAIN
-http://ip.cs4ip.com:8000/live/raji/raji/1889.ts
-#EXTINF:-1,Sol_Musica_SPAIN
-http://ip.cs4ip.com:8000/live/raji/raji/1888.ts
-#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
-http://ip.cs4ip.com:8000/live/raji/raji/1827.ts
-#EXTINF:-1,SP NGC Wild - SP NGC Wild
-http://ip.cs4ip.com:8000/live/raji/raji/1851.ts
-#EXTINF:-1,SP NGC - SP NGC
-http://ip.cs4ip.com:8000/live/raji/raji/1852.ts
-#EXTINF:-1,SP Neox - SP Neox
-http://ip.cs4ip.com:8000/live/raji/raji/1830.ts
-#EXTINF:-1,SP MTV Espana - SP MTV Espana
-http://ip.cs4ip.com:8000/live/raji/raji/1850.ts
-#EXTINF:-1,SP Moto GP - SP Moto GP
-http://ip.cs4ip.com:8000/live/raji/raji/1867.ts
-#EXTINF:-1,SP Mezzo - SP Mezzo
-http://ip.cs4ip.com:8000/live/raji/raji/1861.ts
-#EXTINF:-1,SP Ltc - SP Ltc
-http://ip.cs4ip.com:8000/live/raji/raji/1866.ts
-#EXTINF:-1,SP La Sexta - SP La Sexta
-http://ip.cs4ip.com:8000/live/raji/raji/1846.ts
-#EXTINF:-1,SP La 2 - SP La 2
-http://ip.cs4ip.com:8000/live/raji/raji/1847.ts
-#EXTINF:-1,SP La 1 - SP La 1
-http://ip.cs4ip.com:8000/live/raji/raji/1854.ts
-#EXTINF:-1,SP Hollywood - SP Hollywood
-http://ip.cs4ip.com:8000/live/raji/raji/1855.ts
-#EXTINF:-1,SP Historia - SP Historia
-http://ip.cs4ip.com:8000/live/raji/raji/1856.ts
-#EXTINF:-1,SP Fox News - SP Fox News
-http://ip.cs4ip.com:8000/live/raji/raji/1857.ts
-#EXTINF:-1,SP FDF - SP FDF
-http://ip.cs4ip.com:8000/live/raji/raji/1858.ts
-#EXTINF:-1,SP Energy - SP Energy
-http://ip.cs4ip.com:8000/live/raji/raji/1864.ts
-#EXTINF:-1,SP Divinity - SP Divinity
-http://ip.cs4ip.com:8000/live/raji/raji/1863.ts
-#EXTINF:-1,SP Disney xd - SP Disney xd
-http://ip.cs4ip.com:8000/live/raji/raji/1862.ts
-#EXTINF:-1,SP Disney Ch - SP Disney Ch
-http://ip.cs4ip.com:8000/live/raji/raji/1820.ts
-#EXTINF:-1,SP Discovery - SP Discovery
-http://ip.cs4ip.com:8000/live/raji/raji/1837.ts
-#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
-http://ip.cs4ip.com:8000/live/raji/raji/1840.ts
-#EXTINF:-1,SP Cuatro - SP Cuatro
-http://ip.cs4ip.com:8000/live/raji/raji/1871.ts
-#EXTINF:-1,SP Comedy Central - SP Comedy Central
-http://ip.cs4ip.com:8000/live/raji/raji/1833.ts
-#EXTINF:-1,SP Comedia HD - SP Comedia HD
-http://ip.cs4ip.com:8000/live/raji/raji/1859.ts
-#EXTINF:-1,SP Classica - SP Classica
-http://ip.cs4ip.com:8000/live/raji/raji/1836.ts
-#EXTINF:-1,SP Clan TVe - SP Clan TVe
-http://ip.cs4ip.com:8000/live/raji/raji/1848.ts
-#EXTINF:-1,SP Canal Sur - SP Canal Sur
-http://ip.cs4ip.com:8000/live/raji/raji/1841.ts
-#EXTINF:-1,SP Canal Panda - SP Canal Panda
-http://ip.cs4ip.com:8000/live/raji/raji/1839.ts
-#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
-http://ip.cs4ip.com:8000/live/raji/raji/1842.ts
-#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
-http://ip.cs4ip.com:8000/live/raji/raji/1870.ts
-#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
-http://ip.cs4ip.com:8000/live/raji/raji/1869.ts
-#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
-http://ip.cs4ip.com:8000/live/raji/raji/1868.ts
-#EXTINF:-1,SP Calle 13 - SP Calle 13
-http://ip.cs4ip.com:8000/live/raji/raji/1843.ts
-#EXTINF:-1,SP C  Toros - SP C  Toros
-http://ip.cs4ip.com:8000/live/raji/raji/1828.ts
-#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
-http://ip.cs4ip.com:8000/live/raji/raji/1874.ts
-#EXTINF:-1,SP C  Series - SP C  Series
-http://ip.cs4ip.com:8000/live/raji/raji/1834.ts
-#EXTINF:-1,SP C  Liga - SP C  Liga
-http://ip.cs4ip.com:8000/live/raji/raji/1878.ts
-#EXTINF:-1,C+Golf _SPAIN
-http://ip.cs4ip.com:8000/live/raji/raji/1887.ts
-#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
-http://ip.cs4ip.com:8000/live/raji/raji/1832.ts
-#EXTINF:-1,C+Footbol_SPAIN
-http://ip.cs4ip.com:8000/live/raji/raji/1886.ts
-#EXTINF:-1,C+Estrenos_SPAIN
-http://ip.cs4ip.com:8000/live/raji/raji/1885.ts
-#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
-http://ip.cs4ip.com:8000/live/raji/raji/1882.ts
-#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
-http://ip.cs4ip.com:8000/live/raji/raji/1883.ts
-#EXTINF:-1,SP C  Deportes - SP C  Deportes
-http://ip.cs4ip.com:8000/live/raji/raji/1884.ts
-#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
-http://ip.cs4ip.com:8000/live/raji/raji/1838.ts
-#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
-http://ip.cs4ip.com:8000/live/raji/raji/1831.ts
-#EXTINF:-1,SP Boing - SP Boing
-http://ip.cs4ip.com:8000/live/raji/raji/1881.ts
-#EXTINF:-1,SP Bein Sports - SP Bein Sports
-http://ip.cs4ip.com:8000/live/raji/raji/1826.ts
-#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
-http://ip.cs4ip.com:8000/live/raji/raji/1845.ts
-#EXTINF:-1,SP Barca Tv - SP Barca Tv
-http://ip.cs4ip.com:8000/live/raji/raji/1860.ts
-#EXTINF:-1,SP Baby Tv - SP Baby Tv
-http://ip.cs4ip.com:8000/live/raji/raji/1844.ts
-#EXTINF:-1,SP AXN HD - SP AXN HD
-http://ip.cs4ip.com:8000/live/raji/raji/1853.ts
-#EXTINF:-1,SP Antena 3 - SP Antena 3
-http://ip.cs4ip.com:8000/live/raji/raji/1872.ts
-#EXTINF:-1,SP AMC - SP AMC
-http://ip.cs4ip.com:8000/live/raji/raji/1880.ts
-#EXTINF:-1,SP AE - SP AE
-http://ip.cs4ip.com:8000/live/raji/raji/1875.ts
-#EXTINF:-1,SP 40 TV - SP 40 TV
-http://ip.cs4ip.com:8000/live/raji/raji/1877.ts
-#EXTINF:-1,SP 24 Horas - SP 24 Horas
-http://ip.cs4ip.com:8000/live/raji/raji/1876.ts
-#EXTINF:-1,SP_TAQUILLA_1
-http://ip.cs4ip.com:8000/live/raji/raji/2621.ts
-#EXTINF:-1,SP_TAQUILLA_2
-http://ip.cs4ip.com:8000/live/raji/raji/2622.ts
-#EXTINF:-1,SP-TAQUILLA-3
-http://ip.cs4ip.com:8000/live/raji/raji/2623.ts
-#EXTINF:-1,SP_TAQUILLA_4
-http://ip.cs4ip.com:8000/live/raji/raji/2624.ts
-#EXTINF:-1,SP_TAQUILLA_5
-http://ip.cs4ip.com:8000/live/raji/raji/2625.ts
-#EXTINF:-1,SP_TAQUILLA_6
-http://ip.cs4ip.com:8000/live/raji/raji/2626.ts
-#EXTINF:-1,SP_TAQUILLA_7
-http://ip.cs4ip.com:8000/live/raji/raji/2627.ts
-#EXTINF:-1,SP_TAQUILLA_8
-http://ip.cs4ip.com:8000/live/raji/raji/2628.ts
-#EXTINF:-1,SP_TAQUILLA_9
-http://ip.cs4ip.com:8000/live/raji/raji/2629.ts
-#EXTINF:-1,SP_TAQUILLA_10
-http://ip.cs4ip.com:8000/live/raji/raji/2630.ts
-#EXTINF:-1,TAQUILLA_11_HD
-http://ip.cs4ip.com:8000/live/raji/raji/2658.ts
-#EXTINF:-1,TAQUILLA_12_HD
-http://ip.cs4ip.com:8000/live/raji/raji/2659.ts
-#EXTINF:-1,TAQUILLA_13_HD
-http://ip.cs4ip.com:8000/live/raji/raji/2660.ts
-#EXTINF:-1,TAQUILLA_14_HD
-http://ip.cs4ip.com:8000/live/raji/raji/2661.ts
-#EXTINF:-1,TAQUILLA_15_HD
-http://ip.cs4ip.com:8000/live/raji/raji/2662.ts
-#EXTINF:-1,TAQUILLA_16_HD
-http://ip.cs4ip.com:8000/live/raji/raji/2663.ts
+#EXTINF:-1,[COLOR white][I][B]-------------ALEMANIA--------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,Fox HD
+http://80.255.12.5:8000/3
+#EXTINF:-1,Nat Geo Wild HD
+http://80.255.12.5:8000/2
+#EXTINF:-1,Syfy HD
+http://80.255.12.5:8000/4
+#EXTINF:-1,AXN HD
+http://80.255.12.5:8000/5
+#EXTINF:-1,Spiesel TV
+http://80.255.12.5:8000/7
+#EXTINF:-1,Sport1+HD
+http://80.255.12.5:8000/6
+#EXTINF:-1,CN
+http://80.255.12.5:8000/8
+#EXTINF:-1,MTV
+http://80.255.12.5:8000/9
+#EXTINF:-1,Disney Cinemagic
+http://80.255.12.5:8000/10
+#EXTINF:-1,Nat Geo HD
+http://80.255.12.5:8000/11
+#EXTINF:-1,13StreetHD
+http://80.255.12.5:8000/12
+#EXTINF:-1,TNT Serie
+http://80.255.12.5:8000/15
+#EXTINF:-1,PLANET
+http://80.255.12.5:8000/13
+#EXTINF:-1,TNT Film
+http://80.255.12.5:8000/14
+#EXTINF:-1,Boomerang
+http://80.255.12.5:8000/16
