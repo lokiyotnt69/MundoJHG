@@ -1,178 +1,156 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,IT: SPORTITALIA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1531.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: REAL TIME
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1528.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: MEDIASET 1
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1525.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: MEDIASET 5
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1524.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: MEDIASET EXTRA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1391.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: GIALLO
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1526.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: CIELO
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1527.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT:  RSI LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1186.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RSI LA 2 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1187.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RETE 4 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1400.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1388.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: NAT GEO PEOPLE HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1389.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1394.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: IRIS MEDIASET
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1392.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1390.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: GAMBERO ROSSO HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1402.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: FINE LIVING
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1403.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: DISCOVERY TRAVELl
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1396.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI 1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/190.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI 2 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/191.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI 3 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/203.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI 4 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/364.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI 5
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/299.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI NEWS 24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/440.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI PREMIUM
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/439.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI GULP
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/441.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI STORIA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1518.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI YOYO
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1397.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI SCUOLA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1399.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI MOVIE
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1398.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI SPORT 1
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1329.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: RAI SPORT 2
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1330.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: LA 5
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1529.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: LA 7 D
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/365.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: LA 7 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/205.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA PASSION HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/206.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA CLASSIC HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/208.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA MAX 1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/294.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA 1
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/296.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA 24 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/192.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA HITS
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1520.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CINEMA COMEDY
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1521.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY SPORT 1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/295.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY SPORT 2
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1327.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY SPORT 24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1523.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY MOTO GP
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1522.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT : SKY SPORT F1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/189.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY SUPER TENNIS HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/322.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY UNO HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/305.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY TG24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1401.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: FOX HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/379.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: FOX COMEDY
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1519.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/382.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/326.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO 1 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/323.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO 2 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/324.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO 3 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/385.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO 4 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/325.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO 5 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/386.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: SKY CALCIO 6 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/387.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM JOI
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/274.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM STORIES
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/273.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CRIME
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/271.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CRIME  24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/272.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA EMOTION
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/267.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA 1
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/263.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA 1  24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/264.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA 2
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/265.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA 2  24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/266.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM ACTION
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/269.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM ACTION  24
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/270.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM SPORT HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/204.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/218.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA ENERGY
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/219.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CINEMA COMEDY
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/220.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/217.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 1HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/300.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 2 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/301.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 3 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/302.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 6 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 7 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/427.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 8 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/431.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 9 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/428.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PRIMAFILA 11 HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/430.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CALCIO 1
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/443.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,IT: PREMIUM CALCIO 3
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/445.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]+
+#EXTINF:-1,-===SkyIT-Italian_Channels===-
+http://148.251.1.69:8000/live/ranzy/ranzy/1360.ts
+#EXTINF:-1,IT-Sky_Primafila_1_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12805.ts
+#EXTINF:-1,IT-Sky_Primafila_2 _HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12806.ts
+#EXTINF:-1,IT-Sky_Primafila_3_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12807.ts
+#EXTINF:-1,IT-Sky_Primafila_4_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12808.ts
+#EXTINF:-1,IT-Sky_Primafila_5_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12809.ts
+#EXTINF:-1,IT-Sky_Primafila_6_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12810.ts
+#EXTINF:-1,IT-Sky_Primafila_7_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12811.ts
+#EXTINF:-1,IT-Sky_Primafila_8_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12812.ts
+#EXTINF:-1,IT-Sky_Primafila_9_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12813.ts
+#EXTINF:-1,IT-Sky_Primafila_10_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/12814.ts
+#EXTINF:-1,IT-Sky_Atlantic_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8702.ts
+#EXTINF:-1,IT-Sky_Cinema_1_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8703.ts
+#EXTINF:-1,IT-Sky_Cinema_Classic_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8708.ts
+#EXTINF:-1,IT-Sky_Cinema_Comedy_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8707.ts
+#EXTINF:-1,IT-Sky_Cinema_Cult_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8709.ts
+#EXTINF:-1,IT-Sky_Cinema_Family_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8706.ts
+#EXTINF:-1,IT-Sky_Cinema_3D
+http://148.251.1.69:8000/live/ranzy/ranzy/8705.ts
+#EXTINF:-1,IT-SKY_CINEMA_MAX_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8704.ts
+#EXTINF:-1,IT-Sky_Cinema_Passion_ HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8710.ts
+#EXTINF:-1,IT-CinemaClassic_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8403.ts
+#EXTINF:-1,IT-Sky_CINEMA_24_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8700.ts
+#EXTINF:-1,IT-Sky_Uno_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8701.ts
+#EXTINF:-1,IT-AXN_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8221.ts
+#EXTINF:-1,IT-Caccia_e_Pesca
+http://148.251.1.69:8000/live/ranzy/ranzy/8699.ts
+#EXTINF:-1,IT-Sky_Sport_HD1
+http://148.251.1.69:8000/live/ranzy/ranzy/8681.ts
+#EXTINF:-1,IT-Sky_Sport_HD2
+http://148.251.1.69:8000/live/ranzy/ranzy/8682.ts
+#EXTINF:-1,IT-Sky_Sport_HD3
+http://148.251.1.69:8000/live/ranzy/ranzy/8683.ts
+#EXTINF:-1,IT-Sky_Calcio_1_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8698.ts
+#EXTINF:-1,IT-Sky_Calcio_2_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8697.ts
+#EXTINF:-1,IT-Sky_Calcio_3_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8696.ts
+#EXTINF:-1,IT-Sky_Calcio_4_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8213.ts
+#EXTINF:-1,IT-Sky_Calcio_5_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8215.ts
+#EXTINF:-1,IT-Sky_Calcio_6_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8216.ts
+#EXTINF:-1,IT-Sky_Calcio_7_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8217.ts
+#EXTINF:-1,IT-Sky_Formula_1_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8219.ts
+#EXTINF:-1,IT-Super_Tennis_HD
+http://148.251.1.69:8000/live/ranzy/ranzy/8214.ts
+#EXTINF:-1,IT-Disney_XD
+http://148.251.1.69:8000/live/ranzy/ranzy/8218.ts
+#EXTINF:-1,IT-DisneyJunior
+http://148.251.1.69:8000/live/ranzy/ranzy/8400.ts
+#EXTINF:-1,IT-CARTOON_NETWORK
+http://148.251.1.69:8000/live/ranzy/ranzy/8220.ts
+#EXTINF:-1,IT-Foxlife
+http://148.251.1.69:8000/live/ranzy/ranzy/8397.ts
+#EXTINF:-1,IT-Foxcrime
+http://148.251.1.69:8000/live/ranzy/ranzy/8398.ts
+#EXTINF:-1,IT-FoxAnimation
+http://148.251.1.69:8000/live/ranzy/ranzy/8399.ts
+#EXTINF:-1,IT-NatGeo
+http://148.251.1.69:8000/live/ranzy/ranzy/8119.ts
+#EXTINF:-1,IT-NatGeoWild
+http://148.251.1.69:8000/live/ranzy/ranzy/8395.ts
+#EXTINF:-1,IT-Discovery
+http://148.251.1.69:8000/live/ranzy/ranzy/8402.ts
+#EXTINF:-1,IT-DiscoverySc
+http://148.251.1.69:8000/live/ranzy/ranzy/8401.ts
+#EXTINF:-1,IT-Cielo
+http://148.251.1.69:8000/live/ranzy/ranzy/8404.ts
+#EXTINF:-1,IT-Tsn
+http://148.251.1.69:8000/live/ranzy/ranzy/8001.ts
+#EXTINF:-1,IT-Tsn2
+http://148.251.1.69:8000/live/ranzy/ranzy/8000.ts
+#EXTINF:-1,IT-Tv2000
+http://148.251.1.69:8000/live/ranzy/ranzy/7999.ts
+#EXTINF:-1,IT-Mediaset1
+http://148.251.1.69:8000/live/ranzy/ranzy/8396.ts
+#EXTINF:-1,IT-PremiumStories
+http://148.251.1.69:8000/live/ranzy/ranzy/8405.ts
+#EXTINF:-1,IT-PremiumSport
+http://148.251.1.69:8000/live/ranzy/ranzy/8406.ts
+#EXTINF:-1,IT-PremiumEnergy
+http://148.251.1.69:8000/live/ranzy/ranzy/8407.ts
+#EXTINF:-1,IT-PremiumEmotion
+http://148.251.1.69:8000/live/ranzy/ranzy/8408.ts
+#EXTINF:-1,IT-PremiumCrime24
+http://148.251.1.69:8000/live/ranzy/ranzy/8212.ts
+#EXTINF:-1,IT-PremiumComedy
+http://148.251.1.69:8000/live/ranzy/ranzy/8120.ts
+#EXTINF:-1,IT-PremiumCinema24
+http://148.251.1.69:8000/live/ranzy/ranzy/8409.ts
+#EXTINF:-1,IT-PremiumCinema2
+http://148.251.1.69:8000/live/ranzy/ranzy/8410.ts
+#EXTINF:-1,IT-PremiumCinema
+http://148.251.1.69:8000/live/ranzy/ranzy/8411.ts
+#EXTINF:-1,IT-PremiumAction24
+http://148.251.1.69:8000/live/ranzy/ranzy/8412.ts
+#EXTINF:-1,IT-PremiumAction
+http://148.251.1.69:8000/live/ranzy/ranzy/8413.ts
+#EXTINF:-1,IT-Rai1
+http://148.251.1.69:8000/live/ranzy/ranzy/8233.ts
+#EXTINF:-1,IT-Rai2
+http://148.251.1.69:8000/live/ranzy/ranzy/8234.ts
+#EXTINF:-1,IT-Rai3
+http://148.251.1.69:8000/live/ranzy/ranzy/8235.ts
+#EXTINF:-1,IT-Rai4
+http://148.251.1.69:8000/live/ranzy/ranzy/8123.ts
+#EXTINF:-1,IT-Rai5
+http://148.251.1.69:8000/live/ranzy/ranzy/8231.ts
+#EXTINF:-1,IT-RaiGulp
+http://148.251.1.69:8000/live/ranzy/ranzy/8003.ts
+#EXTINF:-1,IT-RaiYoyo
+http://148.251.1.69:8000/live/ranzy/ranzy/8129.ts
+#EXTINF:-1,IT-RaiMovie
+http://148.251.1.69:8000/live/ranzy/ranzy/8232.ts
+#EXTINF:-1,IT-RaiStoria
+http://148.251.1.69:8000/live/ranzy/ranzy/8128.ts
+#EXTINF:-1,IT-RaiScuola
+http://148.251.1.69:8000/live/ranzy/ranzy/8125.ts
+#EXTINF:-1,IT-RaiPremium
+http://148.251.1.69:8000/live/ranzy/ranzy/8124.ts
+#EXTINF:-1,IT-La3
+http://148.251.1.69:8000/live/ranzy/ranzy/7995.ts
+#EXTINF:-1,IT-La6
+http://148.251.1.69:8000/live/ranzy/ranzy/7994.ts
+#EXTINF:-1,IT-La7
+http://148.251.1.69:8000/live/ranzy/ranzy/7993.ts
