@@ -25,4 +25,13 @@ plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1260.t
 plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1261.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,ANTENA3HD
 plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-
+#EXTINF:-1,CANAL SPORT
+http://sutverduz.com:8080/live/clinecenter.com/2211/917.ts
+#EXTINF:-1,CANAL LIGA HD
+http://sutverduz.com:8080/live/clinecenter.com/2211/921.ts
+#EXTINF:-1,CANAL GOLF HD
+http://sutverduz.com:8080/live/clinecenter.com/2211/920.ts
+#EXTINF:-1,CANAL FUTBALL HD
+http://sutverduz.com:8080/live/clinecenter.com/2211/919.ts
+#EXTINF:-1,CANAL DEPORTES HD
+http://sutverduz.com:8080/live/clinecenter.com/2211/918.ts
