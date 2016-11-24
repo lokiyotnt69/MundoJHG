@@ -1,213 +1,141 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,BARÇA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/102.m3u8
-#EXTINF:-1,BARÇA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/hls2/102.m3u8
-#EXTINF:-1,BEIN SPORTS
-http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/01.m3u8
-#EXTINF:-1,BEIN SPORTS
-http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/02.m3u8
-#EXTINF:-1,BEIN SPORTS ESPAÑOL
-http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/03.m3u8
-#EXTINF:-1,BEIN SPORTS ESPAÑOL
-http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/04.m3u8
 
 
-#EXTINF:1,Divinity
-http://88.148.69.129:9090/play/a01m
-#EXTINF:1,Radio Nacional Murcia
-http://88.148.69.129:9090/play/a018
-#EXTINF:1,PARAMOUNT CHANNEL
-http://88.148.69.129:9090/play/a01b
-#EXTINF:1,Canal Panda
-http://88.148.69.129:9090/play/a00e
-#EXTINF:1,FDF
-http://88.148.69.129:9090/play/a01l
-#EXTINF:1,Cuatro HD
-http://88.148.69.129:9090/play/a01o
-#EXTINF:1,RADIO MARIA
-http://88.148.69.129:9090/play/a01h
-#EXTINF:1,TV AUT PRIVADA
-http://88.148.69.129:9090/play/a00s
-#EXTINF:1,RADIO MARCA
-http://88.148.69.129:9090/play/a01e
-#EXTINF:1,nova
-http://88.148.69.129:9090/play/a01u
-#EXTINF:1,BeMad TV HD
-http://88.148.69.129:9090/play/a024
-#EXTINF:1,La 2
-http://88.148.69.129:9090/play/a014
-#EXTINF:1,A&E
-http://88.148.69.129:9090/play/a00o
-#EXTINF:1,Sky Sports 1 SD
-http://88.148.69.129:9090/play/a02h
-#EXTINF:1,EUROPA FM
-http://88.148.69.129:9090/play/a00x
-#EXTINF:1,Realmadrid TV HD
-http://88.148.69.129:9090/play/a02g
-#EXTINF:1,Energy
-http://88.148.69.129:9090/play/a011
-#EXTINF:1,Radio 5
-http://88.148.69.129:9090/play/a019
-#EXTINF:1,La 1
-http://88.148.69.129:9090/play/a013
-#EXTINF:1,TVM
-http://88.148.69.129:9090/play/a00t
-#EXTINF:1,La 1 HD.
-http://88.148.69.129:9090/play/a017
-#EXTINF:1,Radio Clasica HQ
-http://88.148.69.129:9090/play/a01x
-#EXTINF:1,Buzz Rojo
-http://88.148.69.129:9090/play/a00d
-#EXTINF:1,Kiss FM
-http://88.148.69.129:9090/play/a021
-#EXTINF:1,DKISS
-http://88.148.69.129:9090/play/a020
-#EXTINF:1,PopularTV
-http://88.148.69.129:9090/play/a00u
-#EXTINF:1,Sol Música
-http://88.148.69.129:9090/play/a00f
-#EXTINF:1,CI
-http://88.148.69.129:9090/play/a00m
-#EXTINF:1,Sundance Channel
-http://88.148.69.129:9090/play/a00l
-#EXTINF:1,24h
-http://88.148.69.129:9090/play/a015
-#EXTINF:1,Vaughan Radio
-http://88.148.69.129:9090/play/a01f
-#EXTINF:1,GOL
-http://88.148.69.129:9090/play/a01d
-#EXTINF:1,TEN
-http://88.148.69.129:9090/play/a022
-#EXTINF:1,7RM
-http://88.148.69.129:9090/play/a00p
-#EXTINF:1,Somos
-http://88.148.69.129:9090/play/a00g
-#EXTINF:1,Boing
-http://88.148.69.129:9090/play/a012
-#EXTINF:1,@Onda Regional
-http://88.148.69.129:9090/play/a00q
-#EXTINF:1,laSexta
-http://88.148.69.129:9090/play/a01s
-#EXTINF:1,neox
-http://88.148.69.129:9090/play/a01t
-#EXTINF:1,Telecinco
-http://88.148.69.129:9090/play/a01j
-#EXTINF:1,Telecinco HD
-http://88.148.69.129:9090/play/a01n
-#EXTINF:1,CADENA 100
-http://88.148.69.129:9090/play/a01g
-#EXTINF:1,Radio Exterior RNE
-http://88.148.69.129:9090/play/a01z
-#EXTINF:1,antena3
-http://88.148.69.129:9090/play/a01q
-#EXTINF:1,Clan
-http://88.148.69.129:9090/play/a016
-#EXTINF:1,COPE definitivo
-http://88.148.69.129:9090/play/a010
-#EXTINF:1,Radio 3 HQ
-http://88.148.69.129:9090/play/a01y
-#EXTINF:1,7RM HD
-http://88.148.69.129:9090/play/a00r
-#EXTINF:1,Cuatro
-http://88.148.69.129:9090/play/a01k
-#EXTINF:1,antena3 HD
-http://88.148.69.129:9090/play/a01p
-#EXTINF:1,MELODIA FM
-http://88.148.69.129:9090/play/a00y
-#EXTINF:1,13 Tv Definitivo
-http://88.148.69.129:9090/play/a00z
-#EXTINF:1,mega
-http://88.148.69.129:9090/play/a00v
-#EXTINF:1,TDP HD
-http://88.148.69.129:9090/play/a01w
-#EXTINF:1,Disney Channel
-http://88.148.69.129:9090/play/a01a
-#EXTINF:1,ONDA CERO
-http://88.148.69.129:9090/play/a00w
-#EXTINF:1,esRadio
-http://88.148.69.129:9090/play/a01i
-#EXTINF:1,Atreseries HD
-http://88.148.69.129:9090/play/a023
-#EXTINF:1,laSexta HD
-http://88.148.69.129:9090/play/a01r
-#EXTINF:1,TDP
-http://88.148.69.129:9090/play/a01v
-#EXTINF:1,Discovery MAX
-http://88.148.69.129:9090/play/a01c
-#EXTINF:-1,SPA:TNT
-http://foxiptv.stream.tf:5050/live/123456/123456/586.ts
-#EXTINF:-1,SPA:National GEO
-http://foxiptv.stream.tf:5050/live/123456/123456/590.ts
-#EXTINF:-1,SPA:MoviStar MotoGP
-http://foxiptv.stream.tf:5050/live/123456/123456/587.ts
-#EXTINF:-1,SPA:Fox Life
-http://foxiptv.stream.tf:5050/live/123456/123456/588.ts
-#EXTINF:-1,SPA:Fox
-http://foxiptv.stream.tf:5050/live/123456/123456/589.ts
-#EXTINF:-1,SPA:Comedy
-http://foxiptv.stream.tf:5050/live/123456/123456/592.ts
-#EXTINF:-1,SPA:CANAL HD
-http://foxiptv.stream.tf:5050/live/123456/123456/591.ts
-#EXTINF:-1,SPA:Canal Decasa
-http://foxiptv.stream.tf:5050/live/123456/123456/593.ts
-#EXTINF:-1,SPA:C Seriesxtra
-http://foxiptv.stream.tf:5050/live/123456/123456/594.ts
-#EXTINF:-1,SPA:C  Estrenos
-http://foxiptv.stream.tf:5050/live/123456/123456/595.ts
-#EXTINF:-1,SPA:C   DCINE
-http://foxiptv.stream.tf:5050/live/123456/123456/596.ts
-#EXTINF:-1,SPA: Canal  Toros
-http://foxiptv.stream.tf:5050/live/123456/123456/597.ts
-#EXTINF:-1,SPA: CANAL  FUTBOL
-http://foxiptv.stream.tf:5050/live/123456/123456/598.ts
-#EXTINF:-1,SPA-NAT GEO WILD
-http://foxiptv.stream.tf:5050/live/123456/123456/599.ts
-#EXTINF:-1,SPA-MOVISTAR F1
-http://foxiptv.stream.tf:5050/live/123456/123456/601.ts
-#EXTINF:-1,SPA-Hollywood Spain
-http://foxiptv.stream.tf:5050/live/123456/123456/600.ts
-#EXTINF:-1,SPA-disney jr
-http://foxiptv.stream.tf:5050/live/123456/123456/602.ts
-#EXTINF:-1,SPA-Cuatro
-http://foxiptv.stream.tf:5050/live/123456/123456/603.ts
-#EXTINF:-1,SPA-CANAL DEPORTE
-http://foxiptv.stream.tf:5050/live/123456/123456/604.ts
-#EXTINF:-1,SPA-canal  action
-http://foxiptv.stream.tf:5050/live/123456/123456/605.ts
-#EXTINF:-1,SPA-Canal   Liga
-http://foxiptv.stream.tf:5050/live/123456/123456/606.ts
-#EXTINF:-1,SPA-Canal   Dcine
-http://foxiptv.stream.tf:5050/live/123456/123456/607.ts
-#EXTINF:-1,SPA-Barca TV
-http://foxiptv.stream.tf:5050/live/123456/123456/608.ts
-#EXTINF:-1,SPA-AXN White Spain
-http://foxiptv.stream.tf:5050/live/123456/123456/609.ts
-#EXTINF:-1,SPA-AXN Spain
-http://foxiptv.stream.tf:5050/live/123456/123456/610.ts
+***** SPAIN *****
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://iptv.re/live/george/george/1785.ts
+#EXTINF:-1,ES: BEIN LA LIGA
+http://iptv.re/live/george/george/2516.ts
+#EXTINF:-1,ES: CANAL LIGA HD 2
+http://iptv.re/live/george/george/2517.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://iptv.re/live/george/george/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://iptv.re/live/george/george/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://iptv.re/live/george/george/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://iptv.re/live/george/george/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://iptv.re/live/george/george/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://iptv.re/live/george/george/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://iptv.re/live/george/george/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://iptv.re/live/george/george/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://iptv.re/live/george/george/1915.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://iptv.re/live/george/george/1765.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://iptv.re/live/george/george/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://iptv.re/live/george/george/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://iptv.re/live/george/george/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://iptv.re/live/george/george/2522.ts
+#EXTINF:-1,ES: CUATRO HD
+http://iptv.re/live/george/george/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://iptv.re/live/george/george/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://iptv.re/live/george/george/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://iptv.re/live/george/george/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://iptv.re/live/george/george/2426.ts
+#EXTINF:-1,ES: CANAL MUSICA
+http://iptv.re/live/george/george/2428.ts
+#EXTINF:-1,ES: Canal Cocina
+http://iptv.re/live/george/george/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptv.re/live/george/george/2445.ts
 #EXTINF:-1,ES: TELECINCO
-http://foxiptv.stream.tf:5050/live/123456/123456/575.ts
+http://iptv.re/live/george/george/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://iptv.re/live/george/george/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://iptv.re/live/george/george/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://iptv.re/live/george/george/1907.ts
+#EXTINF:-1,ES: TCM
+http://iptv.re/live/george/george/2528.ts
 #EXTINF:-1,ES: REAL MADRID TV
-http://foxiptv.stream.tf:5050/live/123456/123456/576.ts
-#EXTINF:-1,ES: LA SEXTA
-http://foxiptv.stream.tf:5050/live/123456/123456/577.ts
-#EXTINF:-1,ES: LA 2
-http://foxiptv.stream.tf:5050/live/123456/123456/578.ts
-#EXTINF:-1,ES: LA 1
-http://foxiptv.stream.tf:5050/live/123456/123456/579.ts
-#EXTINF:-1,ES: FOX MOVIE HD
-http://foxiptv.stream.tf:5050/live/123456/123456/580.ts
-#EXTINF:-1,ES: CANAL Odesia
-http://foxiptv.stream.tf:5050/live/123456/123456/581.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://foxiptv.stream.tf:5050/live/123456/123456/582.ts
-#EXTINF:-1,ES: CANAL   1
-http://foxiptv.stream.tf:5050/live/123456/123456/583.ts
-#EXTINF:-1,ES: CALLE 13
-http://foxiptv.stream.tf:5050/live/123456/123456/584.ts
-#EXTINF:-1,Es: ANTENA3
-http://foxiptv.stream.tf:5050/live/123456/123456/585.ts
+http://iptv.re/live/george/george/2436.ts
+#EXTINF:-1,ES: MEGA
+http://iptv.re/live/george/george/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://iptv.re/live/george/george/1909.ts
+#EXTINF:-1,ES: La 2
+http://iptv.re/live/george/george/2532.ts
+#EXTINF:-1,ES: La 1
+http://iptv.re/live/george/george/2531.ts
+#EXTINF:-1,ES: HUESCA TV
+http://iptv.re/live/george/george/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://iptv.re/live/george/george/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE Ñ
+http://iptv.re/live/george/george/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://iptv.re/live/george/george/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://iptv.re/live/george/george/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://iptv.re/live/george/george/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://iptv.re/live/george/george/1793.ts
+#EXTINF:-1,ES: FOX
+http://iptv.re/live/george/george/1790.ts
+#EXTINF:-1,ES: History
+http://iptv.re/live/george/george/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://iptv.re/live/george/george/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://iptv.re/live/george/george/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://iptv.re/live/george/george/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://iptv.re/live/george/george/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://iptv.re/live/george/george/2435.ts
+#EXTINF:-1,ES: AMC
+http://iptv.re/live/george/george/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://iptv.re/live/george/george/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://iptv.re/live/george/george/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://iptv.re/live/george/george/2422.ts
+#EXTINF:-1,ES: Axn White
+http://iptv.re/live/george/george/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://iptv.re/live/george/george/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://iptv.re/live/george/george/1923.ts
+#EXTINF:-1,ES: TVE3
+http://iptv.re/live/george/george/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://iptv.re/live/george/george/1918.ts
+#EXTINF:-1,ES: TVE
+http://iptv.re/live/george/george/2420.ts
+#EXTINF:-1,ES: TNT HD
+http://iptv.re/live/george/george/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://iptv.re/live/george/george/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://iptv.re/live/george/george/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://iptv.re/live/george/george/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://iptv.re/live/george/george/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://iptv.re/live/george/george/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://iptv.re/live/george/george/1921.ts
+
 
 ***** SPAIN *****
 #EXTINF:-1,TELECINCOHD
