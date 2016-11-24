@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 ***** SPAIN *****
-
-
-***** SPAIN *****
 #EXTINF:-1,TELECINCOHD
 plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,LASEXTA
