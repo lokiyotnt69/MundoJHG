@@ -1,1765 +1,989 @@
 #EXTM3U
-#EXTINF:-1,ES:Syfy_HD
-http://iptv.doctor-load.info:8000/live/zina/zina/533.ts
-#EXTINF:-1,ES:NOVA
-http://iptv.doctor-load.info:8000/live/zina/zina/432.ts
-#EXTINF:-1,ES:Nat-Geographic
-http://iptv.doctor-load.info:8000/live/zina/zina/433.ts
-#EXTINF:-1,ES:MEGA_HD
-http://iptv.doctor-load.info:8000/live/zina/zina/534.ts
-#EXTINF:-1,ES:CALLE 13
-http://iptv.doctor-load.info:8000/live/zina/zina/434.ts
-#EXTINF:-1,ES:MOVISTAR DCINE
-http://iptv.doctor-load.info:8000/live/zina/zina/436.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA
-http://iptv.doctor-load.info:8000/live/zina/zina/437.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA
-http://iptv.doctor-load.info:8000/live/zina/zina/435.ts
-#EXTINF:-1,ES:AXN
-http://iptv.doctor-load.info:8000/live/zina/zina/438.ts
-#EXTINF:-1,USA:FIGHT-SPORT
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2277.ts
-#EXTINF:-1,USA:CA | TSN 5*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/96.ts
-#EXTINF:-1,USA:CA | TSN 4 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/95.ts
-#EXTINF:-1,USA:CA | TSN 3*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/94.ts
-#EXTINF:-1,USA:CA | TSN 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/93.ts
-#EXTINF:-1,USA:CA | TSN 1*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/92.ts
-#EXTINF:-1,USA:CA | Sportsnet 360 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/97.ts
-#EXTINF:-1,USA: TBS HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/138.ts
-#EXTINF:-1,USA: ESPN 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/121.ts
-#EXTINF:-1,USA | WWE HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2.ts
-#EXTINF:-1,USA | Versus HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/398.ts
-#EXTINF:-1,USA | TLC HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/86.ts
-#EXTINF:-1,USA | Poker Central
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/88.ts
-#EXTINF:-1,USA | PAC-12 Washington
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/397.ts
-#EXTINF:-1,USA | PAC-12 Oregon
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/395.ts
-#EXTINF:-1,USA | PAC-12 Los Angeles
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/394.ts
-#EXTINF:-1,USA | PAC-12 Bay Area
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/393.ts
-#EXTINF:-1,USA | PAC-12 Arizona
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/392.ts
-#EXTINF:-1,USA | NFL Network HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/90.ts
-#EXTINF:-1,USA | NBCSN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/98.ts
-#EXTINF:-1,USA | Nat Geo Wild
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/81.ts
-#EXTINF:-1,USA | Fox Sports 2 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/13.ts
-#EXTINF:-1,USA | Fox Sports 1 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/14.ts
-#EXTINF:-1,USA | ESPN
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/189.ts
-#EXTINF:-1,USA | A&E HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/50.ts
-#EXTINF:-1,USA TNT HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/122.ts
-#EXTINF:-1,USA SYFY HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/124.ts
-#EXTINF:-1,USA NICKELODEN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/891.ts
-#EXTINF:-1,USA Network (US)
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/892.ts
-#EXTINF:-1,USA HISTORY HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/895.ts
-#EXTINF:-1,USA FOX NEWS HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/127.ts
-#EXTINF:-1,USA ESPN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/129.ts
-#EXTINF:-1,USA CW HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/140.ts
-#EXTINF:-1,USA COMEDY CENTRAL HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/141.ts
-#EXTINF:-1,USA: CNN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/142.ts
-#EXTINF:-1,USA CBS
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/131.ts
-#EXTINF:-1,USA : CARTOON NETWORK
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/15.ts
-#EXTINF:-1,USA BRAVO HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/128.ts
-#EXTINF:-1,USA: ANIMAL PLANET HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/132.ts
-#EXTINF:-1,USA ABC NEWS HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/135.ts
-#EXTINF:-1,USA ABC HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/136.ts
-#EXTINF:-1,USA : Tennis Channel HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2453.ts
-#EXTINF:-1,USA : HBO Zone
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2454.ts
-#EXTINF:-1,USA : HBO Signature
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2458.ts
-#EXTINF:-1,USA : HBO HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2455.ts
-#EXTINF:-1,USA : HBO East
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2456.ts
-#EXTINF:-1,USA : HBO Comedy
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2457.ts
-#EXTINF:-1,USA : FXX
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2452.ts
-#EXTINF:-1,USA : DW
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2901.ts
-#EXTINF:-1,USA : DISCCOVERY HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/139.ts
-#EXTINF:-1,USA : CBSN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2222.ts
-#EXTINF:-1,USA : BYU TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/164.ts
-#EXTINF:-1,USA : AMC HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/179.ts
-#EXTINF:-1,US:Sports-Net
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2279.ts
-#EXTINF:-1,US:MelloTV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2281.ts
-#EXTINF:-1,US: USA Network HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1096.ts
-#EXTINF:-1,US: STARZ EDGE HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1097.ts
-#EXTINF:-1,US: SPIKE HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1092.ts
-#EXTINF:-1,US: NICKELODEN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1076.ts
-#EXTINF:-1,US: NBC Extra Time HD1 ( During Games Only )
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1094.ts
-#EXTINF:-1,US: National Geographic
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1095.ts
-#EXTINF:-1,US: HIFI
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1105.ts
-#EXTINF:-1,US: HALLMARK
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1098.ts
-#EXTINF:-1,US: H2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1099.ts
-#EXTINF:-1,US: FX HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1075.ts
-#EXTINF:-1,US: FreeRom HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1077.ts
-#EXTINF:-1,US: FOXX HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1078.ts
-#EXTINF:-1,US: Food Network HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1079.ts
-#EXTINF:-1,US: DIY Network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1100.ts
-#EXTINF:-1,US: Discovery Science HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1080.ts
-#EXTINF:-1,US: Cinemax East
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1101.ts
-#EXTINF:-1,USA: SEC Network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3244.ts
-#EXTINF:-1,USA: MSNBC HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3245.ts
-#EXTINF:-1,USA : CNBC
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3246.ts
-#EXTINF:-1,USA : Fight HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3632.ts
-#EXTINF:-1,USA: NHL Network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3474.ts
-#EXTINF:-1,USA: NFL Sunday Ticket 5 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3475.ts
-#EXTINF:-1,USA: NFL Sunday Ticket 4 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3476.ts
-#EXTINF:-1,USA: MLB Network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3477.ts
-#EXTINF:-1,USA | Amazing Discoveries HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3494.ts
-#EXTINF:-1,USA NBC Golf
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3485.ts
-#EXTINF:-1,USA Investigation Discovery
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3486.ts
-#EXTINF:-1,USA : TV Land
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3478.ts
-#EXTINF:-1,USA : Starz Encore
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3487.ts
-#EXTINF:-1,USA : Starz East
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3488.ts
-#EXTINF:-1,USA : Starz Comedy
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3489.ts
-#EXTINF:-1,USA : Starz Cinema
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3490.ts
-#EXTINF:-1,USA : Showtime West
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3491.ts
-#EXTINF:-1,USA : SHOWTIME HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3492.ts
-#EXTINF:-1,USA : Showtime 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3493.ts
-#EXTINF:-1,USA : NBA TV HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3484.ts
-#EXTINF:-1,USA : Mov HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3479.ts
-#EXTINF:-1,USA : GSN HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3480.ts
-#EXTINF:-1,USA : Discovery Velocity
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3481.ts
-#EXTINF:-1,USA : Axn HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3482.ts
-#EXTINF:-1,USA : Axn Black HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3483.ts
-#EXTINF:-1,US: Cinemax ActionMax East
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1102.ts
-#EXTINF:-1,US: Cinemax 5 StarMax
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1103.ts
-#EXTINF:-1,US: BTN Sport HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1081.ts
-#EXTINF:-1,US: Bein Sports USA HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1104.ts
-#EXTINF:-1,US: AFN SPORTS HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1082.ts
-#EXTINF:-1,US: AFN SPORTS 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1083.ts
-#EXTINF:-1,US: AFN SPORTS
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1084.ts
-#EXTINF:-1,US: AFN SPECTRUM
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1088.ts
-#EXTINF:-1,US: AFN PULSE
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1085.ts
-#EXTINF:-1,US: AFN PRIME PACIFIC
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1086.ts
-#EXTINF:-1,US: AFN PRIME ATLANTIC
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1087.ts
-#EXTINF:-1,US: AFN NEWS
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1089.ts
-#EXTINF:-1,US: AFN MOVIE
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1090.ts
-#EXTINF:-1,US: ABC FAMILY
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1091.ts
-#EXTINF:-1,UK:True Movies 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1031.ts
-#EXTINF:-1,UK:TLC-IRELAND
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/421.ts
-#EXTINF:-1,UK:Sky Movies Modern
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/425.ts
-#EXTINF:-1,UK : Manchester United TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/433.ts
-#EXTINF:-1,UK:HBO 3
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1032.ts
-#EXTINF:-1,UK:HBO 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1033.ts
-#EXTINF:-1,UK:HBO 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1034.ts
-#EXTINF:-1,UK:BBC News
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/384.ts
-#EXTINF:-1,UK: Alibi
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/390.ts
-#EXTINF:-1,UK: 5Star
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/387.ts
-#EXTINF:-1,UK:4Seven
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/388.ts
-#EXTINF:-1,UK: 3e
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/389.ts
-#EXTINF:-1,UK: VH1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1035.ts
-#EXTINF:-1,UK: True Movies 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1036.ts
-#EXTINF:-1,UK: Travel Channel
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1037.ts
-#EXTINF:-1,UK: TLC
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1415.ts
-#EXTINF:-1,UK: Sky Two
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/423.ts
-#EXTINF:-1,UK: SKY SPORTS 5
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2459.ts
-#EXTINF:-1,UK: SKY SPORTS 4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2460.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2461.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2462.ts
-#EXTINF:-1,UK: SKY SPORTS 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2463.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/424.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1026.ts
-#EXTINF:-1,UK: SATENTA SPORT
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1027.ts
-#EXTINF:-1,UK: RTE Two
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1425.ts
-#EXTINF:-1,UK: RTE One
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1426.ts
-#EXTINF:-1,UK: Racing UK
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/391.ts
-#EXTINF:-1,UK: PREMIERE SPORT HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1028.ts
-#EXTINF:-1,UK: Nickelodeon
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/383.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/430.ts
-#EXTINF:-1,UK: MUTV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/758.ts
-#EXTINF:-1,UK: LFC TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2895.ts
-#EXTINF:-1,UK: ITV4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/379.ts
-#EXTINF:-1,UK: ITV3
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/380.ts
-#EXTINF:-1,UK: ITV2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/381.ts
-#EXTINF:-1,UK: ITV1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/382.ts
-#EXTINF:-1,UK: Good Food
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1038.ts
-#EXTINF:-1,UK: Food Network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1039.ts
-#EXTINF:-1,UK: E
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1040.ts
-#EXTINF:-1,UK: Chelsea FC
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1030.ts
-#EXTINF:-1,UK: Cartoon Network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1041.ts
-#EXTINF:-1,UK: BT Sports 2 SD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2464.ts
-#EXTINF:-1,UK: BT Sports 1 SD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2465.ts
-#EXTINF:-1,UK: BBC4/CBEEBIES
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/385.ts
-#EXTINF:-1,UK: BBC TWO HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/852.ts
-#EXTINF:-1,UK: At The Races
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/440.ts
-#EXTINF:-1,UK | UTV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1416.ts
-#EXTINF:-1,UK | Syfy
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/74.ts
-#EXTINF:-1,UK | Sky Sports HD 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/26.ts
-#EXTINF:-1,UK | Sky Sport News
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/16.ts
-#EXTINF:-1,UK | Sky Sport 5 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/18.ts
-#EXTINF:-1,UK | Sky Sport 4 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/20.ts
-#EXTINF:-1,UK | Sky Sport 3 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/22.ts
-#EXTINF:-1,UK | Sky Sport 2 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/24.ts
-#EXTINF:-1,UK | Sky Movies Thriller
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/54.ts
-#EXTINF:-1,UK | Sky Movies Showcase
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/55.ts
-#EXTINF:-1,UK | Sky Movies Premiere
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/56.ts
-#EXTINF:-1,UK | Sky Movies Greats
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/57.ts
-#EXTINF:-1,UK | Sky Movies Family
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/58.ts
-#EXTINF:-1,UK | Sky Movies Disney
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/59.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/60.ts
-#EXTINF:-1,UK | Sky Movies Action
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/61.ts
-#EXTINF:-1,UK | Sky Movie Sci-Fi
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/62.ts
-#EXTINF:-1,UK | Nicktoons
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1433.ts
-#EXTINF:-1,UK | Nick Jr
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1434.ts
-#EXTINF:-1,UK | London Live
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1417.ts
-#EXTINF:-1,UK | ITV be
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1627.ts
-#EXTINF:-1,UK | Irish Tv
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1418.ts
-#EXTINF:-1,UK | ID
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1429.ts
-#EXTINF:-1,UK | Home & Health
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/66.ts
-#EXTINF:-1,UK | Good Food
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1414.ts
-#EXTINF:-1,UK | gold
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1432.ts
-#EXTINF:-1,UK | Film 4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1419.ts
-#EXTINF:-1,UK | E4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1420.ts
-#EXTINF:-1,UK | E!
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1430.ts
-#EXTINF:-1,UK | Drama
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/174.ts
-#EXTINF:-1,UK | DMax
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/853.ts
-#EXTINF:-1,UK | Disney XD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/47.ts
-#EXTINF:-1,UK | Disney Junior
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/48.ts
-#EXTINF:-1,UK | Disney
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/49.ts
-#EXTINF:-1,UK | Discovery Turbo
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/63.ts
-#EXTINF:-1,UK | Discovery Shed
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/64.ts
-#EXTINF:-1,UK | Discovery Science
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/65.ts
-#EXTINF:-1,UK | Discovery History
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/67.ts
-#EXTINF:-1,UK | DISCOVERY
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/68.ts
-#EXTINF:-1,UK | CBS reality
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1421.ts
-#EXTINF:-1,UK | CBS Drama
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1422.ts
-#EXTINF:-1,UK | CBS Action
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1423.ts
-#EXTINF:-1,UK | BT Sport Europe HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3.ts
-#EXTINF:-1,UK | BT Sport ESPN
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4.ts
-#EXTINF:-1,UK | BT Sport 2 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/6.ts
-#EXTINF:-1,UK | BT Sport 1 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/8.ts
-#EXTINF:-1,UK | Boxnation
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/9.ts
-#EXTINF:-1,UK | boomerang
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1424.ts
-#EXTINF:-1,UK | BBC World News
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/761.ts
-#EXTINF:-1,UK Premier Sports HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1427.ts
-#EXTINF:-1,UK Pick
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1428.ts
-#EXTINF:-1,UK CBBC
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/167.ts
-#EXTINF:-1,UK BBC Three HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/184.ts
-#EXTINF:-1,UK BBC ONE HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/185.ts
-#EXTINF:-1,UK Baby TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/171.ts
-#EXTINF:-1,UK : Yesterday
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/420.ts
-#EXTINF:-1,UK : Sky Sport F1 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/443.ts
-#EXTINF:-1,UK : Sky Sport 1 SD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1922.ts
-#EXTINF:-1,UK : Sky Movies Drama
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/427.ts
-#EXTINF:-1,UK : SKY Atlantic HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/428.ts
-#EXTINF:-1,UK : Sky Arts
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/429.ts
-#EXTINF:-1,UK : SKY One
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/422.ts
-#EXTINF:-1,UK : Nat Geo Graphic
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/431.ts
-#EXTINF:-1,UK : Mototrs TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/1029.ts
-#EXTINF:-1,UK : More 4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/432.ts
-#EXTINF:-1,UK : Living UK
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/426.ts
-#EXTINF:-1,UK : Life time
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/894.ts
-#EXTINF:-1,UK : FOX
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/434.ts
-#EXTINF:-1,UK : Eden
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/436.ts
-#EXTINF:-1,UK : Dave
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/437.ts
-#EXTINF:-1,UK : Comedy Central
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/438.ts
-#EXTINF:-1,UK : Chelsea TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/439.ts
-#EXTINF:-1,UK : Animal Planet
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/441.ts
-#EXTINF:-1,CA Sportsnet World HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2447.ts
-#EXTINF:-1,CA Sportnet Pacific HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2448.ts
-#EXTINF:-1,CA : ytv
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3041.ts
-#EXTINF:-1,CA : world fishing
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3040.ts
-#EXTINF:-1,CA : w network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3039.ts
-#EXTINF:-1,CA : vrak tv
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3038.ts
-#EXTINF:-1,CA : tree house
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3037.ts
-#EXTINF:-1,CA : travel channel
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3036.ts
-#EXTINF:-1,CA : tmn
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3035.ts
-#EXTINF:-1,CA : teletoon
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3034.ts
-#EXTINF:-1,CA : super ecran hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3059.ts
-#EXTINF:-1,CA : sportsnet world hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3058.ts
-#EXTINF:-1,CA : Sportsnet West HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2449.ts
-#EXTINF:-1,CA : Sportsnet One HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2450.ts
-#EXTINF:-1,CA : sportsnet 360 hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3057.ts
-#EXTINF:-1,CA : Sportnet Ontario HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2451.ts
-#EXTINF:-1,CA : spike
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3033.ts
-#EXTINF:-1,CA : slice
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3032.ts
-#EXTINF:-1,CA : silver screen classics
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3031.ts
-#EXTINF:-1,CA : shopping channel
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3030.ts
-#EXTINF:-1,CA : series  hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3056.ts
-#EXTINF:-1,CA : rds2 hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3055.ts
-#EXTINF:-1,CA : rds 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3029.ts
-#EXTINF:-1,CA : peachtree tv
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3028.ts
-#EXTINF:-1,CA : own (oprah winfrew network)
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3027.ts
-#EXTINF:-1,CA : omni 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3026.ts
-#EXTINF:-1,CA : omni 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3025.ts
-#EXTINF:-1,CA : oln
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3024.ts
-#EXTINF:-1,CA : nick
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3023.ts
-#EXTINF:-1,CA : much music
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3022.ts
-#EXTINF:-1,CA : mtv canada
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3021.ts
-#EXTINF:-1,CA : movie time
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3020.ts
-#EXTINF:-1,CA : lcn hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3054.ts
-#EXTINF:-1,CA : ici rdi
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3019.ts
-#EXTINF:-1,CA : ici artv
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3018.ts
-#EXTINF:-1,CA : history hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3053.ts
-#EXTINF:-1,CA : gsn
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3017.ts
-#EXTINF:-1,CA : golf channel
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3016.ts
-#EXTINF:-1,CA : g4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3015.ts
-#EXTINF:-1,CA : fyi
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3014.ts
-#EXTINF:-1,CA : fxx hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3052.ts
-#EXTINF:-1,CA : fox news
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3013.ts
-#EXTINF:-1,CA : fox 25 hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3051.ts
-#EXTINF:-1,CA : evasion
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3012.ts
-#EXTINF:-1,CA : e!
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3011.ts
-#EXTINF:-1,CA : deja view
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3010.ts
-#EXTINF:-1,CA : ctv toronto
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3009.ts
-#EXTINF:-1,CA : cp24
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3008.ts
-#EXTINF:-1,CA : country music television
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3007.ts
-#EXTINF:-1,CA : cottage life
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3006.ts
-#EXTINF:-1,CA : comedy gold
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3005.ts
-#EXTINF:-1,CA : city vancouver
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3004.ts
-#EXTINF:-1,CA : chch
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3003.ts
-#EXTINF:-1,CA : cbc toronto
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3002.ts
-#EXTINF:-1,CA : cartoon network
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3001.ts
-#EXTINF:-1,CA : bravo hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3050.ts
-#EXTINF:-1,CA : bnn
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3000.ts
-#EXTINF:-1,CA : bet: black entertainment television
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2999.ts
-#EXTINF:-1,CA : abc spark
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/2998.ts
-#EXTINF:-1,CA : abc hd
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3049.ts
-#EXTINF:-1,CA : SLICE HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4686.ts
-#EXTINF:-1,CA : PIX 11 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4687.ts
-#EXTINF:-1,CA : PBS FHD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4688.ts
-#EXTINF:-1,CA : NBC HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4689.ts
-#EXTINF:-1,CA : ION HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4690.ts
-#EXTINF:-1,CA : FOX HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4691.ts
-#EXTINF:-1,CA : CTV Edmonton HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4692.ts
-#EXTINF:-1,CA : COOKING CHANNEL
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4693.ts
-#EXTINF:-1,CA : CHCH HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4694.ts
-#EXTINF:-1,CA : CBS HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4695.ts
-#EXTINF:-1,USA: Offical Olympic Channel
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4641.ts
-#EXTINF:-1,USA | NBC XTRA 5 720P
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4636.ts
-#EXTINF:-1,USA | NBC XTRA 4 720P
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4637.ts
-#EXTINF:-1,USA | NBC XTRA 3 720P
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4638.ts
-#EXTINF:-1,USA | NBC XTRA 2 720P
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4639.ts
-#EXTINF:-1,USA | NBC XTRA 1 720P
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4640.ts
-#EXTINF:-1,USA : NFL SUNDAY TICKET 9
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4631.ts
-#EXTINF:-1,USA : NFL SUNDAY TICKET 8
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4632.ts
-#EXTINF:-1,USA : NFL SUNDAY TICKET 7
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4633.ts
-#EXTINF:-1,USA : NFL SUNDAY TICKET 6
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4634.ts
-#EXTINF:-1,USA : NFL SUNDAY TICKET 10
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4635.ts
-#EXTINF:-1,UK: W   1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4450.ts
-#EXTINF:-1,UK: Universal + 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4453.ts
-#EXTINF:-1,UK: TLC + 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4451.ts
-#EXTINF:-1,UK: TLC   1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4445.ts
-#EXTINF:-1,UK: Tiny Pop  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4461.ts
-#EXTINF:-1,UK: Syfy + 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4452.ts
-#EXTINF:-1,UK: Sony Chnl   1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4442.ts
-#EXTINF:-1,UK: Sky Living  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4446.ts
-#EXTINF:-1,UK: Sky Cinema Premiere  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4471.ts
-#EXTINF:-1,UK: Sky Atlantic  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4447.ts
-#EXTINF:-1,UK: Nickelodeon  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4462.ts
-#EXTINF:-1,UK: Nick Jr +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4463.ts
-#EXTINF:-1,UK: Nick Jnr Too
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4464.ts
-#EXTINF:-1,UK: MTV  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4470.ts
-#EXTINF:-1,UK: ID + 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4449.ts
-#EXTINF:-1,UK: Horror Channel  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4444.ts
-#EXTINF:-1,UK: Home&Health  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4458.ts
-#EXTINF:-1,UK: History +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4459.ts
-#EXTINF:-1,UK: Food Network  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4443.ts
-#EXTINF:-1,UK: Eurosport 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4473.ts
-#EXTINF:-1,UK: Eurosport 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4472.ts
-#EXTINF:-1,UK: E!  + 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4448.ts
-#EXTINF:-1,UK: Disney XD  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4465.ts
-#EXTINF:-1,UK: Disney Channel  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4466.ts
-#EXTINF:-1,UK: Discovery Science  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4467.ts
-#EXTINF:-1,UK: Discovery History  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4468.ts
-#EXTINF:-1,UK: Discovery  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4469.ts
-#EXTINF:-1,UK: Crime investigation  1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4455.ts
-#EXTINF:-1,UK: Comedy Central Extra  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4456.ts
-#EXTINF:-1,UK: Challenge  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4454.ts
-#EXTINF:-1,UK: Eir Sports2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4684.ts
-#EXTINF:-1,UK: Eir Sports1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4683.ts
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4474.ts
-#EXTINF:-1,UK: BT Sport Mosaic
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4475.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4480.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4479.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4478.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4477.ts
-#EXTINF:-1,UK: BT Sport Extra 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4476.ts
-#EXTINF:-1,UK: Animal Planet  +1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4457.ts
-#EXTINF:-1,UK | Tiny POP
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4460.ts
-#EXTINF:-1,USA: World Fashion Channel
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4003.ts
-#EXTINF:-1,USA: TWiT
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4004.ts
-#EXTINF:-1,USA: SEC ESPN NETWORK HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4002.ts
-#EXTINF:-1,USA: PAG HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4005.ts
-#EXTINF:-1,USA: MBL HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4006.ts
-#EXTINF:-1,USA: FREE FORM HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4007.ts
-#EXTINF:-1,USA: Fox SPORTS 506 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4009.ts
-#EXTINF:-1,USA: FOX 43
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4008.ts
-#EXTINF:-1,USA: CINEMAX ACTION HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/4010.ts 
-#EXTINF:-1,IT-Sky_Primafila_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/12805.ts
-#EXTINF:-1,IT-Sky_Primafila_2 _HD
-http://148.251.1.69:8000/live/hakami/hakami/12806.ts
-#EXTINF:-1,IT-Sky_Primafila_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/12807.ts
-#EXTINF:-1,IT-Sky_Primafila_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/12808.ts
-#EXTINF:-1,IT-Sky_Primafila_5_HD
-http://148.251.1.69:8000/live/hakami/hakami/12809.ts
-#EXTINF:-1,IT-Sky_Primafila_6_HD
-http://148.251.1.69:8000/live/hakami/hakami/12810.ts
-#EXTINF:-1,IT-Sky_Primafila_7_HD
-http://148.251.1.69:8000/live/hakami/hakami/12811.ts
-#EXTINF:-1,IT-Sky_Primafila_8_HD
-http://148.251.1.69:8000/live/hakami/hakami/12812.ts
-#EXTINF:-1,IT-Sky_Primafila_9_HD
-http://148.251.1.69:8000/live/hakami/hakami/12813.ts
-#EXTINF:-1,IT-Sky_Primafila_10_HD
-http://148.251.1.69:8000/live/hakami/hakami/12814.ts
-#EXTINF:-1,IT-Sky_Atlantic_HD
-http://148.251.1.69:8000/live/hakami/hakami/8702.ts
-#EXTINF:-1,IT-Sky_Cinema_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/8703.ts
-#EXTINF:-1,IT-Sky_Cinema_Classic_HD
-http://148.251.1.69:8000/live/hakami/hakami/8708.ts
-#EXTINF:-1,IT-Sky_Cinema_Comedy_HD
-http://148.251.1.69:8000/live/hakami/hakami/8707.ts
-#EXTINF:-1,IT-Sky_Cinema_Cult_HD
-http://148.251.1.69:8000/live/hakami/hakami/8709.ts
-#EXTINF:-1,IT-Sky_Cinema_Family_HD
-http://148.251.1.69:8000/live/hakami/hakami/8706.ts
-#EXTINF:-1,IT-Sky_Cinema_3D
-http://148.251.1.69:8000/live/hakami/hakami/8705.ts
-#EXTINF:-1,IT-SKY_CINEMA_MAX_HD
-http://148.251.1.69:8000/live/hakami/hakami/8704.ts
-#EXTINF:-1,IT-Sky_Cinema_Passion_ HD
-http://148.251.1.69:8000/live/hakami/hakami/8710.ts
-#EXTINF:-1,IT-CinemaClassic_HD
-http://148.251.1.69:8000/live/hakami/hakami/8403.ts
-#EXTINF:-1,IT-Sky_CINEMA_24_HD
-http://148.251.1.69:8000/live/hakami/hakami/8700.ts
-#EXTINF:-1,IT-Sky_Uno_HD
-http://148.251.1.69:8000/live/hakami/hakami/8701.ts
-#EXTINF:-1,IT-AXN_HD
-http://148.251.1.69:8000/live/hakami/hakami/8221.ts
-#EXTINF:-1,IT-Caccia_e_Pesca
-http://148.251.1.69:8000/live/hakami/hakami/8699.ts
-#EXTINF:-1,IT-Sky_Sport_HD1
-http://148.251.1.69:8000/live/hakami/hakami/8681.ts
-#EXTINF:-1,IT-Sky_Sport_HD2
-http://148.251.1.69:8000/live/hakami/hakami/8682.ts
-#EXTINF:-1,IT-Sky_Sport_HD3
-http://148.251.1.69:8000/live/hakami/hakami/8683.ts
-#EXTINF:-1,IT-Sky_Calcio_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/8698.ts
-#EXTINF:-1,IT-Sky_Calcio_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/8697.ts
-#EXTINF:-1,IT-Sky_Calcio_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/8696.ts
-#EXTINF:-1,IT-Sky_Calcio_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/8213.ts
-#EXTINF:-1,IT-Sky_Calcio_5_HD
-http://148.251.1.69:8000/live/hakami/hakami/8215.ts
-#EXTINF:-1,IT-Sky_Calcio_6_HD
-http://148.251.1.69:8000/live/hakami/hakami/8216.ts
-#EXTINF:-1,IT-Sky_Calcio_7_HD
-http://148.251.1.69:8000/live/hakami/hakami/8217.ts
-#EXTINF:-1,IT-Sky_Formula_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/8219.ts
-#EXTINF:-1,IT-Super_Tennis_HD
-http://148.251.1.69:8000/live/hakami/hakami/8214.ts
-#EXTINF:-1,IT-Disney_XD
-http://148.251.1.69:8000/live/hakami/hakami/8218.ts
-#EXTINF:-1,IT-DisneyJunior
-http://148.251.1.69:8000/live/hakami/hakami/8400.ts
-#EXTINF:-1,IT-CARTOON_NETWORK
-http://148.251.1.69:8000/live/hakami/hakami/8220.ts
-#EXTINF:-1,IT-Foxlife
-http://148.251.1.69:8000/live/hakami/hakami/8397.ts
-#EXTINF:-1,IT-Foxcrime
-http://148.251.1.69:8000/live/hakami/hakami/8398.ts
-#EXTINF:-1,IT-FoxAnimation
-http://148.251.1.69:8000/live/hakami/hakami/8399.ts
-#EXTINF:-1,IT-NatGeo
-http://148.251.1.69:8000/live/hakami/hakami/8119.ts
-#EXTINF:-1,IT-NatGeoWild
-http://148.251.1.69:8000/live/hakami/hakami/8395.ts
-#EXTINF:-1,IT-Discovery
-http://148.251.1.69:8000/live/hakami/hakami/8402.ts
-#EXTINF:-1,IT-DiscoverySc
-http://148.251.1.69:8000/live/hakami/hakami/8401.ts
-#EXTINF:-1,IT-Cielo
-http://148.251.1.69:8000/live/hakami/hakami/8404.ts
-#EXTINF:-1,IT-Tsn
-http://148.251.1.69:8000/live/hakami/hakami/8001.ts
-#EXTINF:-1,IT-Tsn2
-http://148.251.1.69:8000/live/hakami/hakami/8000.ts
-#EXTINF:-1,IT-Tv2000
-http://148.251.1.69:8000/live/hakami/hakami/7999.ts
-#EXTINF:-1,IT-Mediaset1
-http://148.251.1.69:8000/live/hakami/hakami/8396.ts
-#EXTINF:-1,IT-PremiumStories
-http://148.251.1.69:8000/live/hakami/hakami/8405.ts
-#EXTINF:-1,IT-PremiumSport
-http://148.251.1.69:8000/live/hakami/hakami/8406.ts
-#EXTINF:-1,IT-PremiumEnergy
-http://148.251.1.69:8000/live/hakami/hakami/8407.ts
-#EXTINF:-1,IT-PremiumEmotion
-http://148.251.1.69:8000/live/hakami/hakami/8408.ts
-#EXTINF:-1,IT-PremiumCrime24
-http://148.251.1.69:8000/live/hakami/hakami/8212.ts
-#EXTINF:-1,IT-PremiumComedy
-http://148.251.1.69:8000/live/hakami/hakami/8120.ts
-#EXTINF:-1,IT-PremiumCinema24
-http://148.251.1.69:8000/live/hakami/hakami/8409.ts
-#EXTINF:-1,IT-PremiumCinema2
-http://148.251.1.69:8000/live/hakami/hakami/8410.ts
-#EXTINF:-1,IT-PremiumCinema
-http://148.251.1.69:8000/live/hakami/hakami/8411.ts
-#EXTINF:-1,IT-PremiumAction24
-http://148.251.1.69:8000/live/hakami/hakami/8412.ts
-#EXTINF:-1,IT-PremiumAction
-http://148.251.1.69:8000/live/hakami/hakami/8413.ts
-#EXTINF:-1,IT-Rai1
-http://148.251.1.69:8000/live/hakami/hakami/8233.ts
-#EXTINF:-1,IT-Rai2
-http://148.251.1.69:8000/live/hakami/hakami/8234.ts
-#EXTINF:-1,IT-Rai3
-http://148.251.1.69:8000/live/hakami/hakami/8235.ts
-#EXTINF:-1,IT-Rai4
-http://148.251.1.69:8000/live/hakami/hakami/8123.ts
-#EXTINF:-1,IT-Rai5
-http://148.251.1.69:8000/live/hakami/hakami/8231.ts
-#EXTINF:-1,IT-RaiGulp
-http://148.251.1.69:8000/live/hakami/hakami/8003.ts
-#EXTINF:-1,IT-RaiYoyo
-http://148.251.1.69:8000/live/hakami/hakami/8129.ts
-#EXTINF:-1,IT-RaiMovie
-http://148.251.1.69:8000/live/hakami/hakami/8232.ts
-#EXTINF:-1,IT-RaiStoria
-http://148.251.1.69:8000/live/hakami/hakami/8128.ts
-#EXTINF:-1,IT-RaiScuola
-http://148.251.1.69:8000/live/hakami/hakami/8125.ts
-#EXTINF:-1,IT-RaiPremium
-http://148.251.1.69:8000/live/hakami/hakami/8124.ts
-#EXTINF:-1,IT-La3
-http://148.251.1.69:8000/live/hakami/hakami/7995.ts
-#EXTINF:-1,IT-La6
-http://148.251.1.69:8000/live/hakami/hakami/7994.ts
-#EXTINF:-1,IT-La7
-http://148.251.1.69:8000/live/hakami/hakami/7993.ts
-#EXTINF:-1,-===Greece_Nova===-
-http://148.251.1.69:8000/live/hakami/hakami/4097.ts
-#EXTINF:-1,Gr-Ant1
-http://148.251.1.69:8000/live/hakami/hakami/8500.ts
-#EXTINF:-1,Gr-Mega
-http://148.251.1.69:8000/live/hakami/hakami/8499.ts
-#EXTINF:-1,Gr-Nova
-http://148.251.1.69:8000/live/hakami/hakami/8498.ts
-#EXTINF:-1,Gr-NovaCinema
-http://148.251.1.69:8000/live/hakami/hakami/8304.ts
-#EXTINF:-1,-===SkyDE-Germany_Channels===-
-http://148.251.1.69:8000/live/hakami/hakami/8505.ts
-#EXTINF:-1,DE-Sky_Select_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/12939.ts
-#EXTINF:-1,DE-Sky_Select_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/12940.ts
-#EXTINF:-1,DE-Sky_Select_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/12941.ts
-#EXTINF:-1,DE-Sky_Select_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/12942.ts
-#EXTINF:-1,DE-Sky_Select_5_HD
-http://148.251.1.69:8000/live/hakami/hakami/12943.ts
-#EXTINF:-1,DE-Sky_Select_6_HD
-http://148.251.1.69:8000/live/hakami/hakami/12944.ts
-#EXTINF:-1,DE-Sky_Cinema
-http://148.251.1.69:8000/live/hakami/hakami/3667.ts
-#EXTINF:-1,DE-Sky_Cinema_+24
-http://148.251.1.69:8000/live/hakami/hakami/3668.ts
-#EXTINF:-1,DE-Sky_Action
-http://148.251.1.69:8000/live/hakami/hakami/3598.ts
-#EXTINF:-1,DE-Sky_Comedy
-http://148.251.1.69:8000/live/hakami/hakami/3599.ts
-#EXTINF:-1,DE-Sky_Emotion
-http://148.251.1.69:8000/live/hakami/hakami/3669.ts
-#EXTINF:-1,DE-Sky_Atlantic
-http://148.251.1.69:8000/live/hakami/hakami/10277.ts
-#EXTINF:-1,DE-Sky_Cinema_007
-http://148.251.1.69:8000/live/hakami/hakami/10278.ts
-#EXTINF:-1,DE-Sky_Nostalgie
-http://148.251.1.69:8000/live/hakami/hakami/10275.ts
-#EXTINF:-1,DE-Sky_Krimi
-http://148.251.1.69:8000/live/hakami/hakami/10276.ts
-#EXTINF:-1,DE-Classica_Deutschland
-http://148.251.1.69:8000/live/hakami/hakami/10509.ts
-#EXTINF:-1,DE-Syfy_Deutschland
-http://148.251.1.69:8000/live/hakami/hakami/10271.ts
-#EXTINF:-1,DE-AXN
-http://148.251.1.69:8000/live/hakami/hakami/10511.ts
-#EXTINF:-1,DE-13th_Street
-http://148.251.1.69:8000/live/hakami/hakami/10290.ts
-#EXTINF:-1,DE-TNT_Serie
-http://148.251.1.69:8000/live/hakami/hakami/10270.ts
-#EXTINF:-1,DE-Vox
-http://148.251.1.69:8000/live/hakami/hakami/3760.ts
-#EXTINF:-1,DE-RTL
-http://148.251.1.69:8000/live/hakami/hakami/3758.ts
-#EXTINF:-1,DE-RTL_2
-http://148.251.1.69:8000/live/hakami/hakami/3759.ts
-#EXTINF:-1,DE-Super_RTL
-http://148.251.1.69:8000/live/hakami/hakami/3670.ts
-#EXTINF:-1,DE-Pro_7
-http://148.251.1.69:8000/live/hakami/hakami/10918.ts
-#EXTINF:-1,DE-RTL_Nitro
-http://148.251.1.69:8000/live/hakami/hakami/10356.ts
-#EXTINF:-1,DE-RTL_Crime
-http://148.251.1.69:8000/live/hakami/hakami/10280.ts
-#EXTINF:-1,DE-RTL_Passion
-http://148.251.1.69:8000/live/hakami/hakami/10279.ts
-#EXTINF:-1,DE-ZDF
-http://148.251.1.69:8000/live/hakami/hakami/3671.ts
-#EXTINF:-1,DE-MGM_Channel
-http://148.251.1.69:8000/live/hakami/hakami/10283.ts
-#EXTINF:-1,DE-Kabel_1
-http://148.251.1.69:8000/live/hakami/hakami/10789.ts
-#EXTINF:-1,DE-Fox_Deutschland
-http://148.251.1.69:8000/live/hakami/hakami/10287.ts
-#EXTINF:-1,DE-ORF1
-http://148.251.1.69:8000/live/hakami/hakami/10358.ts
-#EXTINF:-1,DE-ORF2
-http://148.251.1.69:8000/live/hakami/hakami/10357.ts
-#EXTINF:-1,DE-Jukebox
-http://148.251.1.69:8000/live/hakami/hakami/10284.ts
-#EXTINF:-1,DE-Heimatkanal
-http://148.251.1.69:8000/live/hakami/hakami/10285.ts
-#EXTINF:-1,DE-GoldStar_TV
-http://148.251.1.69:8000/live/hakami/hakami/10286.ts
-#EXTINF:-1,DE-Motorvision_TV
-http://148.251.1.69:8000/live/hakami/hakami/10282.ts
-#EXTINF:-1,DE-Disney_XD
-http://148.251.1.69:8000/live/hakami/hakami/10288.ts
-#EXTINF:-1,DE-Spiegel_Geschichte
-http://148.251.1.69:8000/live/hakami/hakami/10272.ts
-#EXTINF:-1,DE-Nat_Geo_Wild
-http://148.251.1.69:8000/live/hakami/hakami/10510.ts
-#EXTINF:-1,DE-National_Geographic_Channel
-http://148.251.1.69:8000/live/hakami/hakami/10281.ts
-#EXTINF:-1,DE-Discovery_Channel
-http://148.251.1.69:8000/live/hakami/hakami/10289.ts
-#EXTINF:-1,DE-Sky_Sport_News
-http://148.251.1.69:8000/live/hakami/hakami/10273.ts
-#EXTINF:-1,DE-Sky_Sport_HD1
-http://148.251.1.69:8000/live/hakami/hakami/10429.ts
-#EXTINF:-1,DE-Sky_Sport_HD2
-http://148.251.1.69:8000/live/hakami/hakami/10430.ts
-#EXTINF:-1,DE-Sky_Austria
-http://148.251.1.69:8000/live/hakami/hakami/10274.ts
-#EXTINF:-1,DE-Sky_Bundesliga_1
-http://148.251.1.69:8000/live/hakami/hakami/10428.ts
-#EXTINF:-1,DE-3_sat_HD
-http://148.251.1.69:8000/live/hakami/hakami/10790.ts
-#EXTINF:-1,-===ALBANAIS-Channels===-
-http://148.251.1.69:8000/live/hakami/hakami/4597.ts
-#EXTINF:-1,ALB-SuperSport_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/4627.ts
-#EXTINF:-1,ALB-SuperSport_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/4626.ts
-#EXTINF:-1,ALB-SuperSport_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/4625.ts
-#EXTINF:-1,ALB-SuperSport_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/4624.ts
-#EXTINF:-1,ALB-SUPER_SPORT_KOSOVO_2
-http://148.251.1.69:8000/live/hakami/hakami/4628.ts
-#EXTINF:-1,ALB-SUPER_SPORT_KOSOVO_1
-http://148.251.1.69:8000/live/hakami/hakami/4629.ts
-#EXTINF:-1,ALB-TRING_SPORTS_HD
-http://148.251.1.69:8000/live/hakami/hakami/4608.ts
-#EXTINF:-1,ALB-Film_Komedi
-http://148.251.1.69:8000/live/hakami/hakami/4657.ts
-#EXTINF:-1,ALB-Film_Thriller
-http://148.251.1.69:8000/live/hakami/hakami/4655.ts
-#EXTINF:-1,ALB-Film_Nje_HD
-http://148.251.1.69:8000/live/hakami/hakami/4656.ts
-#EXTINF:-1,ALB-Film_Hits
-http://148.251.1.69:8000/live/hakami/hakami/4658.ts
-#EXTINF:-1,ALB-Film_Dy_HD
-http://148.251.1.69:8000/live/hakami/hakami/4659.ts
-#EXTINF:-1,ALB-Film_Drame
-http://148.251.1.69:8000/live/hakami/hakami/4660.ts
-#EXTINF:-1,ALB-Film_Autor
-http://148.251.1.69:8000/live/hakami/hakami/4661.ts
-#EXTINF:-1,ALB-Film_Aksion
-http://148.251.1.69:8000/live/hakami/hakami/4662.ts
-#EXTINF:-1,ALB-FOX_LIFE
-http://148.251.1.69:8000/live/hakami/hakami/4650.ts
-#EXTINF:-1,ALB-FOX_MOVIES
-http://148.251.1.69:8000/live/hakami/hakami/4651.ts
-#EXTINF:-1,ALB-Vizion_Plus
-http://148.251.1.69:8000/live/hakami/hakami/4598.ts
-#EXTINF:-1,ALB-Tring_World
-http://148.251.1.69:8000/live/hakami/hakami/4601.ts
-#EXTINF:-1,ALB-Tring_Super
-http://148.251.1.69:8000/live/hakami/hakami/4603.ts
-#EXTINF:-1,ALB-Tring_Stinet
-http://148.251.1.69:8000/live/hakami/hakami/4604.ts
-#EXTINF:-1,ALB-Tring_Shqip
-http://148.251.1.69:8000/live/hakami/hakami/4609.ts
-#EXTINF:-1,ALB-Tring_Planet
-http://148.251.1.69:8000/live/hakami/hakami/4610.ts
-#EXTINF:-1,ALB-Tring_Max
-http://148.251.1.69:8000/live/hakami/hakami/4611.ts
-#EXTINF:-1,ALB-Tring_Life
-http://148.251.1.69:8000/live/hakami/hakami/4612.ts
-#EXTINF:-1,ALB-Tring_Junior
-http://148.251.1.69:8000/live/hakami/hakami/4613.ts
-#EXTINF:-1,ALB-Tring_History
-http://148.251.1.69:8000/live/hakami/hakami/4614.ts
-#EXTINF:-1,ALB-Tring_Fantasy
-http://148.251.1.69:8000/live/hakami/hakami/4615.ts
-#EXTINF:-1,ALB-Tring_Comedy
-http://148.251.1.69:8000/live/hakami/hakami/4616.ts
-#EXTINF:-1,ALB-Tring_3+
-http://148.251.1.69:8000/live/hakami/hakami/4617.ts
-#EXTINF:-1,ALB-Tip_TV
-http://148.251.1.69:8000/live/hakami/hakami/4621.ts
-#EXTINF:-1,ALB-T_HD
-http://148.251.1.69:8000/live/hakami/hakami/4623.ts
-#EXTINF:-1,ALB-Klan_HD
-http://148.251.1.69:8000/live/hakami/hakami/4647.ts
-#EXTINF:-1,ALB-Explorer_Shkence
-http://148.251.1.69:8000/live/hakami/hakami/4663.ts
-#EXTINF:-1,ALB-Explorer_Natyra
-http://148.251.1.69:8000/live/hakami/hakami/4664.ts
-#EXTINF:-1,ALB-Explorer_History
-http://148.251.1.69:8000/live/hakami/hakami/4665.ts
-#EXTINF:-1,ALB-Plus_HD
-http://148.251.1.69:8000/live/hakami/hakami/4670.ts
-#EXTINF:-1,ALB-Cufo
-http://148.251.1.69:8000/live/hakami/hakami/4671.ts
-#EXTINF:-1,ArenaSport1_HD
-http://148.251.1.69:8000/live/hakami/hakami/278.ts
-#EXTINF:-1,ArenaSport2_HD
-http://148.251.1.69:8000/live/hakami/hakami/279.ts
-#EXTINF:-1,ArenaSport3_HD
-http://148.251.1.69:8000/live/hakami/hakami/280.ts
-#EXTINF:-1,ArenaSport4_HD
-http://148.251.1.69:8000/live/hakami/hakami/281.ts
-#EXTINF:-1,ArenaSport5
-http://148.251.1.69:8000/live/hakami/hakami/282.ts
-#EXTINF:-1,IT | Premium Calcio 5*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3613.ts
-#EXTINF:-1,IT | Premium Calcio 4*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3612.ts
-#EXTINF:-1,IT | Premium Calcio 3*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3611.ts
-#EXTINF:-1,IT | Premium Calcio 2*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3610.ts
-#EXTINF:-1,IT | Premium Calcio 1*
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3609.ts
-#EXTINF:-1,DE | Sky Germany Sport 9 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3620.ts
-#EXTINF:-1,DE | Sky Germany Sport 8 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3619.ts
-#EXTINF:-1,DE | Sky Germany Sport 7 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3618.ts
-#EXTINF:-1,DE | Sky Germany Sport 6 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3617.ts
-#EXTINF:-1,DE | Sky Germany Sport 5 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3616.ts
-#EXTINF:-1,DE | Sky Germany Sport 4 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3615.ts
-#EXTINF:-1,DE | Sky Germany Sport 3 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3614.ts
-#EXTINF:-1,DE | Sky Germany Sport 11 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3621.ts
-#EXTINF:-1,DE | Sky Germany Sport 10 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3622.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3630.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3629.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3628.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3627.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3626.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3625.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 3 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3624.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3623.ts
-#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/3631.ts
-#EXTINF:-1,DE: ZDF
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/928.ts
-#EXTINF:-1,DE: VOX
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/526.ts
-#EXTINF:-1,DE: TNT Serie
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/936.ts
-#EXTINF:-1,DE: SUPER RTL HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/937.ts
-#EXTINF:-1,DE: Sky Universal HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/416.ts
-#EXTINF:-1,DE: Sky TNT Serie HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/417.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/447.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/410.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/409.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/414.ts
-#EXTINF:-1,DE: Sky Emotion HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/418.ts
-#EXTINF:-1,DE: Sky DMAX HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/453.ts
-#EXTINF:-1,DE: Sky Disney HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/419.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/415.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/413.ts
-#EXTINF:-1,DE: SKY CINEMA  24
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/932.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD Germany
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/448.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/408.ts
-#EXTINF:-1,DE: SKY ATLANTIC HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/933.ts
-#EXTINF:-1,DE: Sky Action HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/412.ts
-#EXTINF:-1,DE: sat 1 emotions
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/938.ts
-#EXTINF:-1,DE: Sat 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/939.ts
-#EXTINF:-1,DE: RTL NITRO
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/940.ts
-#EXTINF:-1,DE: RTL
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/942.ts
-#EXTINF:-1,DE: Pro7
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/943.ts
-#EXTINF:-1,DE: Orf 2
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/944.ts
-#EXTINF:-1,DE: Orf 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/945.ts
-#EXTINF:-1,DE: Nickelodeon
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/449.ts
-#EXTINF:-1,DE: National Geographic HD Germany
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/450.ts
-#EXTINF:-1,DE: NatGeo Wild HD Germany
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/451.ts
-#EXTINF:-1,DE: N24
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/946.ts
-#EXTINF:-1,DE: Muenchen TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/947.ts
-#EXTINF:-1,PT: MOTORVISION TV
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/934.ts
-#EXTINF:-1,DE: MGM HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/948.ts
-#EXTINF:-1,DE: Kika
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/949.ts
-#EXTINF:-1,DE: Kabel 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/929.ts
-#EXTINF:-1,DE: Disney XD Deutschland
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/454.ts
-#EXTINF:-1,DE: Disney Junior
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/455.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/950.ts
-#EXTINF:-1,DE: Disney Channel HD Germany
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/457.ts
-#EXTINF:-1,DE: Discovery HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/458.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/459.ts
-#EXTINF:-1,DE: Classica
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/460.ts
-#EXTINF:-1,DE: Cartoon Network Germany
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/461.ts
-#EXTINF:-1,DE: Bundesliga 1
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/951.ts
-#EXTINF:-1,DE: Boomerang
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/952.ts
-#EXTINF:-1,DE: AXN HD Germany
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/462.ts
-#EXTINF:-1,DE: ARD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/927.ts
-#EXTINF:-1,DE: 13th Street
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/527.ts
-#EXTINF:-1,DE : TNT Glitz HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/509.ts
-#EXTINF:-1,DE : TNT Film TCM
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/510.ts
-#EXTINF:-1,DE : Syfy
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/930.ts
-#EXTINF:-1,DE : Sport1  HD
-http://iptvfree1.com:6969/live/10/www.iptvrestream.net/511.ts
-#EXTINF:-1,BEIN_SPORTS1_HD
-http://148.251.1.69:8000/live/hakami/hakami/3421.ts
-#EXTINF:-1,BEIN_SPORTS2_HD
-http://148.251.1.69:8000/live/hakami/hakami/3414.ts
-#EXTINF:-1,BEIN_SPORTS3_HD
-http://148.251.1.69:8000/live/hakami/hakami/3413.ts
-#EXTINF:-1,BEIN_SPORTS4_HD
-http://148.251.1.69:8000/live/hakami/hakami/3412.ts
-#EXTINF:-1,BEIN_SPORTS5_HD
-http://148.251.1.69:8000/live/hakami/hakami/3411.ts
-#EXTINF:-1,BEIN_SPORTS6_HD
-http://148.251.1.69:8000/live/hakami/hakami/3410.ts
-#EXTINF:-1,BEIN_SPORTS7_HD
-http://148.251.1.69:8000/live/hakami/hakami/3409.ts
-#EXTINF:-1,BEIN_SPORTS8_HD
-http://148.251.1.69:8000/live/hakami/hakami/3408.ts
-#EXTINF:-1,BEIN_SPORTS9_HD
-http://148.251.1.69:8000/live/hakami/hakami/3407.ts
-#EXTINF:-1,BEIN_SPORTS10_HD
-http://148.251.1.69:8000/live/hakami/hakami/3420.ts
-#EXTINF:-1,BEIN_SPORTS11_HD
-http://148.251.1.69:8000/live/hakami/hakami/13016.ts
-#EXTINF:-1,BEIN_SPORTS12_HD
-http://148.251.1.69:8000/live/hakami/hakami/13015.ts
-#EXTINF:-1,BEIN_SPORTS13_HD
-http://148.251.1.69:8000/live/hakami/hakami/5479.ts
-#EXTINF:-1,BEIN_SPORTS14_HD
-http://148.251.1.69:8000/live/hakami/hakami/5477.ts
-#EXTINF:-1,BEIN_SPORTS15_HD
-http://148.251.1.69:8000/live/hakami/hakami/5476.ts
-#EXTINF:-1,BEIN_SPORTS16_HD
-http://148.251.1.69:8000/live/hakami/hakami/5475.ts
-#EXTINF:-1,AR-beinSport_HD1-SD
-http://148.251.1.69:8000/live/hakami/hakami/145.ts
-#EXTINF:-1,AR-beinSport_HD2-SD
-http://148.251.1.69:8000/live/hakami/hakami/140.ts
-#EXTINF:-1,AR-beinSport_HD3-SD
-http://148.251.1.69:8000/live/hakami/hakami/139.ts
-#EXTINF:-1,AR-beinSport_HD4-SD
-http://148.251.1.69:8000/live/hakami/hakami/138.ts
-#EXTINF:-1,AR-beinSport_HD5-SD
-http://148.251.1.69:8000/live/hakami/hakami/137.ts
-#EXTINF:-1,AR-beinSport_HD6-SD
-http://148.251.1.69:8000/live/hakami/hakami/136.ts
-#EXTINF:-1,AR-beinSport_HD7-SD
-http://148.251.1.69:8000/live/hakami/hakami/135.ts
-#EXTINF:-1,AR-beinSport_HD8-SD
-http://148.251.1.69:8000/live/hakami/hakami/134.ts
-#EXTINF:-1,AR-beinSport_HD9-SD
-http://148.251.1.69:8000/live/hakami/hakami/133.ts
-#EXTINF:-1,AR-beinSport_HD10-SD
-http://148.251.1.69:8000/live/hakami/hakami/144.ts
-#EXTINF:-1,AR-beinSport_HD1-HQ
-http://148.251.1.69:8000/live/hakami/hakami/5474.ts
-#EXTINF:-1,AR-beinSport_HD2-HQ
-http://148.251.1.69:8000/live/hakami/hakami/5473.ts
-#EXTINF:-1,AR-beinSport_HD3-HQ
-http://148.251.1.69:8000/live/hakami/hakami/5472.ts
-#EXTINF:-1,AR-beinSport_HD4-HQ
-http://148.251.1.69:8000/live/hakami/hakami/5471.ts
-#EXTINF:-1,AR-beinSport_HD5-HQ
-http://148.251.1.69:8000/live/hakami/hakami/5470.ts
-#EXTINF:-1,AR-beinSport_HD6-HQ
-http://148.251.1.69:8000/live/hakami/hakami/5478.ts
-#EXTINF:-1,AR-beinSport_HD7-HQ
-http://148.251.1.69:8000/live/hakami/hakami/143.ts
-#EXTINF:-1,AR-beinSport_HD8-HQ
-http://148.251.1.69:8000/live/hakami/hakami/142.ts
-#EXTINF:-1,AR-beinSport_HD9-HQ
-http://148.251.1.69:8000/live/hakami/hakami/141.ts
-#EXTINF:-1,AR-beinSport_HD10-HQ
-http://148.251.1.69:8000/live/hakami/hakami/13017.ts
-#EXTINF:-1,AR-beIN_Sport_1-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7962.ts
-#EXTINF:-1,AR-beIN_Sport_2-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7963.ts
-#EXTINF:-1,AR-beIN_Sport_3-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7964.ts
-#EXTINF:-1,AR-beIN_Sport_4-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7965.ts
-#EXTINF:-1,AR-beIN_Sport_5-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7966.ts
-#EXTINF:-1,AR-beIN_Sport_6-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7967.ts
-#EXTINF:-1,AR-beIN_Sport_7-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7968.ts
-#EXTINF:-1,AR-beIN_Sport_8-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7969.ts
-#EXTINF:-1,AR-beIN_Sport_9-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7970.ts
-#EXTINF:-1,AR-beIN_Sport_10-LOW
-http://148.251.1.69:8000/live/hakami/hakami/7971.ts
-#EXTINF:-1,AR-AD_Sport_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/7445.ts
-#EXTINF:-1,AR-AD_Sport_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/7401.ts
-#EXTINF:-1,AR-AD_Sport_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/4678.ts
-#EXTINF:-1,AR-AD_Sport_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/4677.ts
-#EXTINF:-1,AR-AD_Sport_5_HD
-http://148.251.1.69:8000/live/hakami/hakami/4676.ts
-#EXTINF:-1,AR-AD_Sport_6_HD
-http://148.251.1.69:8000/live/hakami/hakami/4675.ts
-#EXTINF:-1,AR-OSN_Sports_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/4602.ts
-#EXTINF:-1,AR-OSN_Sports_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/12999.ts
-#EXTINF:-1,AR-OSN_Sports_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/4618.ts
-#EXTINF:-1,AR-OSN_Sports_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/4619.ts
-#EXTINF:-1,AR-OSN_WWE_HD_PPV
-http://148.251.1.69:8000/live/hakami/hakami/13002.ts
-#EXTINF:-1,AR-OSN_Fight_Network_HD
-http://148.251.1.69:8000/live/hakami/hakami/1471.ts
-#EXTINF:-1,AR-Mbc_Pro_1
-http://148.251.1.69:8000/live/hakami/hakami/7437.ts
-#EXTINF:-1,AR-Mbc_Pro_2
-http://148.251.1.69:8000/live/hakami/hakami/7438.ts
-#EXTINF:-1,AR-Mbc_Pro_3
-http://148.251.1.69:8000/live/hakami/hakami/7439.ts
-#EXTINF:-1,AR-KsaSport_1HD
-http://148.251.1.69:8000/live/hakami/hakami/7293.ts
-#EXTINF:-1,-===AR-OSN===-
-http://148.251.1.69:8000/live/hakami/hakami/3406.ts
-#EXTINF:-1,AR-OSN_Yahla_HD
-http://148.251.1.69:8000/live/hakami/hakami/517.ts
-#EXTINF:-1,AR-OSN_Ya_Hala_Drama_HD
-http://148.251.1.69:8000/live/hakami/hakami/518.ts
-#EXTINF:-1,AR-OSN_YAHALA_SHABAB_HD
-http://148.251.1.69:8000/live/hakami/hakami/460.ts
-#EXTINF:-1,AR-OSN_YAHALA_CINEMA_HD
-http://148.251.1.69:8000/live/hakami/hakami/506.ts
-#EXTINF:-1,AR-OSN_ALYOUM
-http://148.251.1.69:8000/live/hakami/hakami/507.ts
-#EXTINF:-1,AR-OSN_Al_Safwah
-http://148.251.1.69:8000/live/hakami/hakami/1468.ts
-#EXTINF:-1,AR-OSN_Fann
-http://148.251.1.69:8000/live/hakami/hakami/4599.ts
-#EXTINF:-1,AR-Fatafeat_HD
-http://148.251.1.69:8000/live/hakami/hakami/4600.ts
-#EXTINF:-1,AR-OSN_Series_Channel_HD
-http://148.251.1.69:8000/live/hakami/hakami/1467.ts
-#EXTINF:-1,AR-OSN_CINEMA_1
-http://148.251.1.69:8000/live/hakami/hakami/505.ts
-#EXTINF:-1,AR-OSN_CINEMA_2
-http://148.251.1.69:8000/live/hakami/hakami/504.ts
-#EXTINF:-1,AR-ART_Aflam1
-http://148.251.1.69:8000/live/hakami/hakami/244.ts
-#EXTINF:-1,AR-ART_Aflam2
-http://148.251.1.69:8000/live/hakami/hakami/245.ts
-#EXTINF:-1,AR-ART_Cinema
-http://148.251.1.69:8000/live/hakami/hakami/249.ts
-#EXTINF:-1,AR-ART_Hekayat
-http://148.251.1.69:8000/live/hakami/hakami/254.ts
-#EXTINF:-1,AR-ART_Hekayat2
-http://148.251.1.69:8000/live/hakami/hakami/231.ts
-#EXTINF:-1,AR-MBC_Drama_HD
-http://148.251.1.69:8000/live/hakami/hakami/512.ts
-#EXTINF:-1,AR-OSN_First_HBO_HD
-http://148.251.1.69:8000/live/hakami/hakami/1038.ts
-#EXTINF:-1,AR-OSN_Movies_HD
-http://148.251.1.69:8000/live/hakami/hakami/523.ts
-#EXTINF:-1,AR-OSN_Movies+2_HD
-http://148.251.1.69:8000/live/hakami/hakami/13014.ts
-#EXTINF:-1,AR-OSN_Movies_Action_HD
-http://148.251.1.69:8000/live/hakami/hakami/516.ts
-#EXTINF:-1,AR-OSN_Movies_Family_HD
-http://148.251.1.69:8000/live/hakami/hakami/1470.ts
-#EXTINF:-1,AR-OSN_Movies_Festival_HD
-http://148.251.1.69:8000/live/hakami/hakami/508.ts
-#EXTINF:-1,AR-OSN_Movies_Premiere_HD
-http://148.251.1.69:8000/live/hakami/hakami/519.ts
-#EXTINF:-1,AR-OSN_Movies_Drama_HD
-http://148.251.1.69:8000/live/hakami/hakami/525.ts
-#EXTINF:-1,AR-OSN_Movies_Comedy_HD
-http://148.251.1.69:8000/live/hakami/hakami/522.ts
-#EXTINF:-1,AR-OSN_Movies_Kids_HD
-http://148.251.1.69:8000/live/hakami/hakami/499.ts
-#EXTINF:-1,AR-OSN_Disney_Junior
-http://148.251.1.69:8000/live/hakami/hakami/4674.ts
-#EXTINF:-1,AR-OSN_Disney_HD
-http://148.251.1.69:8000/live/hakami/hakami/1466.ts
-#EXTINF:-1,AR-OSN_JimJam
-http://148.251.1.69:8000/live/hakami/hakami/1052.ts
-#EXTINF:-1,AR-OSN_Syfy_HD
-http://148.251.1.69:8000/live/hakami/hakami/1138.ts
-#EXTINF:-1,AR-OSN_Star_Movies_HD
-http://148.251.1.69:8000/live/hakami/hakami/500.ts
-#EXTINF:-1,AR-OSN_Star_World_HD
-http://148.251.1.69:8000/live/hakami/hakami/4673.ts
-#EXTINF:-1,AR-OSN_First_HD
-http://148.251.1.69:8000/live/hakami/hakami/521.ts
-#EXTINF:-1,AR-OSN_FIRST_COMEDY_HD
-http://148.251.1.69:8000/live/hakami/hakami/503.ts
-#EXTINF:-1,AR-OSN_E!_HD
-http://148.251.1.69:8000/live/hakami/hakami/509.ts
-#EXTINF:-1,AR-OSN_History_HD
-http://148.251.1.69:8000/live/hakami/hakami/4620.ts
-#EXTINF:-1,AR-OSN_Animal_Planet_HD
-http://148.251.1.69:8000/live/hakami/hakami/511.ts
-#EXTINF:-1,AR-OSN_Discovery_Channel_HD
-http://148.251.1.69:8000/live/hakami/hakami/4669.ts
-#EXTINF:-1,AR-OSN_Discovery_Science_HD
-http://148.251.1.69:8000/live/hakami/hakami/90.ts
-#EXTINF:-1,AR-OSN_National_Geographic_Channel_HD
-http://148.251.1.69:8000/live/hakami/hakami/513.ts
-#EXTINF:-1,AR-OSN_Nat_Geo_People_HD
-http://148.251.1.69:8000/live/hakami/hakami/4672.ts
-#EXTINF:-1,AR-OSN_Nat_Geo_Wild_HD
-http://148.251.1.69:8000/live/hakami/hakami/510.ts
-#EXTINF:-1,AR-OSN_GMA_Life_TV
-http://148.251.1.69:8000/live/hakami/hakami/1469.ts
-#EXTINF:-1,AR-OSN_GMA_News_TV
-http://148.251.1.69:8000/live/hakami/hakami/1053.ts
-#EXTINF:-1,AR-OSN_GMA_Pinoy_TV
-http://148.251.1.69:8000/live/hakami/hakami/1829.ts
-#EXTINF:-1,AR-OSN_BoxOffice1_HD
-http://148.251.1.69:8000/live/hakami/hakami/7200.ts
-#EXTINF:-1,AR-OSN_BoxOffice2_HD
-http://148.251.1.69:8000/live/hakami/hakami/7201.ts
-#EXTINF:-1,AR-OSN_BoxOffice3_HD
-http://148.251.1.69:8000/live/hakami/hakami/7202.ts
-#EXTINF:-1,AR-BeIN-Movies1_HD
-http://148.251.1.69:8000/live/hakami/hakami/4802.ts
-#EXTINF:-1,AR-BeIN-Movies2_HD
-http://148.251.1.69:8000/live/hakami/hakami/4803.ts
-#EXTINF:-1,AR-BeIN-Movies3_HD
-http://148.251.1.69:8000/live/hakami/hakami/13032.ts
-#EXTINF:-1,AR-BeIN-Movies4_HD
-http://148.251.1.69:8000/live/hakami/hakami/1581.ts
-#EXTINF:-1,AR-My-HD_MBC_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/4622.ts
-#EXTINF:-1,AR-My-HD_MBC_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/4630.ts
-#EXTINF:-1,AR-My-HD_MBC_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/4632.ts
-#EXTINF:-1,AR-My-HD_MBC_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/4631.ts
-#EXTINF:-1,AR-My-HD_MBC_Action_HD
-http://148.251.1.69:8000/live/hakami/hakami/4081.ts
-#EXTINF:-1,AR-My-HD_MBC_Drama_HD
-http://148.251.1.69:8000/live/hakami/hakami/4082.ts
-#EXTINF:-1,AR-My-HD_MBC_Max_HD
-http://148.251.1.69:8000/live/hakami/hakami/4084.ts
-#EXTINF:-1,AR-My-HD_MBC_P_Variety_HD
-http://148.251.1.69:8000/live/hakami/hakami/4080.ts
-#EXTINF:-1,AR-My-HD_MBC_Variety_HD
-http://148.251.1.69:8000/live/hakami/hakami/4079.ts
-#EXTINF:-1,AR-My-HD_Fox_Action_Movies_HD
-http://148.251.1.69:8000/live/hakami/hakami/4633.ts
-#EXTINF:-1,AR-My-HD_Fox_Family_Movies_HD
-http://148.251.1.69:8000/live/hakami/hakami/4634.ts
-#EXTINF:-1,AR-Almajd
-http://148.251.1.69:8000/live/hakami/hakami/9286.ts
-#EXTINF:-1,AR-Almajd_Quran
-http://148.251.1.69:8000/live/hakami/hakami/3629.ts
-#EXTINF:-1,AR-Almajd_Ahadeeth
-http://148.251.1.69:8000/live/hakami/hakami/9285.ts
-#EXTINF:-1,AR-beIN_Jeem_HD
-http://148.251.1.69:8000/live/hakami/hakami/1043.ts
-#EXTINF:-1,AR-Jeem_EU
-http://148.251.1.69:8000/live/hakami/hakami/13013.ts
-#EXTINF:-1,AR-beIN_Baraem_HD
-http://148.251.1.69:8000/live/hakami/hakami/1044.ts
-#EXTINF:-1,AR-Baraem_EU
-http://148.251.1.69:8000/live/hakami/hakami/7402.ts
-#EXTINF:-1,AR-Toyor_AlJanah
-http://148.251.1.69:8000/live/hakami/hakami/3664.ts
-#EXTINF:-1,AR-Cartoon_Network
-http://148.251.1.69:8000/live/hakami/hakami/501.ts
-#EXTINF:-1,AR-SpaceToon
-http://148.251.1.69:8000/live/hakami/hakami/7708.ts
-#EXTINF:-1,AR-Atfal_w_Mwaheb
-http://148.251.1.69:8000/live/hakami/hakami/10786.ts
-#EXTINF:-1,AR-Koky_Kids
-http://148.251.1.69:8000/live/hakami/hakami/12067.ts
-#EXTINF:-1,AR-Kramesh
-http://148.251.1.69:8000/live/hakami/hakami/10788.ts
-#EXTINF:-1,AR-Majid
-http://148.251.1.69:8000/live/hakami/hakami/12064.ts
-#EXTINF:-1,AR-Mickey
-http://148.251.1.69:8000/live/hakami/hakami/12202.ts
-#EXTINF:-1,AR-Mody
-http://148.251.1.69:8000/live/hakami/hakami/7704.ts
-#EXTINF:-1,AR-SemSem
-http://148.251.1.69:8000/live/hakami/hakami/7756.ts
-#EXTINF:-1,AR-Kidzinia
-http://148.251.1.69:8000/live/hakami/hakami/1806.ts
-#EXTINF:-1,AR-MBC1
-http://148.251.1.69:8000/live/hakami/hakami/260.ts
-#EXTINF:-1,AR-MBC2
-http://148.251.1.69:8000/live/hakami/hakami/261.ts
-#EXTINF:-1,AR-MBC3
-http://148.251.1.69:8000/live/hakami/hakami/262.ts
-#EXTINF:-1,AR-MBC4
-http://148.251.1.69:8000/live/hakami/hakami/263.ts
-#EXTINF:-1,AR-MbcMax
-http://148.251.1.69:8000/live/hakami/hakami/7497.ts
-#EXTINF:-1,AR-MbcAction
-http://148.251.1.69:8000/live/hakami/hakami/7493.ts
-#EXTINF:-1,AR-MbcBollywood
-http://148.251.1.69:8000/live/hakami/hakami/7494.ts
-#EXTINF:-1,AR-MbcMasr
-http://148.251.1.69:8000/live/hakami/hakami/7496.ts
-#EXTINF:-1,AR-MbcMasr2
-http://148.251.1.69:8000/live/hakami/hakami/7298.ts
-#EXTINF:-1,AR-MbcDrama
-http://148.251.1.69:8000/live/hakami/hakami/7495.ts
-#EXTINF:-1,AR-Abu_Dhabi_Drama_HD
-http://148.251.1.69:8000/live/hakami/hakami/13012.ts
-#EXTINF:-1,AR-ZeeAflam
-http://148.251.1.69:8000/live/hakami/hakami/7304.ts
-#EXTINF:-1,AR-ZeeAlwan
-http://148.251.1.69:8000/live/hakami/hakami/7305.ts
-#EXTINF:-1,-===Sports_Channels===-
-http://148.251.1.69:8000/live/hakami/hakami/693.ts
-#EXTINF:-1,AR-ALKASS_SPORTS_ONE_HD
-http://148.251.1.69:8000/live/hakami/hakami/9289.ts
-#EXTINF:-1,AR-ALKASS_SPORTS_TWO_HD
-http://148.251.1.69:8000/live/hakami/hakami/9288.ts
-#EXTINF:-1,AR-ALKASS_SPORTS_THREE_HD
-http://148.251.1.69:8000/live/hakami/hakami/9287.ts
-#EXTINF:-1,AR-ALKASS_SPORTS_FOUR_HD
-http://148.251.1.69:8000/live/hakami/hakami/8222.ts
-#EXTINF:-1,NL-HBO1
-http://148.251.1.69:8000/live/hakami/hakami/7849.ts
-#EXTINF:-1,NL-HBO2
-http://148.251.1.69:8000/live/hakami/hakami/7848.ts
-#EXTINF:-1,NL-HBO3
-http://148.251.1.69:8000/live/hakami/hakami/7847.ts
-#EXTINF:-1,NL-FilmComedy
-http://148.251.1.69:8000/live/hakami/hakami/7851.ts
-#EXTINF:-1,NL-FilmPremiere
-http://148.251.1.69:8000/live/hakami/hakami/7852.ts
-#EXTINF:-1,NL-Film_Action
-http://148.251.1.69:8000/live/hakami/hakami/7837.ts
-#EXTINF:-1,NL-rtl5
-http://148.251.1.69:8000/live/hakami/hakami/7846.ts
-#EXTINF:-1,NL-rtl7
-http://148.251.1.69:8000/live/hakami/hakami/7845.ts
-#EXTINF:-1,NL-Fox
-http://148.251.1.69:8000/live/hakami/hakami/7850.ts
-#EXTINF:-1,NL-Fox_Sports_1_Eredivisie
-http://148.251.1.69:8000/live/hakami/hakami/7844.ts
-#EXTINF:-1,NL-Fox_Sports_2_Internationaal
-http://148.251.1.69:8000/live/hakami/hakami/7843.ts
-#EXTINF:-1,NL-Fox_Sports_3_Eredivisie
-http://148.251.1.69:8000/live/hakami/hakami/7842.ts
-#EXTINF:-1,NL-Fox_Sports_4_Internationaal
-http://148.251.1.69:8000/live/hakami/hakami/7841.ts
-#EXTINF:-1,NL-Fox_Sports_5_Eredivisie
-http://148.251.1.69:8000/live/hakami/hakami/7840.ts
-#EXTINF:-1,ES-CANAL_LIGA_HD
-http://148.251.1.69:8000/live/hakami/hakami/5015.ts
-#EXTINF:-1,ES-CANAL_FUTBOL
-http://148.251.1.69:8000/live/hakami/hakami/5016.ts
-#EXTINF:-1,ES-CANAL_COMEDIA
-http://148.251.1.69:8000/live/hakami/hakami/5019.ts
-#EXTINF:-1,ES-1_HD
-http://148.251.1.69:8000/live/hakami/hakami/5011.ts
-#EXTINF:-1,ES-CANAL_ACCION
-http://148.251.1.69:8000/live/hakami/hakami/5014.ts
-#EXTINF:-1,ES-CANAL_DEPORTES
-http://148.251.1.69:8000/live/hakami/hakami/5017.ts
-#EXTINF:-1,ES-CANAL_DCINE
-http://148.251.1.69:8000/live/hakami/hakami/5018.ts
-#EXTINF:-1,ES-HOLLYWOOD
-http://148.251.1.69:8000/live/hakami/hakami/5012.ts
-#EXTINF:-1,ES-FOX
-http://148.251.1.69:8000/live/hakami/hakami/5013.ts
-#EXTINF:-1,-===Portugal_TV_Channels===-
-http://148.251.1.69:8000/live/hakami/hakami/3402.ts
-#EXTINF:-1,PT-Real_Madrid_TV
-http://148.251.1.69:8000/live/hakami/hakami/13592.ts
-#EXTINF:-1,PT-SPORT_TV_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/13581.ts
-#EXTINF:-1,PT-SPORT_TV_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/13582.ts
-#EXTINF:-1,PT-SPORTV_TV_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/13583.ts
-#EXTINF:-1,PT-MTV_PORTUGAL
-http://148.251.1.69:8000/live/hakami/hakami/13605.ts
-#EXTINF:-1,PT-RTP
-http://148.251.1.69:8000/live/hakami/hakami/13552.ts
-#EXTINF:-1,PT-TVC_1_HD
-http://148.251.1.69:8000/live/hakami/hakami/13563.ts
-#EXTINF:-1,PT-TVC_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/13564.ts
-#EXTINF:-1,PT-TVC_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/13565.ts
-#EXTINF:-1,PT-TVCINE_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/13566.ts
-#EXTINF:-1,PT-HOLLYWOOD
-http://148.251.1.69:8000/live/hakami/hakami/13567.ts
-#EXTINF:-1,PT-CANAL_PANDA
-http://148.251.1.69:8000/live/hakami/hakami/13612.ts
-#EXTINF:-1,PT-AXN_Black
-http://148.251.1.69:8000/live/hakami/hakami/13570.ts
-#EXTINF:-1,PT-A&E
-http://148.251.1.69:8000/live/hakami/hakami/13579.ts
-#EXTINF:-1,PT-VH1
-http://148.251.1.69:8000/live/hakami/hakami/13608.ts
-#EXTINF:-1,FR-TF1_HD
-http://148.251.1.69:8000/live/hakami/hakami/4009.ts
-#EXTINF:-1,FR-France_2
-http://148.251.1.69:8000/live/hakami/hakami/4010.ts
-#EXTINF:-1,FR-France_3_HD
-http://148.251.1.69:8000/live/hakami/hakami/4011.ts
-#EXTINF:-1,FR-FRANCE_4_HD
-http://148.251.1.69:8000/live/hakami/hakami/4012.ts
-#EXTINF:-1,FR-FRANCE_5_HD
-http://148.251.1.69:8000/live/hakami/hakami/4013.ts
-#EXTINF:-1,FR-FRANCE_O
-http://148.251.1.69:8000/live/hakami/hakami/4014.ts
-#EXTINF:-1,FR-M6_HD
-http://148.251.1.69:8000/live/hakami/hakami/4015.ts
-#EXTINF:-1,FR-ARTE
-http://148.251.1.69:8000/live/hakami/hakami/4016.ts
-#EXTINF:-1,FR-Bein_Sports_HD
-http://148.251.1.69:8000/live/hakami/hakami/4049.ts
-#EXTINF:-1,FR-Bein_Sport_2_HD
-http://148.251.1.69:8000/live/hakami/hakami/4050.ts
-#EXTINF:-1,FR-Bein_Sport 3_HD
-http://148.251.1.69:8000/live/hakami/hakami/4051.ts
-#EXTINF:-1,FR-Comedie+
-http://148.251.1.69:8000/live/hakami/hakami/4039.ts
-#EXTINF:-1,FR-CINE_POLAR
-http://148.251.1.69:8000/live/hakami/hakami/4027.ts
-#EXTINF:-1,FR-CINE_FRISSON_HD
-http://148.251.1.69:8000/live/hakami/hakami/4029.ts
-#EXTINF:-1,FR-Cine_Famiz_H
-http://148.251.1.69:8000/live/hakami/hakami/4030.ts
-#EXTINF:-1,FR-CINE_FX
-http://148.251.1.69:8000/live/hakami/hakami/4028.ts
-#EXTINF:-1,FR-Chasse_et_peche
-http://148.251.1.69:8000/live/hakami/hakami/4072.ts
-#EXTINF:-1,FR-Canal_sport_HD
-http://148.251.1.69:8000/live/hakami/hakami/4048.ts
-#EXTINF:-1,FR-Canal_Series_HD
-http://148.251.1.69:8000/live/hakami/hakami/4035.ts
-#EXTINF:-1,FR-CANAL_HD
-http://148.251.1.69:8000/live/hakami/hakami/4020.ts
-#EXTINF:-1,FR-Canal_Family_HD
-http://148.251.1.69:8000/live/hakami/hakami/4022.ts
-#EXTINF:-1,FR-Canal_Decale_HD
-http://148.251.1.69:8000/live/hakami/hakami/4034.ts
-#EXTINF:-1,FR-Canal_cinema_HD
-http://148.251.1.69:8000/live/hakami/hakami/4021.ts
-#EXTINF:-1,FR-Toute_l-Histoire
-http://148.251.1.69:8000/live/hakami/hakami/4070.ts
-#EXTINF:-1,FR-Gulli
-http://148.251.1.69:8000/live/hakami/hakami/4087.ts
-#EXTINF:-1,FR-W9
-http://148.251.1.69:8000/live/hakami/hakami/4044.ts
-#EXTINF:-1,FR-USHUAIA_TV
-http://148.251.1.69:8000/live/hakami/hakami/4068.ts
-#EXTINF:-1,FR-TEVA
-http://148.251.1.69:8000/live/hakami/hakami/4043.ts
-#EXTINF:-1,FR-TCM
-http://148.251.1.69:8000/live/hakami/hakami/4032.ts
-#EXTINF:-1,FR-RMC_Decouverte_HD
-http://148.251.1.69:8000/live/hakami/hakami/4073.ts
-#EXTINF:-1,FR-Euronews
-http://148.251.1.69:8000/live/hakami/hakami/4096.ts
-#EXTINF:-1,FR-Eurosport
-http://148.251.1.69:8000/live/hakami/hakami/4054.ts
-#EXTINF:-1,FR-Eurosport_2
-http://148.251.1.69:8000/live/hakami/hakami/4055.ts
-#EXTINF:-1,FR-Planete _CI
-http://148.251.1.69:8000/live/hakami/hakami/4061.ts
-#EXTINF:-1,FR-Planete_A&E
-http://148.251.1.69:8000/live/hakami/hakami/4060.ts
-#EXTINF:-1,FR-PLANETE_HD
-http://148.251.1.69:8000/live/hakami/hakami/4059.ts
-#EXTINF:-1,FR-Piwi
-http://148.251.1.69:8000/live/hakami/hakami/4083.ts
-#EXTINF:-1,FR-OCS_MAX_HD
-http://148.251.1.69:8000/live/hakami/hakami/4023.ts
-#EXTINF:-1,FR-OCS_CHOC_HD
-http://148.251.1.69:8000/live/hakami/hakami/4024.ts
-#EXTINF:-1,FR-NT1_HD
-http://148.251.1.69:8000/live/hakami/hakami/4042.ts
-#EXTINF:-1,FR-National_Geographic
-http://148.251.1.69:8000/live/hakami/hakami/4063.ts
-#EXTINF:-1,FR-NAT_GEO_WILD_HD
-http://148.251.1.69:8000/live/hakami/hakami/4064.ts
-#EXTINF:-1,FR-Mangas
-http://148.251.1.69:8000/live/hakami/hakami/4088.ts
-#EXTINF:-1,FR-Ma_Chaine_Sport_HD
-http://148.251.1.69:8000/live/hakami/hakami/4052.ts
-#EXTINF:-1,FR-M6_music
-http://148.251.1.69:8000/live/hakami/hakami/4076.ts
-#EXTINF:-1,FR-L_equipe_21
-http://148.251.1.69:8000/live/hakami/hakami/4057.ts
-#EXTINF:-1,FR-E!_ENTERTAINEMENT
-http://148.251.1.69:8000/live/hakami/hakami/4037.ts
-#EXTINF:-1,FR-Discovery_Science_HD
-http://148.251.1.69:8000/live/hakami/hakami/4066.ts
-#EXTINF:-1,FR-Discovery_HD
-http://148.251.1.69:8000/live/hakami/hakami/4065.ts
-#EXTINF:-1,FR-D8
-http://148.251.1.69:8000/live/hakami/hakami/4045.ts
-#EXTINF:-1,FR-D17
-http://148.251.1.69:8000/live/hakami/hakami/4046.ts
-#EXTINF:-1,FR-BFM_TV
-http://148.251.1.69:8000/live/hakami/hakami/4095.ts
-#EXTINF:-1,FR-Animaux_HD
-http://148.251.1.69:8000/live/hakami/hakami/4071.ts
-#EXTINF:-1,FR-Action
-http://148.251.1.69:8000/live/hakami/hakami/4031.ts
-#EXTINF:-1,FR-6TER
-http://148.251.1.69:8000/live/hakami/hakami/4018.ts
-#EXTINF:-1,FR-TMC
-http://148.251.1.69:8000/live/hakami/hakami/4005.ts
-#EXTINF:-1,FR-Syfy
-http://148.251.1.69:8000/live/hakami/hakami/4036.ts
-#EXTINF:-1,FR-RTL9_HD
-http://148.251.1.69:8000/live/hakami/hakami/4006.ts
-#EXTINF:-1,FR-OCS_city
-http://148.251.1.69:8000/live/hakami/hakami/4026.ts
+#EXTINF:-1,***** GERMANY *****
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1147.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1399.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1431.ts
+#EXTINF:-1,DE | ATV-A
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1430.ts
+#EXTINF:-1,DE | Kika.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1429.ts
+#EXTINF:-1,DE | PRO7_MAXX
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1506.ts
+#EXTINF:-1,DE | Pro7
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1507.ts
+#EXTINF:-1,DE | SKY KRIMI HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1400.ts
+#EXTINF:-1,DE | RTL_LIVING
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1508.ts
+#EXTINF:-1,DE | SkyHits
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1401.ts
+#EXTINF:-1,DE | NatGeo Wild
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1411.ts
+#EXTINF:-1,DE | SKY CINEMA1 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1406.ts
+#EXTINF:-1,DE | SKY COMEDY HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1407.ts
+#EXTINF:-1,DE | SKY CINEMA HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1408.ts
+#EXTINF:-1,DE | SkyAction
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1404.ts
+#EXTINF:-1,DE | SkyAtlantic
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1403.ts
+#EXTINF:-1,DE | SkyCinema24
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1405.ts
+#EXTINF:-1,DE | 13Street
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1402.ts
+#EXTINF:-1,DE | Sat1
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1426.ts
+#EXTINF:-1,DE | EURO SPORT
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1412.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1413.ts
+#EXTINF:-1,DE | SKY SPORT1 HD uuu
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1417.ts
+#EXTINF:-1,DE | ORF1
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1421.ts
+#EXTINF:-1,DE | VOX.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1423.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA  1
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1416.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1415.ts
+#EXTINF:-1,DE | SAT 1.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1418.ts
+#EXTINF:-1,DE | PRO 7.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1428.ts
+#EXTINF:-1,DE | SuperRTL
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1419.ts
+#EXTINF:-1,DE | RTL HD uuu
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1420.ts
+#EXTINF:-1,DE | ZDF.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1422.ts
+#EXTINF:-1,DE | RTL II
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1427.ts
+#EXTINF:-1,DE | Prosieben
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1409.ts
+#EXTINF:-1,DE | SkyCinema
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1425.ts
+#EXTINF:-1,DE | SKY Comedy one
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1432.ts
+#EXTINF:-1,DE | SKY CINEMA +1
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1410.ts
+#EXTINF:-1,DE | RTL HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1513.ts
+#EXTINF:-1,DE | SKY EMOTION
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1473.ts
+#EXTINF:-1,DE | NDR HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1477.ts
+#EXTINF:-1,DE | RTL_CRIME
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1509.ts
+#EXTINF:-1,DE | Fox hd
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1522.ts
+#EXTINF:-1,DE | AXN.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1523.ts
+#EXTINF:-1,DE | Sat1 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1510.ts
+#EXTINF:-1,DE | Srf1
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1472.ts
+#EXTINF:-1,DE | N TV.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1474.ts
+#EXTINF:-1,DE | ROMANCE
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1475.ts
+#EXTINF:-1,DE | SkyNostalgie
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1476.ts
+#EXTINF:-1,DE | Eurosport HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1478.ts
+#EXTINF:-1,DE | WDRHD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1480.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1481.ts
+#EXTINF:-1,DE | VOX
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1514.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1482.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1483.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1484.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1485.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1486.ts
+#EXTINF:-1,DE | SPORT 1  HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1487.ts
+#EXTINF:-1,DE | SKY SELECT 1
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1490.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1488.ts
+#EXTINF:-1,DE | ZDF
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1515.ts
+#EXTINF:-1,DE | ORF2
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1517.ts
+#EXTINF:-1,DE | D MAX HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1518.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1497.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1498.ts
+#EXTINF:-1,DE | RTL2 HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1512.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1520.ts
+#EXTINF:-1,DE | NATGEOWILD HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1499.ts
+#EXTINF:-1,DE | ARD HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1500.ts
+#EXTINF:-1,DE | ARD TV
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1516.ts
+#EXTINF:-1,DE | Disney_Junior
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1501.ts
+#EXTINF:-1,DE | Disney_XD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1502.ts
+#EXTINF:-1,DE | NICK_JR
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1504.ts
+#EXTINF:-1,DE | SYFY
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1521.ts
+#EXTINF:-1,DE | WDR.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1505.ts
+#EXTINF:-1,DE | RTL_NITRO
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1511.ts
+#EXTINF:-1,DE | SIXX.
+http://sutverduz.com:8080/live/clinecenter.com1/2511/1519.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2625.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2624.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2633.ts
+#EXTINF:-1,DE | RTL PASSÄ°ON
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2626.ts
+#EXTINF:-1,DE | KINO WELT TV
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2630.ts
+#EXTINF:-1,DE | KabelEins
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2627.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2631.ts
+#EXTINF:-1,DE | DISNEY CINEMAGIC
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2632.ts
+#EXTINF:-1,DE | A&E
+http://sutverduz.com:8080/live/clinecenter.com1/2511/2628.ts
+#EXTINF:-1,DE VOD | 10.Cloverfield.Lane.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1764.mkv
+#EXTINF:-1,DE VOD | 69.Tage.Hoffnung.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1765.mkv
+#EXTINF:-1,DE VOD | A.Perfect.Day.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1766.mkv
+#EXTINF:-1,DE VOD | Baskin  2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1768.mkv
+#EXTINF:-1,DE VOD | Batman.v.Superman.Dawn.of.Justice.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1770.mkv
+#EXTINF:-1,DE VOD | Bruder vor Lude 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1771.mkv
+#EXTINF:-1,DE VOD | Burnt.Im.Rausch.der.Sterne.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1772.mkv
+#EXTINF:-1,DE VOD | Carol.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1773.mkv
+#EXTINF:-1,DE VOD | Chroniken.der.Unterwelt.City.of.Bones.2013
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1774.mkv
+#EXTINF:-1,DE VOD | Creed Rockys Legacy German 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1775.mkv
+#EXTINF:-1,DE VOD | Deadpool.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1776.mkv
+#EXTINF:-1,DE VOD | Der.8.Kontinent.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1777.mkv
+#EXTINF:-1,DE VOD | Die.5.Welle.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1778.mkv
+#EXTINF:-1,DE VOD | Eddie the Eagle Alles ist mÃ¶glich  2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1779.mkv
+#EXTINF:-1,DE VOD | Eisenstein in Guanajuato 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1780.mkv
+#EXTINF:-1,DE VOD | Honig.im.Kopf.2014
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1781.mkv
+#EXTINF:-1,DE VOD | Jane.Got.a.Gun.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1782.mkv
+#EXTINF:-1,DE VOD | Jarhead.3 Die.Belagerung.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1783.mkv
+#EXTINF:-1,DE VOD | Joy.Alles.ausser.gewoehnlich.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1784.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 01 1993
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1785.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 02 1997
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1786.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 03 2001
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1787.mkv
+#EXTINF:-1,DE VOD | Jurassic Park 04 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1788.mkv
+#EXTINF:-1,DE VOD | Killer.Laugh.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1789.mkv
+#EXTINF:-1,DE VOD | Legend German.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1790.mkv
+#EXTINF:-1,DE VOD | lmxjanegun
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1819.mkv
+#EXTINF:-1,DE VOD | Lord.of War 2005
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1791.mkv
+#EXTINF:-1,DE VOD | Memories.of.the.Sword.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1792.mkv
+#EXTINF:-1,DE VOD | Pandemic Fear the Dead 2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1794.mkv
+#EXTINF:-1,DE VOD | POD 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1793.mkv
+#EXTINF:-1,DE VOD | Remember Vergiss nicht dich zu erinnern  2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1795.mkv
+#EXTINF:-1,DE VOD | Russell Wahnsinn Im Ring ist er der King  2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1796.mkv
+#EXTINF:-1,DE VOD | Sherlock Die.Braut.des Grauens.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1797.mkv
+#EXTINF:-1,DE VOD | Starwars7
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1798.mkv
+#EXTINF:-1,DE VOD | Synchronicity  2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1800.mkv
+#EXTINF:-1,DE VOD | The First Avenger Civil War 2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1801.mkv
+#EXTINF:-1,DE VOD | The Hospital 2 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1802.mkv
+#EXTINF:-1,DE VOD | The.Big.Short.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1804.mkv
+#EXTINF:-1,DE VOD | The.Dressmaker.Die.Schneiderin.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1805.mkv
+#EXTINF:-1,DE VOD | The.Huntsman.and.the.Ice.Queen.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1806.mkv
+#EXTINF:-1,DE VOD | The.Jungle.Book.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1807.mkv
+#EXTINF:-1,DE VOD | The.Lobster.Hummer.sind.auch.nur.Menschen.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1808.mkv
+#EXTINF:-1,DE VOD | The.Night.Crew.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1809.mkv
+#EXTINF:-1,DE VOD | The.Revenant.Der.Rueckkehrer.2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1810.mkv
+#EXTINF:-1,DE VOD | Time.Rush.2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1811.mkv
+#EXTINF:-1,DE VOD | Trumbo 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1812.mkv
+#EXTINF:-1,DE VOD | Und taeglich gruesst der Braeutigam 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1813.mkv
+#EXTINF:-1,DE VOD | Unter dem Sand 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1814.mkv
+#EXTINF:-1,DE VOD | Wilde Hunde Rabid Dogs2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1815.mkv
+#EXTINF:-1,DE VOD | Zombie Shark The Swimming Dead 2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1816.mkv
+#EXTINF:-1,DE VOD | Zorniges Land  2015
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/1818.mkv
+#EXTINF:-1,DE VOD | Zoomania - 2016 - German - AC3 BDRiP x264 - KW
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3265.mp4
+#EXTINF:-1,DE VOD | Zoolander.2.2016.German.BDRiP.AC3.XViD-CRG
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3264.mp4
+#EXTINF:-1,DE VOD | X Men Apocalypse - 2016 - German - TS AC3 LD XViD - PS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3263.mp4
+#EXTINF:-1,DE VOD | Warcraft.The.Beginning.2016.GERMAN.AC3.LiNE.DUBBED.HDTC.x264-GOT
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3262.mp4
+#EXTINF:-1,DE VOD | Tschiller Off Duty
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3261.mp4
+#EXTINF:-1,DE VOD | trust-xvid
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3274.mp4
+#EXTINF:-1,DE VOD | The Survivalist
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3260.mp4
+#EXTINF:-1,DE VOD | The Shallows Gefahr aus der Tiefe - 2016 - German - TS MD x264 - NSane
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3259.mp4
+#EXTINF:-1,DE VOD | The Purge 3 Election Year - German - 2016 - AC3 MD BDRiP x264 - ABC
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3258.mp4
+#EXTINF:-1,DE VOD | The Other Side of the Door - German - AC3D BDRiP x264 - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3257.mp4
+#EXTINF:-1,DE VOD | The Nice Guys
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3256.mp4
+#EXTINF:-1,DE VOD | The Mechanic 2 Resurrection - 2016 - German - TS MD x264 - PS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3255.mp4
+#EXTINF:-1,DE VOD | The First Avenger Civil War720p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3254.mp4
+#EXTINF:-1,DE VOD | thco2.ts.md.xvd-abc
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3273.mp4
+#EXTINF:-1,DE VOD | Suicide Squad - 2016 - German - WEBHCRiP AC3 LD BLURRED x264 - PS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3253.mp4
+#EXTINF:-1,DE VOD | Star Trek Beyond - 2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3252.mp4
+#EXTINF:-1,DE VOD | sisters-2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3272.mp4
+#EXTINF:-1,DE VOD | Ruf der Macht Im Sumpf der Korruption - German - 2016 - AC3 BDRiP x264 - CiNEViSiON
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3251.mp4
+#EXTINF:-1,DE VOD | Robinson Crusoe - 2016 - German - BDRiP XViD - DETAiLS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3250.mp4
+#EXTINF:-1,DE VOD | Ride Along 2 Next Level Miami2016
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3249.mp4
+#EXTINF:-1,DE VOD | Rage Tage der Vergeltung - German - 2016 - AC3 BDRiP x264 - XF
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3248.mp4
+#EXTINF:-1,DE VOD | pso-the.huntsman.and.the.ice.queen_web.720p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3271.mp4
+#EXTINF:-1,DE VOD | ps-king.webmd.xv
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3270.mp4
+#EXTINF:-1,DE VOD | Pets - 2016 - German - TS LD XViD - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3247.mp4
+#EXTINF:-1,DE VOD | otherside.720-gersubbed
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3269.mp4
+#EXTINF:-1,DE VOD | Nerve - 2016 - German - WEBRiP LD x264 - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3246.mp4
+#EXTINF:-1,DE VOD | mp-midnight-xsd
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3268.mp4
+#EXTINF:-1,DE VOD | Monsieur Chocolat - German - 2015 - AC3 BDRiP x264 - XF
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3245.mp4
+#EXTINF:-1,DE VOD | Money Monster - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3244.mp4
+#EXTINF:-1,DE VOD | Mikro und Sprit Auf und davon und niemals zur und niemals zur
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3243.mp4
+#EXTINF:-1,DE VOD | Manhattan Nocturne Tattan Nocturne
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3242.mp4
+#EXTINF:-1,DE VOD | Legend of Tarzan - 2016 - German - TS MD XViD PROPER - JANE
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3241.mp4
+#EXTINF:-1,DE VOD | Kung.Fu.Panda.3
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3240.mp4
+#EXTINF:-1,DE VOD | Jimmy Vestvood Amerikan Hero - German - 2016 - BDRiP x264 - MORTAL
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3239.mp4
+#EXTINF:-1,DE VOD | Jason Bourne - 2016 - GErman - TS LD x264 - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3238.mp4
+#EXTINF:-1,DE VOD | Independence Day 2 Wiederkehr
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3236.mp4
+#EXTINF:-1,DE VOD | Ice Age Kollision voraus - 2016 - German - AC3D BDRiP x264 - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3235.mp4
+#EXTINF:-1,DE VOD | Hardcore - German - 2015 - DL BDRiP x264 - CiNEViSiON
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3234.mp4
+#EXTINF:-1,DE VOD | Guernica - German - 2016 - AC3 DVDRiP x264 - SAViOUR
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3233.mp4
+#EXTINF:-1,DE VOD | Green Room - 2015 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3232.mp4
+#EXTINF:-1,DE VOD | Gods of Egypt - 2016 - German - BDRiP AC3D XViD - CRG
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3231.mp4
+#EXTINF:-1,DE VOD | Ghostbusters - 2016 - German - BDRiP LD x264 - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3230.mp4
+#EXTINF:-1,DE VOD | Free State of Jones - 2016 - German - AC3D BDRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3229.mp4
+#EXTINF:-1,DE VOD | Excess Flesh - German - 2015 - BDRiP x264 - MORTAL
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3228.mp4
+#EXTINF:-1,DE VOD | Erschutternde wahrheit
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3227.mp4
+#EXTINF:-1,DE VOD | enticement-unfriend.webhd.720p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3267.mp4
+#EXTINF:-1,DE VOD | Ein ganzes halbes Jahr - 2016 - German - AC3D BDRiP XViD - LameXD
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3226.mp4
+#EXTINF:-1,DE VOD | Dragon Love Is A Scary Tale - 2015 - German - AC3 BDRiP XViD - CRG
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3225.mp4
+#EXTINF:-1,DE VOD | Dirty Grandpa - 2016 - German - AC3D 5.1 BDRiP XViD - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3224.mp4
+#EXTINF:-1,DE VOD | Die Unfassbaren 2 - 2016 - German - BDRiP LD x264 - PsO
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3223.mp4
+#EXTINF:-1,DE VOD | Die 5. Welle_720p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3222.mp4
+#EXTINF:-1,DE VOD | Desierto Tödliche Hetzjagd
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3221.mp4
+#EXTINF:-1,DE VOD | Der lange Weg - 2016 - German - AC3D BDRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3220.mp4
+#EXTINF:-1,DE VOD | Der Junge und das Biest - German - 2015 - ANiME DL BDRiP x264 - STARS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3218.mp4
+#EXTINF:-1,DE VOD | Der geilste Tag - 2016 - German - BDRiP x264 - DETAiLS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3219.mp4
+#EXTINF:-1,DE VOD | Deadpool_720p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3217.mp4
+#EXTINF:-1,DE VOD | Das Jerico Projekt Im Kopf des Killers - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3215.mp4
+#EXTINF:-1,DE VOD | Das fehlende Grau - German - 2015 - AC3 DVDRiP x264 - KNT
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3216.mp4
+#EXTINF:-1,DE VOD | Dads.Army.2016.German.AC3D.BDRiP.x264-iND
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3214.mp4
+#EXTINF:-1,DE VOD | Conjuring 2 - 2016 - German - AC3 DVDRiP x264 - HP
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3213.mp4
+#EXTINF:-1,DE VOD | Central inteligent-720p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3211.mp4
+#EXTINF:-1,DE VOD | Blood Father - 2016 - German - AC3D 5.1 BDRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3210.mp4
+#EXTINF:-1,DE VOD | Batman v Superman Dawn of Justice - 2016 - German - WEBRiP LD XViD - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3209.mp4
+#EXTINF:-1,DE VOD | Baskin - 2015 - German - AC3 BDRiP XviD - FIJ
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3208.mp4
+#EXTINF:-1,DE VOD | Barbie in Das Sternenlicht Abenteuer - 2016 - German - AC3 DVDRiP x264 - CRG
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3207.mp4
+#EXTINF:-1,DE VOD | Bad Neighbors 2 - 2016 - German - AC3D BDRiP x264 - CRG
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3206.mp4
+#EXTINF:-1,DE VOD | ARQ - 2016 - German - AC3D WEBRiP x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3200.mp4
+#EXTINF:-1,DE VOD | Angry Birds Der Film
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3205.mp4
+#EXTINF:-1,DE VOD | AmericanHistory1998
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3204.mp4
+#EXTINF:-1,DE VOD | allegiant-webdl1080p
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3266.mp4
+#EXTINF:-1,DE VOD | Alice im Wunderland Hinter den Spiegeln - 2016 - German - TS AC3 LD XViD - PS
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3203.mp4
+#EXTINF:-1,DE VOD | Agoraphobia Der Tod lauert uberall
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3202.mp4
+#EXTINF:-1,DE VOD | Ab in den Dschungel - 2015 - German - BDRiP MD x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3201.mp4
+#EXTINF:-1,DE VOD | A War - German
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3199.mp4
+#EXTINF:-1,DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German - AC3 BDRip x264 - MULTiPLEX
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3197.mp4
+#EXTINF:-1,DE VOD | 13 Hours The Secret Soldiers of Benghazi - 2016 - German
+http://sutverduz.com:8080/movie/clinecenter.com1/2511/3198.mp4
+#EXTINF:-1,========||| CANALI DEUTSCH |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8809.ts
+#EXTINF:-1,|DE| Das Erste HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8810.ts
+#EXTINF:-1,|DE| Kabel 1 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8812.ts
+#EXTINF:-1,|DE| Sat Eins HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8815.ts
+#EXTINF:-1,|DE| Eins Plus
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8816.ts
+#EXTINF:-1,|DE| Sat Eins Gold
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8817.ts
+#EXTINF:-1,|DE| Eins Festival
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8818.ts
+#EXTINF:-1,|DE| ZDF HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8819.ts
+#EXTINF:-1,|DE| ZDF Neo HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8820.ts
+#EXTINF:-1,|DE| ZDF kultur HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8821.ts
+#EXTINF:-1,|DE| RTL HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8822.ts
+#EXTINF:-1,|DE| RTL 2 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8824.ts
+#EXTINF:-1,|DE| Super RTL
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8825.ts
+#EXTINF:-1,|DE| RTL Nitro
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8826.ts
+#EXTINF:-1,|DE| VOX HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8827.ts
+#EXTINF:-1,|DE| Sixx HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8828.ts
+#EXTINF:-1,|DE| Pro7 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8829.ts
+#EXTINF:-1,|DE| Pro7 Maxx HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8831.ts
+#EXTINF:-1,|DE| Heimatkanal
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8832.ts
+#EXTINF:-1,|AU| ORF 1 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8833.ts
+#EXTINF:-1,|AU| ORF 2 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8834.ts
+#EXTINF:-1,|DE| Sat 1
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10409.ts
+#EXTINF:-1,|DE| Prosieben
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10410.ts
+#EXTINF:-1,========||| DEUTSCH KIDS |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8838.ts
+#EXTINF:-1,|DE| Disney Junior HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8839.ts
+#EXTINF:-1,|DE| Disney XD HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8840.ts
+#EXTINF:-1,|DE| Disney Cinemagic HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8842.ts
+#EXTINF:-1,|DE| Nickelodeon HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8843.ts
+#EXTINF:-1,|DE| Cartoon Network
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8845.ts
+#EXTINF:-1,|DE| Boomerang
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8846.ts
+#EXTINF:-1,|DE| Kika HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8847.ts
+#EXTINF:-1,|DE| Nick Jr
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10411.ts
+#EXTINF:-1,|DE| Junior
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10413.ts
+#EXTINF:-1,========||| DEUTSCH DOCU |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8848.ts
+#EXTINF:-1,|DE| Discovery HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8849.ts
+#EXTINF:-1,|DE| Dmax HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8850.ts
+#EXTINF:-1,|DE| National Geographic HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8851.ts
+#EXTINF:-1,|DE| Nat Geo Wild HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8852.ts
+#EXTINF:-1,|DE| Animal Planet HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8853.ts
+#EXTINF:-1,|DE| Spiegel Geschichte
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8854.ts
+#EXTINF:-1,|DE| A & E
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8855.ts
+#EXTINF:-1,|DE| Welt der Wunder
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8856.ts
+#EXTINF:-1,|DE| Motorvision
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8857.ts
+#EXTINF:-1,|DE| E! Entertainement HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8858.ts
+#EXTINF:-1,|DE| TLC HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8859.ts
+#EXTINF:-1,|DE| History HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8860.ts
+#EXTINF:-1,========||| DEUTSCH CINEMA |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8861.ts
+#EXTINF:-1,|DE| Sky 3D HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8862.ts
+#EXTINF:-1,|DE| Sky Cinema HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8863.ts
+#EXTINF:-1,|DE| Sky Cinema +1 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8864.ts
+#EXTINF:-1,|DE| Sky Cinema +24 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8865.ts
+#EXTINF:-1,|DE| Sky Action HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8866.ts
+#EXTINF:-1,|DE| Sky Hits
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8867.ts
+#EXTINF:-1,|DE| Sky Atlantic HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8868.ts
+#EXTINF:-1,|DE| Sky Emotion HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8869.ts
+#EXTINF:-1,|DE| Sky Krimi
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8870.ts
+#EXTINF:-1,|DE| Sky Comedy
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8871.ts
+#EXTINF:-1,|DE| Sky Nostalgie
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8872.ts
+#EXTINF:-1,|DE| Romance TV HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8873.ts
+#EXTINF:-1,|DE| SyFy HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8874.ts
+#EXTINF:-1,|DE| Action HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10414.ts
+#EXTINF:-1,|DE| Universal Channel HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8875.ts
+#EXTINF:-1,|DE| TNT Film HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8876.ts
+#EXTINF:-1,|DE| TNT Serie HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8877.ts
+#EXTINF:-1,|DE| TNT Glitz HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10402.ts
+#EXTINF:-1,|DE| TNT Comedy HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10403.ts
+#EXTINF:-1,|DE| Fox HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8878.ts
+#EXTINF:-1,|DE| MGM HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8879.ts
+#EXTINF:-1,|DE| 13th Street HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8881.ts
+#EXTINF:-1,|DE| RTL Passion HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8883.ts
+#EXTINF:-1,|DE| RTL Living HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8884.ts
+#EXTINF:-1,|DE| RTL Crime HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8885.ts
+#EXTINF:-1,|DE| Kinowelt
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8886.ts
+#EXTINF:-1,|DE| Tele 5 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8887.ts
+#EXTINF:-1,|CH| Teleclub Prime
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8888.ts
+#EXTINF:-1,|CH| Teleclub Cinema
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8889.ts
+#EXTINF:-1,|CH| Teleclub Star
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8890.ts
+#EXTINF:-1,========||| DEUTSCH OTHER |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8891.ts
+#EXTINF:-1,|DE| 3 Sat HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8892.ts
+#EXTINF:-1,|DE| WDR HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8893.ts
+#EXTINF:-1,|DE| NDR HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8894.ts
+#EXTINF:-1,|DE| Arte
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8897.ts
+#EXTINF:-1,|DE| Servus TV
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8898.ts
+#EXTINF:-1,|DE| Regio TV
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8899.ts
+#EXTINF:-1,|DE| Munchen TV
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8901.ts
+#EXTINF:-1,|DE| HR
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8904.ts
+#EXTINF:-1,|DE| Franken
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8905.ts
+#EXTINF:-1,|DE| Schau TV
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8906.ts
+#EXTINF:-1,|DE| Dresden
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8907.ts
+#EXTINF:-1,|DE| Anixe
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8909.ts
+#EXTINF:-1,|CH| Tele Zuri
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8911.ts
+#EXTINF:-1,|CH| Tele Barn
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8912.ts
+#EXTINF:-1,========||| DEUTSCH NEWS |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8913.ts
+#EXTINF:-1,|DE| ZDF Info HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8914.ts
+#EXTINF:-1,|DE| Phoenix HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8915.ts
+#EXTINF:-1,|DE| N-TV
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8916.ts
+#EXTINF:-1,|DE| N24
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8917.ts
+#EXTINF:-1,|DE| DW
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8918.ts
+#EXTINF:-1,========||| DEUTSCH SPORT |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8920.ts
+#EXTINF:-1,|DE| Sky Sport News HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8921.ts
+#EXTINF:-1,|DE| Sky Sport HD 1
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8922.ts
+#EXTINF:-1,|DE| Sky Sport HD 2
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8923.ts
+#EXTINF:-1,|DE| Sky Bundesliga HD 1
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8924.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10408.ts
+#EXTINF:-1,[DE] Sky Bundesliga 2
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10407.ts
+#EXTINF:-1,[DE] Sky Bundesliga 3
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10406.ts
+#EXTINF:-1,[DE] Sky Bundesliga 4
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10405.ts
+#EXTINF:-1,[DE] Sky Bundesliga 5
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/10404.ts
+#EXTINF:-1,|DE| Sky Sport Austria
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8925.ts
+#EXTINF:-1,|DE| Sportdigital HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8926.ts
+#EXTINF:-1,|DE| Sport 1 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8927.ts
+#EXTINF:-1,|DE| Eurosport 1 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8929.ts
+#EXTINF:-1,|DE| Eurosport 2 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8930.ts
+#EXTINF:-1,|AU| ORF Sport  HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8931.ts
+#EXTINF:-1,|CH| Teleclub Sport 1
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8936.ts
+#EXTINF:-1,|CH| Teleclub Sport 2
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8937.ts
+#EXTINF:-1,|CH| Teleclub Sport 3
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8938.ts
+#EXTINF:-1,========||| DEUTSCH SKY SELECT |||========
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8797.ts
+#EXTINF:-1,|DE| Sky Select 1 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8798.ts
+#EXTINF:-1,|DE| Sky Select 2 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8799.ts
+#EXTINF:-1,|DE| Sky Select 3 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8800.ts
+#EXTINF:-1,|DE| SKY Select 4 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8801.ts
+#EXTINF:-1,|DE| SKY Select 5 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8802.ts
+#EXTINF:-1,|DE| Sky Select 6 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8803.ts
+#EXTINF:-1,|DE| Sky Select 7 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8804.ts
+#EXTINF:-1,|DE| Sky Select 8 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8805.ts
+#EXTINF:-1,|DE| Sky Select 9 HD
+http://iptvthebest.ddns.net:15000/live/attilio/attilio/8806.ts
+#EXTINF:-1,ZDF DE
+http://37.187.159.218:8000/live/8880/8880/2656.ts
+#EXTINF:-1,VOX DE
+http://37.187.159.218:8000/live/8880/8880/2641.ts
+#EXTINF:-1,SAT1 DE
+http://37.187.159.218:8000/live/8880/8880/2637.ts
+#EXTINF:-1,AE DE
+http://37.187.159.218:8000/live/8880/8880/5468.ts
+#EXTINF:-1,SAT1 GOLD DE
+http://37.187.159.218:8000/live/8880/8880/2643.ts
+#EXTINF:-1,TLC DE
+http://37.187.159.218:8000/live/8880/8880/5483.ts
+#EXTINF:-1,MGM HD DE
+http://37.187.159.218:8000/live/8880/8880/5480.ts
+#EXTINF:-1,ORF 1 DE
+http://37.187.159.218:8000/live/8880/8880/2661.ts
+#EXTINF:-1,ORF 2 DE
+http://37.187.159.218:8000/live/8880/8880/2662.ts
+#EXTINF:-1,Jukebox DE
+http://37.187.159.218:8000/live/8880/8880/5470.ts
+#EXTINF:-1,RTL DE
+http://37.187.159.218:8000/live/8880/8880/2638.ts
+#EXTINF:-1,RTL 2 DE
+http://37.187.159.218:8000/live/8880/8880/2639.ts
+#EXTINF:-1,RTL PASSION DE
+http://37.187.159.218:8000/live/8880/8880/2640.ts
+#EXTINF:-1,RTL Nitro HD DE
+http://37.187.159.218:8000/live/8880/8880/2649.ts
+#EXTINF:-1,RTL Living HD DE
+http://37.187.159.218:8000/live/8880/8880/2650.ts
+#EXTINF:-1,RTL Crime HD DE
+http://37.187.159.218:8000/live/8880/8880/2651.ts
+#EXTINF:-1,FOX DE
+http://37.187.159.218:8000/live/8880/8880/4204.ts
+#EXTINF:-1,TNT SERIE DE
+http://37.187.159.218:8000/live/8880/8880/2664.ts
+#EXTINF:-1,TNT FILM DE
+http://37.187.159.218:8000/live/8880/8880/2665.ts
+#EXTINF:-1,TNT DE
+http://37.187.159.218:8000/live/8880/8880/2663.ts
+#EXTINF:-1,SYFY DE
+http://37.187.159.218:8000/live/8880/8880/2658.ts
+#EXTINF:-1,Spiegel Geschichte DE
+http://37.187.159.218:8000/live/8880/8880/2654.ts
+#EXTINF:-1,Sony Tv DE
+http://37.187.159.218:8000/live/8880/8880/2655.ts
+#EXTINF:-1,Romance TV HD DE
+http://37.187.159.218:8000/live/8880/8880/2652.ts
+#EXTINF:-1,Prosieben Max HD DE
+http://37.187.159.218:8000/live/8880/8880/2647.ts
+#EXTINF:-1,PROSIEBEN DE
+http://37.187.159.218:8000/live/8880/8880/2642.ts
+#EXTINF:-1,PHOENIX DE
+http://37.187.159.218:8000/live/8880/8880/2644.ts
+#EXTINF:-1,KINOWELT DE
+http://37.187.159.218:8000/live/8880/8880/2659.ts
+#EXTINF:-1,Kabel Eins DE
+http://37.187.159.218:8000/live/8880/8880/2666.ts
+#EXTINF:-1,EINS PLUS DE
+http://37.187.159.218:8000/live/8880/8880/2645.ts
+#EXTINF:-1,EINS FESTIVAL DE
+http://37.187.159.218:8000/live/8880/8880/2646.ts
+#EXTINF:-1,DMAX DE
+http://37.187.159.218:8000/live/8880/8880/2657.ts
+#EXTINF:-1,3SAT DE
+http://37.187.159.218:8000/live/8880/8880/2660.ts
+#EXTINF:-1,WDR HD DE
+http://37.187.159.218:8000/live/8880/8880/1060.ts
+#EXTINF:-1,TAGESSCHAU 24 DE
+http://37.187.159.218:8000/live/8880/8880/1068.ts
+#EXTINF:-1,SWR HD DE
+http://37.187.159.218:8000/live/8880/8880/1061.ts
+#EXTINF:-1,SR HD DE
+http://37.187.159.218:8000/live/8880/8880/1062.ts
+#EXTINF:-1,RBB HD DE
+http://37.187.159.218:8000/live/8880/8880/1063.ts
+#EXTINF:-1,NDR HD DE
+http://37.187.159.218:8000/live/8880/8880/1064.ts
+#EXTINF:-1,MDR HD DE
+http://37.187.159.218:8000/live/8880/8880/1065.ts
+#EXTINF:-1,HR HD DE
+http://37.187.159.218:8000/live/8880/8880/1066.ts
+#EXTINF:-1,DAS ERSTE DE
+http://37.187.159.218:8000/live/8880/8880/1059.ts
+#EXTINF:-1,BR HD DE
+http://37.187.159.218:8000/live/8880/8880/1067.ts
+#EXTINF:-1,ARTE DE
+http://37.187.159.218:8000/live/8880/8880/1058.ts
+#EXTINF:-1,EuroNews DE
+http://37.187.159.218:8000/live/8880/8880/5484.ts
+#EXTINF:-1,|----{ Kids DE}----|
+http://37.187.159.218:8000/live/8880/8880/5460.ts
+#EXTINF:-1,Nickelodeon DE
+http://37.187.159.218:8000/live/8880/8880/4199.ts
+#EXTINF:-1,DISNEY JUNIOR DE
+http://37.187.159.218:8000/live/8880/8880/5474.ts
+#EXTINF:-1,Disney Cinemagic HD DE
+http://37.187.159.218:8000/live/8880/8880/5478.ts
+#EXTINF:-1,Disney Channel DE
+http://37.187.159.218:8000/live/8880/8880/4202.ts
+#EXTINF:-1,DISNEY XD DE
+http://37.187.159.218:8000/live/8880/8880/4200.ts
+#EXTINF:-1,|----{ Documentaries DE}----|
+http://37.187.159.218:8000/live/8880/8880/5458.ts
+#EXTINF:-1,DE,Animal Planet HD
+http://37.187.159.218:8000/live/8880/8880/5493.ts
+#EXTINF:-1,Planet HD DE
+http://37.187.159.218:8000/live/8880/8880/2653.ts
+#EXTINF:-1,Discovery HD DE
+http://37.187.159.218:8000/live/8880/8880/1057.ts
+#EXTINF:-1,NatGeo Wild HD DE
+http://37.187.159.218:8000/live/8880/8880/1056.ts
+#EXTINF:-1,National Geographic HD DE
+http://37.187.159.218:8000/live/8880/8880/5476.ts
+#EXTINF:-1,HISTORY CHANNEL DE
+http://37.187.159.218:8000/live/8880/8880/5477.ts
+#EXTINF:-1,|----{ Sports DE}----|
+http://37.187.159.218:8000/live/8880/8880/5461.ts
+#EXTINF:-1,Sky Sport HD DE
+http://37.187.159.218:8000/live/8880/8880/1054.ts
+#EXTINF:-1,Sky Sport HD 1
+http://37.187.159.218:8000/live/8880/8880/1830.ts
+#EXTINF:-1,DE:Sky Sport HD 1
+http://37.187.159.218:8000/live/8880/8880/280.ts
+#EXTINF:-1,Sky Sport News HD DE
+http://37.187.159.218:8000/live/8880/8880/5488.ts
+#EXTINF:-1,Sky Bundesliga HD 1 DE
+http://37.187.159.218:8000/live/8880/8880/5485.ts
+#EXTINF:-1,Sky Sport HD 2
+http://37.187.159.218:8000/live/8880/8880/1831.ts
+#EXTINF:-1,Sky Sport US HD
+http://37.187.159.218:8000/live/8880/8880/1832.ts
+#EXTINF:-1,Eurosport 1 DE
+http://37.187.159.218:8000/live/8880/8880/4201.ts
+#EXTINF:-1,|----{ Cinema DE}----|
+http://37.187.159.218:8000/live/8880/8880/5463.ts
+#EXTINF:-1,Sky Hits HD
+http://37.187.159.218:8000/live/8880/8880/1827.ts
+#EXTINF:-1,Sky Cinema 1 HD DE
+http://37.187.159.218:8000/live/8880/8880/1824.ts
+#EXTINF:-1,Sky Cinema HD
+http://37.187.159.218:8000/live/8880/8880/1822.ts
+#EXTINF:-1,Sky Cinema HD DE
+http://37.187.159.218:8000/live/8880/8880/1055.ts
+#EXTINF:-1,DE:Sky Cinema HD
+http://37.187.159.218:8000/live/8880/8880/283.ts
+#EXTINF:-1,Sky Comedy DE
+http://37.187.159.218:8000/live/8880/8880/1828.ts
+#EXTINF:-1,Sky Cinema 24 DE
+http://37.187.159.218:8000/live/8880/8880/1823.ts
+#EXTINF:-1,Sky Action HD DE
+http://37.187.159.218:8000/live/8880/8880/1826.ts
+#EXTINF:-1,DE:Sky Action HD
+http://37.187.159.218:8000/live/8880/8880/285.ts
+#EXTINF:-1,Sky Atlantic HD DE
+http://37.187.159.218:8000/live/8880/8880/1825.ts
+#EXTINF:-1,SKY Atlantic DE
+http://37.187.159.218:8000/live/8880/8880/2648.ts
+#EXTINF:-1,Sky Universal HD DE
+http://37.187.159.218:8000/live/8880/8880/5472.ts
+#EXTINF:-1,Sky KinoWelt DE
+http://37.187.159.218:8000/live/8880/8880/5469.ts
+#EXTINF:-1,SKY KRIMI DE
+http://37.187.159.218:8000/live/8880/8880/5482.ts
+#EXTINF:-1,SKY Emotion HD DE
+http://37.187.159.218:8000/live/8880/8880/5479.ts
+#EXTINF:-1,Sky AXN HD DE
+http://37.187.159.218:8000/live/8880/8880/5475.ts
+#EXTINF:-1,13th Street HD DE
+http://37.187.159.218:8000/live/8880/8880/4203.ts
+#EXTINF:-1,|----{ Movies DE}----|
+http://37.187.159.218:8000/live/8880/8880/5459.ts
+#EXTINF:-1,Sky Select 1HD DE
+http://37.187.159.218:8000/live/8880/8880/4191.ts
+#EXTINF:-1,Sky Select 2HD DE
+http://37.187.159.218:8000/live/8880/8880/4192.ts
+#EXTINF:-1,Sky Select 3HD
+http://37.187.159.218:8000/live/8880/8880/4193.ts
+#EXTINF:-1,Sky select 4HD DE
+http://37.187.159.218:8000/live/8880/8880/4194.ts
+#EXTINF:-1,Sky Select 5HD DE
+http://37.187.159.218:8000/live/8880/8880/4195.ts
+#EXTINF:-1,Sky Select 6HD DE
+http://37.187.159.218:8000/live/8880/8880/4196.ts
+#EXTINF:-1,Sky Select 7HD DE
+http://37.187.159.218:8000/live/8880/8880/4197.ts
+#EXTINF:-1,Sky Select 8HD DE
+http://37.187.159.218:8000/live/8880/8880/4198.ts
+#EXTINF:-1,DE:History.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1873.ts
+#EXTINF:-1,DE:VOX.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1881.ts
+#EXTINF:-1,DE:RTL.Living
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1874.ts
+#EXTINF:-1,DE:Super.RTL.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1880.ts
+#EXTINF:-1,DE:RTL.Passion
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1885.ts
+#EXTINF:-1,DE:Sat.1.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1878.ts
+#EXTINF:-1,DE:RTL2.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1877.ts
+#EXTINF:-1,DE:RTL.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1876.ts
+#EXTINF:-1,DE:RTL.CRIMI
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2755.ts
+#EXTINF:-1,DE:Pro.7.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1879.ts
+#EXTINF:-1,DE:N24
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1886.ts
+#EXTINF:-1,DE:Syfy
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1887.ts
+#EXTINF:-1,DE:ZDF
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2759.ts
+#EXTINF:-1,DE:KiKA
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1884.ts
+#EXTINF:-1,DE:TNT.Film
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1883.ts
+#EXTINF:-1,DE:13th.Street
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1872.ts
+#EXTINF:-1,DE:SPIEGEL.GESCHICHTE
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2758.ts
+#EXTINF:-1,DE:SIXX.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2757.ts
+#EXTINF:-1,DE:PRO.7.MAXX
+http://iptv.electro-clair.net:8000/live/xxx/xxx/318.ts
+#EXTINF:-1,DE:SAT1.GOLD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2756.ts
+#EXTINF:-1,DE:Comedy.Central.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1875.ts
+#EXTINF:-1,DE:KABEL.1.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/323.ts
+#EXTINF:-1,DE:TNT.Serie
+http://iptv.electro-clair.net:8000/live/xxx/xxx/179.ts
+#EXTINF:-1,DE:NAT.GEO.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/314.ts
+#EXTINF:-1,DE:SKY.Krimi
+http://iptv.electro-clair.net:8000/live/xxx/xxx/436.ts
+#EXTINF:-1,DE:SKY.EMOTION
+http://iptv.electro-clair.net:8000/live/xxx/xxx/317.ts
+#EXTINF:-1,DE:Sky.ComedyHD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/434.ts
+#EXTINF:-1,DE:Sky-Cinema
+http://iptv.electro-clair.net:8000/live/xxx/xxx/176.ts
+#EXTINF:-1,DE:Sky.Nostalgie
+http://iptv.electro-clair.net:8000/live/xxx/xxx/437.ts
+#EXTINF:-1,DE:Sky.Action
+http://iptv.electro-clair.net:8000/live/xxx/xxx/180.ts
+#EXTINF:-1,DE:SKY.CINEMA.1
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1130.ts
+#EXTINF:-1,DE:Sky.Bundesliga
+http://iptv.electro-clair.net:8000/live/xxx/xxx/438.ts
+#EXTINF:-1,DE:Sky.Bundesliga1HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/322.ts
+#EXTINF:-1,DE:Sky.Sport1.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/185.ts
+#EXTINF:-1,DE:Sky.AtlanticHD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/181.ts
+#EXTINF:-1,DE:Sky.Cinema.24HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/315.ts
+#EXTINF:-1,DE:SKY.SELECT.1
+http://iptv.electro-clair.net:8000/live/xxx/xxx/427.ts
+#EXTINF:-1,DE:Sky.Sport2.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/186.ts
+#EXTINF:-1,DE:SKY.SELECT.2
+http://iptv.electro-clair.net:8000/live/xxx/xxx/428.ts
+#EXTINF:-1,DE:SKY.SELECT.3
+http://iptv.electro-clair.net:8000/live/xxx/xxx/429.ts
+#EXTINF:-1,DE:SKY.SELECT.4
+http://iptv.electro-clair.net:8000/live/xxx/xxx/430.ts
+#EXTINF:-1,DE:SKY.SELECT.5
+http://iptv.electro-clair.net:8000/live/xxx/xxx/431.ts
+#EXTINF:-1,DE:SKY.SELECT.6
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2483.ts
+#EXTINF:-1,DE:SKY.SELECT.7
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2482.ts
+#EXTINF:-1,DE:SKY.SELECT.8
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2481.ts
+#EXTINF:-1,DE:SKY.SELECT.9
+http://iptv.electro-clair.net:8000/live/xxx/xxx/2480.ts
+#EXTINF:-1,DE:Sky.Discovery.Channel.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1327.ts
+#EXTINF:-1,DE:FOX.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/313.ts
+#EXTINF:-1,DE:NAT.GEO.WILD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/319.ts
+#EXTINF:-1,DE:Sky-Hits
+http://iptv.electro-clair.net:8000/live/xxx/xxx/178.ts
+#EXTINF:-1,DE:AXN.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/435.ts
+#EXTINF:-1,DE:MGM
+http://iptv.electro-clair.net:8000/live/xxx/xxx/316.ts
+#EXTINF:-1,DE:SPORT.1+HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1127.ts
+#EXTINF:-1,DE:Universal.HD
+http://iptv.electro-clair.net:8000/live/xxx/xxx/1128.ts
+#EXTINF:-1,DE-Eurosport
+http://iptv.electro-clair.net:8000/live/xxx/xxx/321.ts
