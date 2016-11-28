@@ -1,0 +1,478 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/185.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/184.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/183.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/191.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 1 FHD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1505.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 2 FHD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1506.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC FHD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1508.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI FHD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1507.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/212.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/195.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/190.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1395.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/219.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/194.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC CARAS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/204.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL Q
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/198.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/196.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CM TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/186.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/700.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/518.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/697.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/698.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALTY
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALTY CAMERA 1
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALTY CAMERA 2
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALTY CAMERA 3
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALTY CAMERA 4
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALTY MOSAICO
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1390.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI FICCAO
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/213.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ARTV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV RECORD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/189.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GLOBO
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/512.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/511.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV + FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1477.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV +
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1038.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 1 FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1476.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 1 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/193.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 1
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/286.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 2 FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1475.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/192.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 2
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/285.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1474.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/202.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 3
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 4 FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1473.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 4 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/201.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 4
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/687.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 5 FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1472.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 5 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/200.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTV 5
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/686.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/199.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BTV 1 FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1479.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BTV 1 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/245.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BTV 1
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/288.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTING TV HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/203.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BARCA TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/207.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/227.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT 2 XTRA FULL HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1478.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT 2 XTRA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/899.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT NEWS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/786.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,POKER CENTRAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1503.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOTORS TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/214.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOTORVISION
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/206.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MCS EXTREME
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FUEL TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FIGHT NETWORK
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/705.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,KOMBAT SPORT
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/900.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CACAVISION
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/216.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CAÇA E PESCA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/208.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OUTDOOR
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/784.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DOG TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 1 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/229.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 2 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 3 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 4 HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/232.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/234.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/522.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/513.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/523.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOV HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/521.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SUNDANCE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/780.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/182.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/217.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/237.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN BLACK HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/238.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/215.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/236.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX COMEDY
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CRIME   INVESTIGATION
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1398.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV SERIES HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/239.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS REALITY
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/517.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MCS LIFESTYLE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/790.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT. GEOGRAPHIC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/211.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/242.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/180.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISCOVERY SHOWCASE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/514.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/240.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A & E
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/284.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ODISSEIA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/280.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL HISTORIA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/516.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24 KITCHEN
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/241.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOOD NETWORK
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/695.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/509.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FASHION TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LUXE TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/783.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FINE LIVING HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/870.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ZEE TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/867.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MAX
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/869.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRACE URBAN HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/868.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV ROCKS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV MUSIC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV DANCE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/920.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/788.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRACE TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/787.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/277.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1 CLASSIC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1036.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C-MUSIC
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/865.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,iCONCERTS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIRGIN TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1500.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AFRO TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/515.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MEZZO
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/781.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/282.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/243.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/519.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/283.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PANDA BIGGS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/281.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/205.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC K
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/188.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/187.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BABY FIRST
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1504.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LOCALVISAO HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/855.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,KURISKOS TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1579.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,REGIOES TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/898.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SANTUARIO FATIMA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/699.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV CABO VERDE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1502.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANCAO NOVA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/694.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RECORD NEWS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/866.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/859.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/862.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CUBAVISION INTERNATIONAL
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1397.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV GALICIA
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1037.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRANCE 24
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/785.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV5 MONDE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/864.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DEUTSCHE WELLE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/858.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BLOOMBERG
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M6
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/691.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SEXTREME
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PENTHOUSE
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/510.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: VENUS
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PLAYBOY
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/304.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX HOT XXX
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/244.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: REDLIGHT HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/853.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: HUSTLER HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/856.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SCT
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/805.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SESTO SENSO TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/800.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SCT HD
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/801.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: TGIRLS TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/799.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PINK O TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/802.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EXOTICA TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/803.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: CENTOXCENTO TV
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/804.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,xXx: Hot Club 1
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1328.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,xXx: Hot Club 2
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1327.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,xXx: Hot Club 3
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1326.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,xXx: Hot Club 4
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1325.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,xXx: Hot Club 5
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1324.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Hot Club 6
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1323.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Hot Club 7
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1322.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Hot Club 8
+plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/bolacha/bolacha/1321.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,PT: Spor tv 1
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/880.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SporTV 2
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/881.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SporTV 3
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/882.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SporTV 4
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/883.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SporTV 5
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/884.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Sporting TV HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/885.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Benfica TV 2
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/899.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Benfica TV 1
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/900.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVCine 1
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/936.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVCine 2
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/935.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVCine 3
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/934.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVCine 4
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/933.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVCseries
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/930.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: VeVo 1 HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/898.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: VeVo 2 HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/897.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: VeVo 3 HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/896.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: AXN HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/915.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Axn White HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/916.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Axn Black HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/932.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Fox Comedy
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/923.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Fox HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/926.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Fox Life HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/925.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Fox Crime
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/901.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Canal Porto
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Toros tv
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/909.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVI Ficcao
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/886.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/889.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVI 24
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/887.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TV Globo
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/888.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SIC
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/924.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SIC Noticias
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/903.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Sic Radical
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/914.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SIC Caras
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/912.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Sic Mulher
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/913.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP Memoria
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/890.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP Madeira
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/891.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP Acores
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/893.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP 2
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/894.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP 1
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/895.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: CM TV
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/908.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TV Globo Premium
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/931.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Record
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/917.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: PFC
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/911.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Jim Jim
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SyFy
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/902.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: MOV HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/929.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: CartoonNet Work
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/920.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Motors TV
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/921.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Cine Mundo
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/892.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: EuroSpor News
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/922.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Hollywood
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/907.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: EuroSport 2
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/927.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: EuroSport
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/928.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Disney Junior
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/905.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Disney Channel
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/904.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Discovery HD
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/906.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: Abola tv
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/mik/mik/910.ts&amp;streamtype=TSDOWNLOADER
+
