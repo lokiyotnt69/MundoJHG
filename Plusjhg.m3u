@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-***** SPAIN *****
-#EXTINF:-1,TELECINCOHD
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LASEXTA
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1247.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CUATRO
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1254.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALLALIGA 2
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1257.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALLALIGA
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1256.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALFUTBOL
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1263.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANAL toros
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1258.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALDEPORTE
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1264.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALDCINE
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1259.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALCOMEDIA
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1260.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANALACCION
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1261.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ANTENA3HD
-plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.1 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,CANAL SPORT
-http://sutverduz.com:8080/live/clinecenter.com/2211/917.ts
-#EXTINF:-1,CANAL LIGA HD
-http://sutverduz.com:8080/live/clinecenter.com/2211/921.ts
-#EXTINF:-1,CANAL GOLF HD
-http://sutverduz.com:8080/live/clinecenter.com/2211/920.ts
-#EXTINF:-1,CANAL FUTBALL HD
-http://sutverduz.com:8080/live/clinecenter.com/2211/919.ts
-#EXTINF:-1,CANAL DEPORTES HD
-http://sutverduz.com:8080/live/clinecenter.com/2211/918.ts
 #EXTINF:-1,[COLOR red][I][B]---------------- LisTa MoVisTar JHG--------------------[/B][/I][/COLOR]
 #EXTINF:-1,SP Viajar - SP Viajar
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1829.ts&amp;streamtype=TSDOWNLOADER
