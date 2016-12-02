@@ -1,121 +1,217 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]----------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,BE-BEINSPORT-1HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/187.ts
-#EXTINF:-1,BE-BEINSPORT-2HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/186.ts
-#EXTINF:-1,BE-BEINSPORT-3HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/185.ts
-#EXTINF:-1,BE-BEINSPORT-4HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/184.ts
-#EXTINF:-1,BE-BEINSPORT-5HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/183.ts
-#EXTINF:-1,BE-BEINSPORT-6HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/182.ts
-#EXTINF:-1,BE-BEINSPORT-7HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/181.ts
-#EXTINF:-1,BE-BeinSport-8HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/180.ts
-#EXTINF:-1,BE-BeinSport-9HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/179.ts
-#EXTINF:-1,Beinsport 10HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/190.ts
-#EXTINF:-1,BE-BeinSport-11HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/189.ts
-#EXTINF:-1,AR_Bein_Sport_16
-http://foxiptv.stream.tf:5050/live/gamer/gamer/682.ts
-#EXTINF:-1,AR_Bein_Sport_15
-http://foxiptv.stream.tf:5050/live/gamer/gamer/683.ts
-#EXTINF:-1,AR_Bein_Sport_14
-http://foxiptv.stream.tf:5050/live/gamer/gamer/684.ts
-#EXTINF:-1,AR_Bein_Sport_13
-http://foxiptv.stream.tf:5050/live/gamer/gamer/685.ts
-#EXTINF:-1,AR_Bein_max_2
-http://foxiptv.stream.tf:5050/live/gamer/gamer/681.ts
-#EXTINF:-1,AR_Bein_max_1
-http://foxiptv.stream.tf:5050/live/gamer/gamer/680.ts
-#EXTINF:-1,bein sport new
-http://foxiptv.stream.tf:5050/live/gamer/gamer/178.ts
-#EXTINF:-1,BE-BEINSPORT-12HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/188.ts
-#EXTINF:-1,BEIN MOVIE 1 LOCAL
-http://foxiptv.stream.tf:5050/live/gamer/gamer/177.ts
-#EXTINF:-1,BEIN MOVIES 2 LOCAL
-http://foxiptv.stream.tf:5050/live/gamer/gamer/176.ts
-#EXTINF:-1,UNIVERSAL HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/707.ts
-#EXTINF:-1,SPA:TNT
-http://foxiptv.stream.tf:5050/live/gamer/gamer/586.ts
-#EXTINF:-1,SPA:National GEO
-http://foxiptv.stream.tf:5050/live/gamer/gamer/590.ts
-#EXTINF:-1,SPA:MoviStar MotoGP
-http://foxiptv.stream.tf:5050/live/gamer/gamer/587.ts
-#EXTINF:-1,SPA:Fox Life
-http://foxiptv.stream.tf:5050/live/gamer/gamer/588.ts
-#EXTINF:-1,SPA:Fox
-http://foxiptv.stream.tf:5050/live/gamer/gamer/589.ts
-#EXTINF:-1,SPA:Comedy
-http://foxiptv.stream.tf:5050/live/gamer/gamer/592.ts
-#EXTINF:-1,SPA:CANAL HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/591.ts
-#EXTINF:-1,SPA:Canal Decasa
-http://foxiptv.stream.tf:5050/live/gamer/gamer/593.ts
-#EXTINF:-1,SPA:C Seriesxtra
-http://foxiptv.stream.tf:5050/live/gamer/gamer/594.ts
-#EXTINF:-1,SPA:C  Estrenos
-http://foxiptv.stream.tf:5050/live/gamer/gamer/595.ts
-#EXTINF:-1,SPA:C   DCINE
-http://foxiptv.stream.tf:5050/live/gamer/gamer/596.ts
-#EXTINF:-1,SPA: Canal  Toros
-http://foxiptv.stream.tf:5050/live/gamer/gamer/597.ts
-#EXTINF:-1,SPA: CANAL  FUTBOL
-http://foxiptv.stream.tf:5050/live/gamer/gamer/598.ts
-#EXTINF:-1,SPA-NAT GEO WILD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/599.ts
-#EXTINF:-1,SPA-MOVISTAR F1
-http://foxiptv.stream.tf:5050/live/gamer/gamer/601.ts
-#EXTINF:-1,SPA-Hollywood Spain
-http://foxiptv.stream.tf:5050/live/gamer/gamer/600.ts
-#EXTINF:-1,SPA-disney jr
-http://foxiptv.stream.tf:5050/live/gamer/gamer/602.ts
-#EXTINF:-1,SPA-Cuatro
-http://foxiptv.stream.tf:5050/live/gamer/gamer/603.ts
-#EXTINF:-1,SPA-CANAL DEPORTE
-http://foxiptv.stream.tf:5050/live/gamer/gamer/604.ts
-#EXTINF:-1,SPA-canal  action
-http://foxiptv.stream.tf:5050/live/gamer/gamer/605.ts
-#EXTINF:-1,SPA-Canal   Liga
-http://foxiptv.stream.tf:5050/live/gamer/gamer/606.ts
-#EXTINF:-1,SPA-Canal   Dcine
-http://foxiptv.stream.tf:5050/live/gamer/gamer/607.ts
-#EXTINF:-1,SPA-Barca TV
-http://foxiptv.stream.tf:5050/live/gamer/gamer/608.ts
-#EXTINF:-1,SPA-AXN White Spain
-http://foxiptv.stream.tf:5050/live/gamer/gamer/609.ts
-#EXTINF:-1,SPA-AXN Spain
-http://foxiptv.stream.tf:5050/live/gamer/gamer/610.ts
-#EXTINF:-1,ES: TELECINCO
-http://foxiptv.stream.tf:5050/live/gamer/gamer/575.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://foxiptv.stream.tf:5050/live/gamer/gamer/576.ts
-#EXTINF:-1,ES: LA SEXTA
-http://foxiptv.stream.tf:5050/live/gamer/gamer/577.ts
-#EXTINF:-1,ES: LA 2
-http://foxiptv.stream.tf:5050/live/gamer/gamer/578.ts
-#EXTINF:-1,ES: LA 1
-http://foxiptv.stream.tf:5050/live/gamer/gamer/579.ts
-#EXTINF:-1,ES: FOX MOVIE HD
-http://foxiptv.stream.tf:5050/live/gamer/gamer/580.ts
-#EXTINF:-1,ES: CANAL Odesia
-http://foxiptv.stream.tf:5050/live/gamer/gamer/581.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://foxiptv.stream.tf:5050/live/gamer/gamer/582.ts
-#EXTINF:-1,ES: CANAL   1
-http://foxiptv.stream.tf:5050/live/gamer/gamer/583.ts
-#EXTINF:-1,ES: CALLE 13
-http://foxiptv.stream.tf:5050/live/gamer/gamer/584.ts
-#EXTINF:-1,Es: ANTENA3
-http://foxiptv.stream.tf:5050/live/gamer/gamer/585.ts
+#EXTINF:-1, | USA : Fox Sports 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1317.ts
+#EXTINF:-1, | USA : Fox Sports 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1318.ts
+#EXTINF:-1, | USA : BTN Sport HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1320.ts
+#EXTINF:-1, | USA : Bein Sports USA HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1321.ts
+#EXTINF:-1, | USA : AFN SPORTS HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1322.ts
+#EXTINF:-1, | USA : AFN SPORTS 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1323.ts
+#EXTINF:-1, | USA : AFN SPORTS
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1324.ts
+#EXTINF:-1, | UK : Sky_Sport_F1_HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1325.ts
+#EXTINF:-1, | UK :  Sky Sports HD 1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1329.ts
+#EXTINF:-1, | UK :  Sky Sport News
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1330.ts
+#EXTINF:-1, | UK :  Sky Sport 5 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1331.ts
+#EXTINF:-1, | UK :  Sky Sport 4 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1332.ts
+#EXTINF:-1, | UK :  Sky Sport 3 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1333.ts
+#EXTINF:-1, | UK :  Sky Sport 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1334.ts
+#EXTINF:-1, | UK :  Setanta Sports 1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1326.ts
+#EXTINF:-1, | UK :  SATENTA SPORT
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1327.ts
+#EXTINF:-1, | UK :  PREMIERE SPORT HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1328.ts
+#EXTINF:-1, | UK :  BT Sport Europe HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1335.ts
+#EXTINF:-1, | UK :  BT Sport ESPN
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1336.ts
+#EXTINF:-1, | UK :  BT Sport 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1337.ts
+#EXTINF:-1, | UK :  BT Sport 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1338.ts
+#EXTINF:-1, | TH : TRUE SPORT HD2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1339.ts
+#EXTINF:-1,| TH : TRUE SPORT 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1340.ts
+#EXTINF:-1, | SR :  Supersport 3
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1341.ts
+#EXTINF:-1, | SR :  Supersport 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1342.ts
+#EXTINF:-1, | SR :  Supersport 1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1343.ts
+#EXTINF:-1, | SR :  Arenasport 5 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1344.ts
+#EXTINF:-1, | SR :  Arenasport 4 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1345.ts
+#EXTINF:-1, | SR :  Arenasport 3 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1346.ts
+#EXTINF:-1, | SR :  Arenasport 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1347.ts
+#EXTINF:-1, | SR :  Arenasport 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1348.ts
+#EXTINF:-1, | PT : SPORT.TV 3
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1349.ts
+#EXTINF:-1, | PT : SPORT TV 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1350.ts
+#EXTINF:-1, | PT : SPORT TV 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1351.ts
+#EXTINF:-1, | PT :  Eurosport 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1352.ts
+#EXTINF:-1, | PT :  Eurosport 1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1353.ts
+#EXTINF:-1, | NL :  Ziggo Sport Extra 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1354.ts
+#EXTINF:-1, | NL :  Sport 1 Voetbal
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1355.ts
+#EXTINF:-1, | NL :  Sport 1 Golf
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1356.ts
+#EXTINF:-1, | NL :  Fox Sports 6
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1357.ts
+#EXTINF:-1, | NL :  Fox Sports 5
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1358.ts
+#EXTINF:-1, | NL :  Fox Sports 4
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1359.ts
+#EXTINF:-1, | NL :  Fox Sports 3
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1360.ts
+#EXTINF:-1, | NL :  Fox Sports 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1361.ts
+#EXTINF:-1, | NL :  Fox Sports 1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1362.ts
+#EXTINF:-1, | ML :  Astro Supersport 4
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1363.ts
+#EXTINF:-1, | ML :  Astro Supersport 3
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1364.ts
+#EXTINF:-1, | ML :  Astro Supersport 2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1365.ts
+#EXTINF:-1, | ML :  Astro Supersport 1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1366.ts
+#EXTINF:-1, | IT :  Sky Sport3 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1367.ts
+#EXTINF:-1, | IT :  Sky Sport2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1368.ts
+#EXTINF:-1, | IT :  Sky Sport1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1369.ts
+#EXTINF:-1, | IT :  Sky Sport F1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1370.ts
+#EXTINF:-1, | IT :  Sky Sport 24 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1371.ts
+#EXTINF:-1, | IT :  Rai Sport2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1372.ts
+#EXTINF:-1, | IT :  Rai Sport1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1373.ts
+#EXTINF:-1, | IT :  Eurosport 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1374.ts
+#EXTINF:-1, | IT :  Eurosport 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1375.ts
+#EXTINF:-1, | IN:  Ten Sports HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1378.ts
+#EXTINF:-1, | IN:  Star Sports4-HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1379.ts
+#EXTINF:-1, | IN:  Star Sports3-HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1380.ts
+#EXTINF:-1, | IN:  Star Sports2-HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1376.ts
+#EXTINF:-1, | IN:  Star Sports1-HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1377.ts
+#EXTINF:-1, | IN Sony Six
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1315.ts
+#EXTINF:-1, | FR: beIN_SPORTS_3HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1381.ts
+#EXTINF:-1, | FR: beIN_SPORTS_2HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1382.ts
+#EXTINF:-1, | FR: beIN SPORTS1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1383.ts
+#EXTINF:-1, | FR:  Canal  Sport
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1384.ts
+#EXTINF:-1, | DE:  Sport 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1385.ts
+#EXTINF:-1, | DE:  Sky Sport News HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1386.ts
+#EXTINF:-1, | DE:  sky sport austria
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1387.ts
+#EXTINF:-1, | DE:  Sky Sport 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1388.ts
+#EXTINF:-1, | DE:  Sky Sport 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1389.ts
+#EXTINF:-1, | AR: MBC Pro Sports 3HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1390.ts
+#EXTINF:-1, | AR: AD_Sports_2
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1391.ts
+#EXTINF:-1, | AR: AD_Sports_1
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1392.ts
+#EXTINF:-1, | AR:  beIN Sports 9 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1393.ts
+#EXTINF:-1, | AR:  beIN Sports 8 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1394.ts
+#EXTINF:-1, | AR:  beIN Sports 7 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1395.ts
+#EXTINF:-1, | AR:  beIN Sports 6 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1396.ts
+#EXTINF:-1, | AR:  beIN Sports 5 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1397.ts
+#EXTINF:-1, | AR:  beIN Sports 4 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1398.ts
+#EXTINF:-1, | AR:  beIN Sports 3 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1399.ts
+#EXTINF:-1, | AR:  beIN Sports 2 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1400.ts
+#EXTINF:-1, | AR:  Bein Sports 17 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1401.ts
+#EXTINF:-1, | AR:  Bein Sports 16 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1402.ts
+#EXTINF:-1, | AR:  Bein Sports 15 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1403.ts
+#EXTINF:-1, | AR:  beIN Sports 14 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1404.ts
+#EXTINF:-1, | AR:  beIN Sports 13 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1405.ts
+#EXTINF:-1, | AR:  beIN Sports 12 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1406.ts
+#EXTINF:-1, | AR:  beIN Sports 11 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1407.ts
+#EXTINF:-1, | AR:  beIN Sports 10 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1408.ts
+#EXTINF:-1, | AR:  beIN Sports 1 HD
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1409.ts
+#EXTINF:-1, | AR:  beIN SPorts
+http://iptvfree1.com:6969/live/oIEYf5PuUl/5Lj8BnDE7S/1410.ts
+#EXTINF:-1,AR: beIN SPORT 1 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2421.ts
+#EXTINF:-1,AR: beIN SPORT 2 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2422.ts
+#EXTINF:-1,AR: beIN SPORT 3 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2423.ts
+#EXTINF:-1,AR: beIN SPORT 4 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2424.ts
+#EXTINF:-1,AR: beIN SPORT 5 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2425.ts
+#EXTINF:-1,AR: beIN SPORT 6 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2426.ts
+#EXTINF:-1,AR: beIN SPORT 7 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2427.ts
+#EXTINF:-1,AR: beIN SPORT 8 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2428.ts
+#EXTINF:-1,AR: beIN SPORT 9 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2429.ts
+#EXTINF:-1,AR: beIN SPORT 10 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/2430.ts
+#EXTINF:-1,AR: BeIN Sports 11 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3683.ts
+#EXTINF:-1,AR: BeIN Sports 12 HD
+http://s1.finoip.com:20000/live/test90917/Fp5S3yATLI/3684.ts 
 #EXTINF:-1,------- beIN SPORTS CH --------
 http://www.zeebra.tv:8000/live/mama12/mama12/2380.ts
 #EXTINF:-1,beIN SPORTS 1HD
