@@ -58,3 +58,60 @@ http://server.internext.tv:8000/live/imad/imad/2397.ts
 http://server.internext.tv:8000/live/imad/imad/2398.ts
 #EXTINF:-1,ES: TAQUILLA 5
 http://server.internext.tv:8000/live/imad/imad/2399.ts
+#EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 1 
+rtmp://ocserver02.hopto.me:1935/mytv/bthd01?user=leecruddas@gmail.com&pass=Chucknorris1
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.indosports.tv/images/bt-sport-1.png",UK:BT SPORT 2 
+rtmp://ocserver02.hopto.me:1935/mytv/bthd02?user=leecruddas@gmail.com&pass=Chucknorris1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 1 
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 2 
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 3 
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s17.postimg.org/40k6uwysv/supersports.png",SUPER SPORT 4 
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 2 HD
+http://adtv.ercdn.net/adsport1/adsport2_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 3 HD
+http://adtv.ercdn.net/adsport1/adsport3_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 4 HD
+http://adtv.ercdn.net/adsport1/adsport4_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",SPORT 5 HD
+http://adtv.ercdn.net/adsport1/adsport5_720p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.postimg.org/f4qv8i2d3/winsport.png",WIN SPORT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s16.postimg.org/rzgmb8hx1/starsporthd.jpg",Star Sports HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s1
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 s2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/214_/seg0/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s3
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5 HD s4
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s1
+http://223.75.3.82:8081/live/live2/CCTV5HHD/4000/CCTV5HHD-4000-node4.m3u8?fmt=x264_4000k_mpegts&&authType=2&node=4&type=live
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s2
+http://112.253.38.62/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/CCTV5.png",CCTV5+ HD s3
+http://220.194.207.35/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 1
+rtmp://149.202.206.50/myapp/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 2
+rtmp://149.202.206.50/myapp/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 3
+rtmp://149.202.206.50/myapp/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 4
+rtmp://149.202.206.50/myapp/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 5
+rtmp://149.202.206.50/myapp/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 6
+rtmp://149.202.206.50/myapp/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s18.postimg.org/fmweylv3d/beinhd.png",BEIN SPORT 7
+rtmp://149.202.206.50/myapp/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
