@@ -229,3 +229,21 @@ http://hometv.iptvserver.online:8000/live/gorcum7458/85472123/1293.ts
 http://hometv.iptvserver.online:8000/live/gorcum7458/85472123/1294.ts
 #EXTINF:-1,BEINSPORT 15 HD
 http://hometv.iptvserver.online:8000/live/gorcum7458/85472123/1295.ts
+
+#EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES: BEIN LA LIGA 1080p
+http://158.69.226.108:8000/live/chevaswd/chevaswd/3752.ts
+#EXTINF:-1,ES: CANAL+  FUTBOL HD 1080p
+http://158.69.226.108:8000/live/chevaswd/chevaswd/1536.ts
+#EXTINF:-1,ES: CANAL+ DEPORTES 2 HD
+http://158.69.226.108:8000/live/chevaswd/chevaswd/289.ts
+#EXTINF:-1,ES: AMC HD
+http://158.69.226.108:8000/live/chevaswd/chevaswd/253.ts
+#EXTINF:-1,ES: COSMO HD
+http://158.69.226.108:8000/live/chevaswd/chevaswd/272.ts
+#EXTINF:-1,ES: FOX HD 1080p
+http://158.69.226.108:8000/live/chevaswd/chevaswd/263.ts
+#EXTINF:-1,ES: NICKELODEON HD
+http://158.69.226.108:8000/live/chevaswd/chevaswd/304.ts
+#EXTINF:-1,ES: TVM 3
+http://158.69.226.108:8000/live/chevaswd/chevaswd/318.ts
