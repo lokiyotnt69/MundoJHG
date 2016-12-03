@@ -231,22 +231,7 @@ http://hometv.iptvserver.online:8000/live/gorcum7458/85472123/1294.ts
 http://hometv.iptvserver.online:8000/live/gorcum7458/85472123/1295.ts
 
 #EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES: BEIN LA LIGA 1080p
-http://158.69.226.108:8000/live/chevaswd/chevaswd/3752.ts
-#EXTINF:-1,ES: CANAL+  FUTBOL HD 1080p
-http://158.69.226.108:8000/live/chevaswd/chevaswd/1536.ts
-#EXTINF:-1,ES: CANAL+ DEPORTES 2 HD
-http://158.69.226.108:8000/live/chevaswd/chevaswd/289.ts
-#EXTINF:-1,ES: AMC HD
-http://158.69.226.108:8000/live/chevaswd/chevaswd/253.ts
-#EXTINF:-1,ES: COSMO HD
-http://158.69.226.108:8000/live/chevaswd/chevaswd/272.ts
-#EXTINF:-1,ES: FOX HD 1080p
-http://158.69.226.108:8000/live/chevaswd/chevaswd/263.ts
-#EXTINF:-1,ES: NICKELODEON HD
-http://158.69.226.108:8000/live/chevaswd/chevaswd/304.ts
-#EXTINF:-1,ES: TVM 3
-http://158.69.226.108:8000/live/chevaswd/chevaswd/318.ts
+
 
 #EXTINF:-1,---Bein-Sp-----------------------
 http://149.202.77.226:7500/live/ss1/ss1/885.ts
@@ -300,3 +285,340 @@ http://149.202.77.226:7500/live/ss1/ss1/603.ts
 http://149.202.77.226:7500/live/ss1/ss1/604.ts
 #EXTINF:-1,Bein-Sport3
 http://149.202.77.226:7500/live/ss1/ss1/605.ts
+
+#EXTINF:-1,BEIN-S1
+http://esiptv.tn:7500/live/ge220/ge220/528.ts
+#EXTINF:-1,BEIN-S2
+http://esiptv.tn:7500/live/ge220/ge220/529.ts
+#EXTINF:-1,BEIN-S3
+http://esiptv.tn:7500/live/ge220/ge220/530.ts
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://iptv.re/live/fat/fat/3892.ts
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://iptv.re/live/fat/fat/3893.ts
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://iptv.re/live/fat/fat/3894.ts
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://iptv.re/live/fat/fat/3895.ts
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://iptv.re/live/fat/fat/3896.ts
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://iptv.re/live/fat/fat/3897.ts
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://iptv.re/live/fat/fat/3898.ts
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://iptv.re/live/fat/fat/3899.ts
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://iptv.re/live/fat/fat/3900.ts
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://iptv.re/live/fat/fat/3901.ts
+#EXTINF:-1,AR: beinHD Sports HD1
+http://iptv.re/live/fat/fat/1.ts
+#EXTINF:-1,AR: beinHD Sports HD2
+http://iptv.re/live/fat/fat/2.ts
+#EXTINF:-1,AR: beinHD Sports HD3
+http://iptv.re/live/fat/fat/3.ts
+#EXTINF:-1,AR: beinHD Sports HD4
+http://iptv.re/live/fat/fat/4.ts
+#EXTINF:-1,AR: beinHD Sports HD5
+http://iptv.re/live/fat/fat/5.ts
+#EXTINF:-1,AR: beinHD Sports HD6
+http://iptv.re/live/fat/fat/6.ts
+#EXTINF:-1,AR: beinHD Sports HD7
+http://iptv.re/live/fat/fat/7.ts
+#EXTINF:-1,AR: beinHD Sports HD8
+http://iptv.re/live/fat/fat/8.ts
+#EXTINF:-1,AR: beinHD Sports HD9
+http://iptv.re/live/fat/fat/9.ts
+#EXTINF:-1,AR: beinHD Sports HD10
+http://iptv.re/live/fat/fat/10.ts
+#EXTINF:-1,AR: beinHD Sports HD11
+http://iptv.re/live/fat/fat/11.ts
+#EXTINF:-1,AR: beinHD Sports HD12
+http://iptv.re/live/fat/fat/12.ts
+#EXTINF:-1,AR: beinHD Sports HD13
+http://iptv.re/live/fat/fat/13.ts
+#EXTINF:-1,AR: beinHD Sports HD14
+http://iptv.re/live/fat/fat/14.ts
+#EXTINF:-1,AR: beinHD Sports HD15
+http://iptv.re/live/fat/fat/15.ts
+#EXTINF:-1,AR: beinHD Sports HD16
+http://iptv.re/live/fat/fat/16.ts
+#EXTINF:-1,AR: beinHD Sports HD17
+http://iptv.re/live/fat/fat/2837.ts
+#EXTINF:-1,AR: Bein Sports FullHD 1
+http://iptv.re/live/fat/fat/3784.ts
+#EXTINF:-1,AR: Bein Sports FullHD 2
+http://iptv.re/live/fat/fat/3785.ts
+#EXTINF:-1,AR: Bein Sports FullHD 3
+http://iptv.re/live/fat/fat/3786.ts
+#EXTINF:-1,AR: Bein Sports FullHD 4
+http://iptv.re/live/fat/fat/3787.ts
+#EXTINF:-1,AR: Bein Sports FullHD 5
+http://iptv.re/live/fat/fat/3788.ts
+#EXTINF:-1,AR: Bein Sports FullHD 6
+http://iptv.re/live/fat/fat/3789.ts
+#EXTINF:-1,AR: Bein Sports FullHD 7
+http://iptv.re/live/fat/fat/3790.ts
+#EXTINF:-1,AR: Bein Sports FullHD 8
+http://iptv.re/live/fat/fat/3791.ts
+#EXTINF:-1,AR: Bein Sports FullHD 9
+http://iptv.re/live/fat/fat/3792.ts
+#EXTINF:-1,AR: Bein Sports FullHD 10
+http://iptv.re/live/fat/fat/3793.ts
+#EXTINF:-1,AR: Bein Sports 1 Low
+http://iptv.re/live/fat/fat/3812.ts
+#EXTINF:-1,AR: Bein Sports 2 Low
+http://iptv.re/live/fat/fat/3813.ts
+#EXTINF:-1,AR: Bein Sports 3 Low
+http://iptv.re/live/fat/fat/3814.ts
+#EXTINF:-1,AR: Bein Sports 4 Low
+http://iptv.re/live/fat/fat/3815.ts
+#EXTINF:-1,AR: Bein Sports 5 Low
+http://iptv.re/live/fat/fat/3816.ts
+#EXTINF:-1,AR: Bein Sports 6 Low
+http://iptv.re/live/fat/fat/3817.ts
+#EXTINF:-1,AR: Bein Sports 7 Low
+http://iptv.re/live/fat/fat/3818.ts
+#EXTINF:-1,AR: Bein Sports 8 Low
+http://iptv.re/live/fat/fat/3819.ts
+#EXTINF:-1,AR: Bein Sports 9 Low
+http://iptv.re/live/fat/fat/3820.ts
+#EXTINF:-1,AR: Bein Sports 10 Low
+http://iptv.re/live/fat/fat/3821.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://iptv.re/live/fat/fat/1962.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://iptv.re/live/fat/fat/1963.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://iptv.re/live/fat/fat/1964.ts
+#EXTINF:-1,AR: Bein Sport 4 SD
+http://iptv.re/live/fat/fat/1965.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://iptv.re/live/fat/fat/1967.ts
+#EXTINF:-1,AR: Bein Sport 6 SD
+http://iptv.re/live/fat/fat/2357.ts
+#EXTINF:-1,AR: Bein Sport 7 SD
+http://iptv.re/live/fat/fat/2358.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://iptv.re/live/fat/fat/2359.ts
+#EXTINF:-1,AR: Bein Sport 9 SD
+http://iptv.re/live/fat/fat/2360.ts
+#EXTINF:-1,AR: Bein Sport 10 SD
+http://iptv.re/live/fat/fat/2361.ts
+#EXTINF:-1,AR: beIN SPORTS News
+http://iptv.re/live/fat/fat/1221.ts
+#EXTINF:-1,AR: Bein Sport 1 HD Backup
+http://iptv.re/live/fat/fat/50.ts
+#EXTINF:-1,AR: Bein Sport 2 HD Backup
+http://iptv.re/live/fat/fat/51.ts
+#EXTINF:-1,AR: Bein Sport 3 HD Backup
+http://iptv.re/live/fat/fat/52.ts
+#EXTINF:-1,AR: Bein Sport 4 HD Backup
+http://iptv.re/live/fat/fat/53.ts
+#EXTINF:-1,AR: Bein Sport 5 HD Backup
+http://iptv.re/live/fat/fat/54.ts
+#EXTINF:-1,AR: Bein Sport 6 HD Backup
+http://iptv.re/live/fat/fat/55.ts
+#EXTINF:-1,AR: Bein Sport 7 HD Backup
+http://iptv.re/live/fat/fat/56.ts
+#EXTINF:-1,AR: Bein Sport 8 HD Backup
+http://iptv.re/live/fat/fat/57.ts
+#EXTINF:-1,AR: Bein Sport 9 HD Backup
+http://iptv.re/live/fat/fat/58.ts
+#EXTINF:-1,AR: Bein Sport 10 HD Backup
+http://iptv.re/live/fat/fat/59.ts
+#EXTINF:-1,AR: Bein Sport 11 HD Backup
+http://iptv.re/live/fat/fat/60.ts
+#EXTINF:-1,AR: Bein Sport 12 HD Backup
+#EXTINF:-1,BEIN-S4
+http://esiptv.tn:7500/live/ge220/ge220/531.ts
+#EXTINF:-1,BEIN-S5
+http://esiptv.tn:7500/live/ge220/ge220/532.ts
+#EXTINF:-1,BEIN-S6
+http://esiptv.tn:7500/live/ge220/ge220/533.ts
+#EXTINF:-1,BEIN-S7
+http://esiptv.tn:7500/live/ge220/ge220/534.ts
+#EXTINF:-1,BEIN-S8
+http://esiptv.tn:7500/live/ge220/ge220/535.ts
+#EXTINF:-1,BEIN-S9
+http://esiptv.tn:7500/live/ge220/ge220/536.ts
+#EXTINF:-1,BEIN-S10
+http://esiptv.tn:7500/live/ge220/ge220/537.ts
+#EXTINF:-1,BEIN-S11
+http://esiptv.tn:7500/live/ge220/ge220/538.ts
+#EXTINF:-1,BEIN-S12
+http://esiptv.tn:7500/live/ge220/ge220/539.ts
+#EXTINF:-1,BEIN-S13
+http://esiptv.tn:7500/live/ge220/ge220/540.ts
+#EXTINF:-1,BEIN-S14
+http://esiptv.tn:7500/live/ge220/ge220/541.ts
+#EXTINF:-1,BEIN-S16
+http://esiptv.tn:7500/live/ge220/ge220/543.ts
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/29.ts
+#EXTINF:-1,AR: bEIN Sports 2 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/30.ts
+#EXTINF:-1,AR: beIN Sports 3 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/31.ts
+#EXTINF:-1,AR: beIN Sports 4 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/32.ts
+#EXTINF:-1,AR: beIN Sports 5 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/33.ts
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/34.ts
+#EXTINF:-1,AR: beIN Sports 7 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/35.ts
+#EXTINF:-1,AR: beIN Sports 8 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/36.ts
+#EXTINF:-1,AR: beIN Sports 9 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/37.ts
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/38.ts
+#EXTINF:-1,AR: beINSport 13 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1779.ts
+#EXTINF:-1,AR: beINSport 12 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1778.ts
+#EXTINF:-1,AR: beINSport 11 HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1777.ts
+#EXTINF:-1,<>===#=== Bein Media Channel ===#===<>
+http://iptv.re/live/george/george/2798.ts
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://iptv.re/live/george/george/3892.ts
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://iptv.re/live/george/george/3893.ts
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://iptv.re/live/george/george/3894.ts
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://iptv.re/live/george/george/3895.ts
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://iptv.re/live/george/george/3896.ts
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://iptv.re/live/george/george/3897.ts
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://iptv.re/live/george/george/3898.ts
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://iptv.re/live/george/george/3899.ts
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://iptv.re/live/george/george/3900.ts
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://iptv.re/live/george/george/3901.ts
+#EXTINF:-1,AR: beinHD Sports HD1
+http://iptv.re/live/george/george/1.ts
+#EXTINF:-1,AR: beinHD Sports HD2
+http://iptv.re/live/george/george/2.ts
+#EXTINF:-1,AR: beinHD Sports HD3
+http://iptv.re/live/george/george/3.ts
+#EXTINF:-1,AR: beinHD Sports HD4
+http://iptv.re/live/george/george/4.ts
+#EXTINF:-1,AR: beinHD Sports HD5
+http://iptv.re/live/george/george/5.ts
+#EXTINF:-1,AR: beinHD Sports HD6
+http://iptv.re/live/george/george/6.ts
+#EXTINF:-1,AR: beinHD Sports HD7
+http://iptv.re/live/george/george/7.ts
+#EXTINF:-1,AR: beinHD Sports HD8
+http://iptv.re/live/george/george/8.ts
+#EXTINF:-1,AR: beinHD Sports HD9
+http://iptv.re/live/george/george/9.ts
+#EXTINF:-1,AR: beinHD Sports HD10
+http://iptv.re/live/george/george/10.ts
+#EXTINF:-1,AR: beinHD Sports HD11
+http://iptv.re/live/george/george/11.ts
+#EXTINF:-1,AR: beinHD Sports HD12
+http://iptv.re/live/george/george/12.ts
+#EXTINF:-1,AR: beinHD Sports HD13
+http://iptv.re/live/george/george/13.ts
+#EXTINF:-1,AR: beinHD Sports HD14
+http://iptv.re/live/george/george/14.ts
+#EXTINF:-1,AR: beinHD Sports HD15
+http://iptv.re/live/george/george/15.ts
+#EXTINF:-1,AR: beinHD Sports HD16
+http://iptv.re/live/george/george/16.ts
+#EXTINF:-1,AR: beinHD Sports HD17
+http://iptv.re/live/george/george/2837.ts
+#EXTINF:-1,AR: Bein Sports FullHD 1
+http://iptv.re/live/george/george/3784.ts
+#EXTINF:-1,AR: Bein Sports FullHD 2
+http://iptv.re/live/george/george/3785.ts
+#EXTINF:-1,AR: Bein Sports FullHD 3
+http://iptv.re/live/george/george/3786.ts
+#EXTINF:-1,AR: Bein Sports FullHD 4
+http://iptv.re/live/george/george/3787.ts
+#EXTINF:-1,AR: Bein Sports FullHD 5
+http://iptv.re/live/george/george/3788.ts
+#EXTINF:-1,AR: Bein Sports FullHD 6
+http://iptv.re/live/george/george/3789.ts
+#EXTINF:-1,AR: Bein Sports FullHD 7
+http://iptv.re/live/george/george/3790.ts
+#EXTINF:-1,AR: Bein Sports FullHD 8
+http://iptv.re/live/george/george/3791.ts
+#EXTINF:-1,AR: Bein Sports FullHD 9
+http://iptv.re/live/george/george/3792.ts
+#EXTINF:-1,AR: Bein Sports FullHD 10
+http://iptv.re/live/george/george/3793.ts
+#EXTINF:-1,AR: Bein Sports 1 Low
+http://iptv.re/live/george/george/3812.ts
+#EXTINF:-1,AR: Bein Sports 2 Low
+http://iptv.re/live/george/george/3813.ts
+#EXTINF:-1,AR: Bein Sports 3 Low
+http://iptv.re/live/george/george/3814.ts
+#EXTINF:-1,AR: Bein Sports 4 Low
+http://iptv.re/live/george/george/3815.ts
+#EXTINF:-1,AR: Bein Sports 5 Low
+http://iptv.re/live/george/george/3816.ts
+#EXTINF:-1,AR: Bein Sports 6 Low
+http://iptv.re/live/george/george/3817.ts
+#EXTINF:-1,AR: Bein Sports 7 Low
+http://iptv.re/live/george/george/3818.ts
+#EXTINF:-1,AR: Bein Sports 8 Low
+http://iptv.re/live/george/george/3819.ts
+#EXTINF:-1,AR: Bein Sports 9 Low
+http://iptv.re/live/george/george/3820.ts
+#EXTINF:-1,AR: Bein Sports 10 Low
+http://iptv.re/live/george/george/3821.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://iptv.re/live/george/george/1962.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://iptv.re/live/george/george/1963.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://iptv.re/live/george/george/1964.ts
+#EXTINF:-1,AR: Bein Sport 4 SD
+http://iptv.re/live/george/george/1965.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://iptv.re/live/george/george/1967.ts
+#EXTINF:-1,AR: Bein Sport 6 SD
+http://iptv.re/live/george/george/2357.ts
+#EXTINF:-1,AR: Bein Sport 7 SD
+http://iptv.re/live/george/george/2358.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://iptv.re/live/george/george/2359.ts
+#EXTINF:-1,AR: Bein Sport 9 SD
+http://iptv.re/live/george/george/2360.ts
+#EXTINF:-1,AR: Bein Sport 10 SD
+http://iptv.re/live/george/george/2361.ts
+#EXTINF:-1,AR: beIN SPORTS News
+http://iptv.re/live/george/george/1221.ts
+#EXTINF:-1,AR: Bein Sport 1 HD Backup
+http://iptv.re/live/george/george/50.ts
+#EXTINF:-1,AR: Bein Sport 2 HD Backup
+http://iptv.re/live/george/george/51.ts
+#EXTINF:-1,AR: Bein Sport 3 HD Backup
+http://iptv.re/live/george/george/52.ts
+#EXTINF:-1,AR: Bein Sport 4 HD Backup
+http://iptv.re/live/george/george/53.ts
+#EXTINF:-1,AR: Bein Sport 5 HD Backup
+http://iptv.re/live/george/george/54.ts
+#EXTINF:-1,AR: Bein Sport 6 HD Backup
+http://iptv.re/live/george/george/55.ts
+#EXTINF:-1,AR: Bein Sport 7 HD Backup
+http://iptv.re/live/george/george/56.ts
+#EXTINF:-1,AR: Bein Sport 8 HD Backup
+http://iptv.re/live/george/george/57.ts
+#EXTINF:-1,AR: Bein Sport 9 HD Backup
+http://iptv.re/live/george/george/58.ts
+#EXTINF:-1,AR: Bein Sport 10 HD Backup
+http://iptv.re/live/george/george/59.ts
+#EXTINF:-1,AR: Bein Sport 11 HD Backup
+http://iptv.re/live/george/george/60.ts
+#EXTINF:-1,AR: Bein Sport 12 HD Backup
