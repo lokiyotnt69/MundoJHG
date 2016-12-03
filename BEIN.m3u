@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
+#EXTINF:-1,Bein-Sport1
+http://esiptv.tn:7500/live/adel/adel/603.ts
+#EXTINF:-1,Bein-Sport2
+http://esiptv.tn:7500/live/adel/adel/604.ts
+#EXTINF:-1,Bein-Sport3
+http://esiptv.tn:7500/live/adel/adel/605.ts
+#EXTINF:-1,Bein-sport 4
+http://esiptv.tn:7500/live/adel/adel/1463.ts
+#EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
+#EXTINF:-1,FR: BEINSPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2395.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 1HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2367.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2368.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2369.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 4HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2370.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 5HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2371.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 6HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2373.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 8HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2374.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 9HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 10HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2376.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 11HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2377.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AR: BEIN SPORTS 12HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2378.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2384.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY SPORT 2 Full HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2385.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY SPORT 3 HD/Full HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY SPORTS 4 Full HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2387.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY SPORTS 5 Full HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2388.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY SPORTS F1
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2383.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: BT Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2390.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: BT Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: BT Sport ESPN
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2389.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: BT Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: SFR SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2397.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: SFR SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2398.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: SFR SPORTS 3 HD
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2399.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: CANAL  SPORT
+plugin://plugin.video.f4mTester/?url=http://geppettovision.ns0.it:8000/live/prova/prova/2393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
+#EXTINF:-1,BeinSport 1
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport2
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/2.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport3
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport4
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/4.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport5
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/5.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport6
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/6.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport7
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/7.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport8
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/8.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport9
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/9.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport 10
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/10.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------- LisTa BEIN SPORTS--------------------[/B][/I][/COLOR]
+#EXTINF:-1,BT Sports Extra 1
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1701.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORTS EUROPE HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1702.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1757.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1758.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport ESPN
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport 2
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1705.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport 1
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,British Eurosport2
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1707.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,British Eurosport
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1708.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 8 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1716.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 6 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1718.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1720.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1721.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1722.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 15 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1723.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 13 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1725.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 10 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1728.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1729.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eleven Sports
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1680.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Setanta Sports 1 / Premier Sports
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1699.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Setanta Ireland
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1700.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1683.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1684.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports F1
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1686.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1688.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 5
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1689.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1690.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 4
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1693.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 3
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1694.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1695.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 2
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/1697.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IN: Ten Cricket
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/2152.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PK: PTV Sports
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/2613.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/4788.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP : MIO Stadium 104 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5636.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP : MIO Stadium 102 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5634.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky sports news backup
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5718.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 5 IRE
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5701.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 4 IRE
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5702.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 3 IRE
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5703.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 2 IRE
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 1 IRE
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5705.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: NFL Network HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5755.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: ESPN HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5758.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: ESPN 2
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5759.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: AFN SPORTS 2
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5763.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : CBS Sports Network HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5732.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : BTN SPORTS HD**
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5752.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : Big Ten Network HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5733.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : Bein USA HD*
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5734.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : NBA TV HD**
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5744.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : MLB NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5729.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5745.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5746.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : ESPN2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5730.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : ESPN HD 2**
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5747.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : ESPN HD *
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5748.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : TENNIS HD*
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5724.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : SPROUT HD*
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5725.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : NFL NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5743.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : WWE Network HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5722.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : WWE HD*
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5738.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA : WILLOW CRICKET HD*
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5739.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IN: Star Sports 4
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5893.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IN: Star Sports 3
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5892.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IN: Star Sports 1
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/5890.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 5 Srb
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6170.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 5 HD HR
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6169.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 4 Srb
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6168.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 4 HD HR
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6167.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 3 Srb
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6166.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 3 HD HR
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6165.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 2 Srb
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6164.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 2 HD HR
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6163.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| ARENA SPORT 1 Srb
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6162.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| SUPER SPORT 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6180.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| SUPER SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6178.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| SPORT KLUB 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6175.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| SPORT KLUB 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6174.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| SPORT KLUB 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6173.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| TRING SPORT NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6187.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| TRING SPORT 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6186.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| TRING SPORT 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6185.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| TRING SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6184.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,|AL| TRING SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6183.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BN:ARENA SPORT 4
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6131.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BN:ARENA SPORT 2
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6129.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,3PM EPL: ARENA SPORT 5 CRO
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6127.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,3PM EPL: ARENA SPORT 4 CRO
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6126.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,3PM EPL: ARENA SPORT 3 CRO
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6125.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,3PM EPL: ARENA SPORT 2 CRO
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6124.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTS : Arena Sport 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6118.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTS : Arena Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6117.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTS : Arena Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6115.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP : TSN HD 3
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP : TSN HD 1
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP : CELTIC FC TV ( LIVE ON MATCHES )
+plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/pak/pak/6221.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,bein 1
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 2
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 3
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 4
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 5
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein6
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 7
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 8
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 9
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/935?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 10
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/936?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Sky Sports 1 SD
+http://78.56.221.9:7059/skysp1
+#EXTINF:-1,Sky Sports 2 SD
+http://78.56.221.9:7059/skysp2
+#EXTINF:-1,Sky Sports 3 SD
+http://78.56.221.9:7059/skysp3
+#EXTINF:-1,SKY Sport 1 DE
+http://178.199.17.144:2004
+#EXTINF:-1,SKY Sport 1 DE
+http://178.199.17.144:2005
