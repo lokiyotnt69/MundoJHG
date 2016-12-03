@@ -1,30 +1,714 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title> [COLOR skyblue][B]19-09-2016 11:07[/B] [/COLOR]</title>
-<link>-</link>
-<thumbnail>http://publicdomainvectors.org/photos/refresh-icon.png</thumbnail>
-
-</item>
-
-<item>
- <title>BEIN LA LIGA</title>
-<link>https://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>http://cinestrenostv.tv/img/beinlaliga.png</thumbnail>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-</item>
-
-<item>
-<title>BEIN SPORTS</title>
-<link>https://cdn.sitenow.me/live/bein_b0mgomf/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
-<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
-
-</item>
-
-<item>
- <title>#0</title>
-<link>https://cdn.sitenow.me/live/plus0_b0xk990/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<streamingInfos>
+ 
+          <item> 
+            <title>- - - ESPANA - - -</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=- - - ESPANA - - -</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Xtra</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Viajar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3545.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Viajar</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3546.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  TNT</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Teledeporte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3547.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Teledeporte</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3548.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Telecinco</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3549.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  TCM</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3550.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  SyFy</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3551.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Series Xtra</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3552.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nova</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Nonstopeople</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3553.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nonstopeople</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3554.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Nat Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nat Geo</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Moviestar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Moto GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Los40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Los40</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  La2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La2</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  La1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La1</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  La Sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La Sexta</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Iberalia TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Iberalia TV</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Hollywood</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Golf</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Fox News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox News</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox Life</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  FDF</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3568.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3569.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Estrenos</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney XD</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3573.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Discovery</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Deportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Deportes</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Crimen Inves</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Crimen Inves</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Cosmo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Cosmo</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Comedia</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Clan TVE</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Caza &amp; Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Caza &amp; Pesca</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Canal Odisea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Odisea</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Canal Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Decasa</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Cocina</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3584.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AXN White</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3585.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AXN</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3586.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AMC</link> 
+        </item> 
+          <item> 
+            <title>[ES] C  A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3587.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>------ Portugal --------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ Portugal --------</link> 
+        </item> 
+          <item> 
+            <title>PT: Spor tv 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Spor tv 1</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 3</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 4</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 5</link> 
+        </item> 
+          <item> 
+            <title>PT: Sporting TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Benfica TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: Benfica TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+        </item> 
+          <item> 
+            <title>PT: Canal Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Porto</link> 
+        </item> 
+          <item> 
+            <title>PT: Toros tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+        </item> 
+          <item> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
+        </item> 
+          <item> 
+            <title>PT: Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: Jim Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim</link> 
+        </item> 
+          <item> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
+        </item> 
+          <item> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CartoonNet Work</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSpor News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
+        </item> 
+          <item> 
+            <title>PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Abola tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv</link> 
+        </item> 
+          <item> 
+            <title>------- Spanish ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- Spanish ---------</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 7</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 8</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 9</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 10</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Liga</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Deportes HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Deportes HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Futpol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Futpol</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Golf</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Accion</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Dcine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Dcine</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Comedia</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Estrenos HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ de las Estrellas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ de las Estrellas</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Series</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Serie Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Serie Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Cuatro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Cuatro</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Dcine Espanol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Dcine Espanol</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Cocina</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Toros</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Toros</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Los40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Los40</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Nova</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Fox HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal T HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal T HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal MicroVision HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal MicroVision HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ 40</link> 
+        </item> 
+          <item> 
+            <title>ES: 24 Horas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 Horas</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Sport ES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport ES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Movis Star Moto Gp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movis Star Moto Gp</link> 
+        </item> 
+          <item> 
+            <title>ES: Movi Star F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movi Star F1</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>ES: Teledeportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teledeportes</link> 
+        </item> 
+          <item> 
+            <title>ES: Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan TVE</link> 
+        </item> 
+          <item> 
+            <title>ES: Real Madrid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid</link> 
+        </item> 
+          <item> 
+            <title>ES: La 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 1</link> 
+        </item> 
+          <item> 
+            <title>ES: La 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Cine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Cine</link> 
+        </item> 
+          <item> 
+            <title>ES: La  Sexta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La  Sexta HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TV Galicia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV Galicia</link> 
+        </item> 
+          <item> 
+            <title>ES: News DW</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: News DW</link> 
+        </item> 
+          <item> 
+            <title>ES: Proyecto 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Proyecto 40</link> 
+        </item> 
+          <item> 
+            <title>ES: Azteca Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca Noticias</link> 
+        </item> 
+          <item> 
+            <title>ES: 324 Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1005.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 324 Entertainment</link> 
+        </item> 
+          <item> 
+            <title>ES: Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox Life</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>ES: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>ES: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: History</link> 
+        </item> 
+          <item> 
+            <title>ES: Calle 13 Spain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13 Spain</link> 
+        </item> 
+          <item> 
+            <title>ES: Azteca trece</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca trece</link> 
+        </item> 
+          <item> 
+            <title>ES: Anime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Anime</link> 
+        </item> 
+          <item> 
+            <title>ES: Azteca 7 Monterrey</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca 7 Monterrey</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena 3 Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3 Internacional</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF</link> 
+        </item> 
+          <item> 
+            <title>ES: Caza Y Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza Y Pesca</link> 
+        </item> 
+          <item> 
+            <title>ES: Viajar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Viajar</link> 
+        </item> 
+          <item> 
+            <title>ES: Teleticino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teleticino</link> 
+        </item> 
+          <item> 
+            <title>ES: National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic</link> 
+        </item> 
+          <item> 
+            <title>ES: National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic Wild</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney Chaneel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Chaneel</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney XD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
+        </item> 
+          <item> 
+            <title>ES: TVN Chile HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVN Chile HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CHILE La Red</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CHILE La Red</link> 
+        </item> 
+          <item> 
+            <title>ES: ITV HD Chile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Gloria/Gloria/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ITV HD Chile</link> 
+        </item> 
+  n.sitenow.me/live/plus0_b0xk990/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
 <thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
 <agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
 
