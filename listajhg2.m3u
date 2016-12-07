@@ -1,143 +1,312 @@
 #EXTM3U
-
-#EXTINF:1,BEINSPORTS 1HD
-http://http://176.53.21.99:8082/TV4001
-#EXTINF:1,BEINSPORTS 2HD
-http://http://176.53.21.99:8082/TV4002
-#EXTINF:1,BEINSPORTS 3HD
-http://http://176.53.21.99:8082/TV4003
-#EXTINF:1,BEINSPORTS 4HD
-http://http://176.53.21.99:8082/TV4004
-#EXTINF:1,BEINSPORTS 5HD
-http://http://176.53.21.99:8082/TV4005
-#EXTINF:1,BEINSPORTS 6HD
-http://http://176.53.21.99:8082/TV4006
-#EXTINF:1,BEINSPORTS 7HD
-http://http://176.53.21.99:8082/TV4007
-#EXTINF:1,BEINSPORTS 8HD
-http://http://176.53.21.99:8082/TV4008
-#EXTINF:1,BEINSPORTS 9HD
-http://http://176.53.21.99:8082/TV4009
-#EXTINF:1,BEINSPORTS 10HD
-http://http://176.53.21.99:8082/TV4010
-#EXTINF:1,BEINSPORTS 11HD
-http://http://176.53.21.99:8082/TV4011
-#EXTINF:1,BEINSPORTS 12HD
-http://http://176.53.21.99:8082/TV4012
-#EXTINF:1,BEINSPORTS 13HD
-http://http://176.53.21.99:8082/TV4013
-#EXTINF:1,BEINSPORTS 14HD
-http://176.53.21.99:8082/TV4014
-#EXTINF:-1, BeIN Sport 1 Low
-http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 1 Medium
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 1 HD
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 Low
-http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 Medium
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 HD
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport Premier Low
-http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport Premier Medium
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:-1, BeIN Sport Premier HD
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
- #EXTINF:1,SKY SPORTS 1
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.64:443/liverepeater playpath=195085 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195085&width=620&height=490 token=deadsoon%%7
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=194484 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=194484&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,SKY SPORTS 2
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195086 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195086&width=620&height=490 token=deadsoon%%7
-#EXTINF:1, SKY SPORTS F1
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195088 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195088&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,SKY SPORTS 5 HD
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195087 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195087&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,Bt Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195140 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=1951140&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,Fox Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195142 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=1951142&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,Eurosport
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195089 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195089&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,Eurosport 2
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195090 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195090&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,TSN 1
-rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195143 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=1951143&width=620&height=490 token=deadsoon%%7
-#EXTINF:1,Sky Movies Premiere
-http://http://176.53.21.99:8082/TV4251
-#EXTINF:1,Sky Movies Premiere+
-http://http://176.53.21.99:8082/TV4252
-#EXTINF:1,Sky Sky Movies Select
-http://http://176.53.21.99:8082/TV4254
-#EXTINF:1,Sky Movies Action
-http://http://176.53.21.99:8082/TV4245
-#EXTINF:1,Sky Movies Comedy
-http://http://176.53.21.99:8082/TV4246
-#EXTINF:1,Sky Movies Disney
-http://http://176.53.21.99:8082/TV4247
-#EXTINF:1,Sky Movies Family
-http://http://176.53.21.99:8082/TV4248
-#EXTINF:1,Sky Movies SciFi
-http://http://176.53.21.99:8082/TV4249
-#EXTINF:1,Sky sports 1
-http://http://176.53.21.99:8082/TV4284
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-q0-bAZ_dIqo/AAAAAAAAAAI/AAAAAAAAAAA/8nKuWBK31rw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",TOTAL TV
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-q0-bAZ_dIqo/AAAAAAAAAAI/AAAAAAAAAAA/8nKuWBK31rw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",SUSCRIBETE
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-q0-bAZ_dIqo/AAAAAAAAAAI/AAAAAAAAAAA/8nKuWBK31rw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",GRUPO DE FACEBOOK https://www.facebook.com/groups/1776778529248494/
+https://www.youtube.com/watch?v=M1oNB8O5UNg
  
-#EXTINF:-1,Silk Sport HD 1
-http://80.77.52.6:4394/udp/226.1.1.7:12345
-#EXTINF:-1,Silk Sport HD 2
-http://80.77.52.6:4394/udp/226.1.1.8:12345
-#EXTINF:-1,Silk Sport HD 3
-http://80.77.52.6:4394/udp/226.1.1.9:12345
-#EXTINF:-1,Silk Sport HD 4
-http://80.77.52.6:4394/udp/226.1.1.10:12345
-#EXTINF:1, Sportal TV HD
-http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1,ESPN 2
- http://tinyurl.com/o59p9pt
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-_4vsNhdMBI4/AAAAAAAAAAI/AAAAAAAAAAA/h20nWPBUV20/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Los Simpsons (24/7)
+http://latino-webtv.ml/series/simpsons.mp4
  
-#EXTINF:-1,ESPN 3
- http://tinyurl.com/nd9r2xk
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-_8lHSPO3nNI/AAAAAAAAAAI/AAAAAAAAAAA/-THVRONaQco/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",FAIL ARMY
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-GRo1Ba4um5I/AAAAAAAAAAI/AAAAAAAAAAA/A3VNh7wEetk/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",SUN CHANEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg", RT HD
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
  
-#EXTINF:-1,ESPN
-http://tinyurl.com/ok97gms
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HnD7o8Dc3f8/AAAAAAAAAAI/AAAAAAAAAAA/_9ynpXxl-xo/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX190jmWKA0apgvUENMQFbwHGOUH8pNbmmxbr59DWIXXUMNT5y5CzX6Qt%2BAMdCR6wMg%2B26%2F%2BtWOglIw%3D%3D
  
-#EXTINF:1,svt1
-http://188.138.9.228:8001
-#EXTINF:1,svt2
-http://188.138.9.228:8002
-#EXTINF:1,TV3
-http://188.138.9.228:8003
-#EXTINF:1,TV4
-http://188.138.9.228:8004
-#EXTINF:1,Kanal5
-http://188.138.9.228:8005
-#EXTINF:1,TV6
-http://188.138.9.228:8006
-#EXTINF:1,Sjuan
-http://188.138.9.228:8007
-#EXTINF:1,TV8
-http://188.138.9.228:8008
-#EXTINF:1,TV9
-http://188.138.9.228:8009
-#EXTINF:1,Kanal 11
-http://188.138.9.228:8011
-#EXTINF:1,Kanal 12
-http://188.138.9.228:8012
-#EXTINF:1,Barnkanalen/svt24
-http://188.138.9.228:8013
-#EXTINF:1,C More Series
-http://188.138.9.228:8021
-#EXTINF:1,C More Sport
-http://188.138.9.228:8023
-#EXTINF:1,C More First
-http://188.138.9.228:8024
-#EXTINF:1,C More Emotion
-http://188.138.9.228:8025
-#EXTINF:1,Viasat Fotboll
-http://188.138.9.228:8033
-#EXTINF:1,C More Fotboll
-http://188.138.9.228:8034
-#EXTINF:1,C More Action
-http://188.138.9.228:8035
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-FVduhrHkOfM/AAAAAAAAAAI/AAAAAAAAAAA/ybk5DXWE5JA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",FX HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX186vZx32nwxTq6lD4OXtAmXC0cYgcIZWVex1Xe1y8rInY%2B3QQ8F1jSkkXw%2BsMbVLiYrRGyMlSOVjQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-8EjKDh376Uw/AAAAAAAAAAI/AAAAAAAAAAA/-91t-1CKRD0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",BBC Entertainment
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18a6g5RtcMbzAXNufyoblPrw%2BTaOI43AveMZ5Urm1RQpTuO02DzeTzloKxc%2FC4xfEYTHga067M18A%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg",TruTV HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18TG5SjZUyhT9KPkqgs2U6W5Ii3ndDaJ0v6t2FBxSnbecPjtG6ainpGRFK0YjHCDVGwBlwAGZyOTA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-epmZAEgZgvQ/AAAAAAAAAAI/AAAAAAAAAAA/dHaB2uJ9-48/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Unicable
+http://live.tvplayerlatino.com/streaming/src1/O7Ohw?iptv2016/lista/WWW.TOTALTV.FULLHD
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/lifetime.png",Lifetime
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=379&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/16m6ozq.jpg",Distrito Comedia
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1927JPVPz9ytcD74NIfwX2BMMxNhXVl2RlMFX%2BPbrSfeUj7WhAbL%2B%2BNUXHekZEmHEyEh4bCVtAFeA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/225.png",TCM
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=496&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-dbN_9Z0VoK4/AAAAAAAAAAI/AAAAAAAAAAA/pC7miHEpVi8/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Warner Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19bT9XR7vinOtLmrj78mOJgasXm7Sip3p6dbJlBfYdBSmV0RgZ%2B8Xs%2Fe7tbNZn4Z8wlEg6pQfwM9A%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Y__zQl3lsAw/AAAAAAAAAAI/AAAAAAAAAAA/Sbt4fr4gw_8/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox Life
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F7QpL3zNG04AHBX3flG5t5lXHL0OqG%2B9qA82ewnKReuStsBLj2ErlF8EVQd6qn0YY%2BiYn2vmrf0g%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ios1OK1LQyc/AAAAAAAAAAI/AAAAAAAAAAA/1lJALaYer2c/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Comedy Central
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?iptv2016/lista/.m3u
+ 
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/azteca-7.png",Azteca 7 HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18QHp47mMJ2WV7OB0E20QPgxQgUklXqKGljMuM%2Fx5jHl6rlJRbnO5rmJwhKDjPANrTjChWWptbC0A%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://historiadelosmediosgeraldyne.weebly.com/uploads/2/0/9/3/20938784/7672745_orig.jpg",Azteca 13 HD
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=113&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2a516qd.jpg",Tlnovelas
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BJkX%2BvbXznGVt8lA%2B4%2BYXlO7fRCk%2FpkVrVNHp24vteoW0phsMG0tLbieDzbfRuUCi4ZRPGK18gPQ%3D%3D
+ 
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6PfcKpS5RG8/AAAAAAAAAAI/AAAAAAAAAAA/ajxIQnuGVw4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Canal de las Estrellas
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18ET4%2FrQEHwwf%2BdmgWcqTY51ZEYnkN6ZmGee42Y15gny6XiZeqJPtJDVGs%2BhwOx73iJA7noDI3hog%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6PfcKpS5RG8/AAAAAAAAAAI/AAAAAAAAAAA/ajxIQnuGVw4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Canal de las Estrellas HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18rCp5LcxelKRWe0AaeDg%2By0eLojRTrob%2FJXqmQt0DK4nDFtdYLz8nhNWhYaVB5vPKdJVEN%2BtUA%2BQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/--a0_uAkpHfc/AAAAAAAAAAI/AAAAAAAAAAA/GtPptIt4AkE/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Canal 5 HD
+http://live.tvplayerlatino.com/streaming/src1/74511?iptv2016/lista/.m3u
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/--a0_uAkpHfc/AAAAAAAAAAI/AAAAAAAAAAA/GtPptIt4AkE/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Canal 5 HD
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=105&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-OT_gDdsFiKQ/AAAAAAAAAAI/AAAAAAAAAAA/-xUNlFm34ak/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Gala TV
+http://live.tvplayerlatino.com/streaming/src1/K1kPK?iptv2016/lista/.m3u
+ 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c3/ForoTV.png/revision/latest?cb=20120813035120",Foro TV
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=104&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/once%20tv.png",Canal Once
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=111&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-RSnATqggaRI/AAAAAAAAAAI/AAAAAAAAAAA/nM3XnusOydw/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Glitz
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=270&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-9t4j4zQvucE/AAAAAAAAAAI/AAAAAAAAAAA/QBQgmSnpS2k/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",SyFy
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FScqyPQajNS4ysMWusyz%2FFoxCjfY9L0WK8M4M9WzrupfMWsK63wutxU5p8ANRibcZ7cs1rMLfYFw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ozLUglqwzi0/AAAAAAAAAAI/AAAAAAAAAAA/R73jamtMY0A/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",TLC
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18Tvod2QQADV2eqD6HvFdA1pRkqAWCenBIXtfbiZ17e54UXJ9iu1dHfJJcQNhRReO82jjHCyqh8OQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-50uObYxJUrs/AAAAAAAAAAI/AAAAAAAAAAA/MwrnnBuAwx0/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",E!
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18GfW%2Ff4LH2Dd0XrsMUIR5ySqz3P4KLj4kymssa6jJEgIgN5vLOZXmsFtKt%2F1cVTmCzatB5J%2BPz7A%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-FAEbmzYroRQ/AAAAAAAAAAI/AAAAAAAAAAA/bAbi5DN7FlY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Universal Channel HD
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=207&ch=1339&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-FAEbmzYroRQ/AAAAAAAAAAI/AAAAAAAAAAA/bAbi5DN7FlY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Universal Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FuAB0GkzEJyz%2BEtbRidKopTYRl%2BpIiqBQx8BxE5XEOzOXn4kdUWdPglnDo4p%2F9bFexBZwi1vVXAw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1YfQJ17L8tI/AAAAAAAAAAI/AAAAAAAAAAA/AlkANhOJnr0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Sony
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19VeoZYWk0oRwnnZbE99hug5cfWWJwP9sRseKVxIwlTcmxH%2BbD%2BTTSmuCBGdvAZ3kdWJs%2FfkOJXLg%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-dh1z4uAMsVA/AAAAAAAAAAI/AAAAAAAAAAA/3NWo0WZwaD0/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",AXN HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18gMzSh6fgjQ7DlxAdLjK9bBl%2FkBewjlHZpUi9GdxiDGLqt8lyFF5ruYBzueFHNwi1uT03AdQHfBA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-wm2kZLz71tM/AAAAAAAAAAI/AAAAAAAAAAA/7mdxR68CgcU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Cinecanal
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=480&ch=1611&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-wm2kZLz71tM/AAAAAAAAAAI/AAAAAAAAAAA/7mdxR68CgcU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Cinecanal HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FVBDA%2FIeOpLSeszsp9NLfSP%2BJKJQS2v3Az%2ByxEnYe80etZRzVq63Q7tz4AaZQthK73z6YJX1znXQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ukw3nHLLbAA/AAAAAAAAAAI/AAAAAAAAAAA/9MfXuv7RyJw/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Studio Universal
+http://latino-webtv.ml/index.m3u8?
+token=U2FsdGVkX1%2FmrP1n6fsnispmoJ1%2FNvX9GZimr47Pss7a4v1Ot0gvvz9w%2B3HZU1XWvoEGwLqjsnuQvwr5U%2FM1EQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-bR6ByIXiyrg/AAAAAAAAAAI/AAAAAAAAAAA/JFyEhmlC0j8/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",AMC HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BtroLHj%2BCDGq5EjLuxHJaExwjzsfh8fwwPoxjUy1xVCTu2BV6lzy8lyRmaVQTIn5hqANqNgW2SUQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vrDJV05mY6o/AAAAAAAAAAI/AAAAAAAAAAA/wFLZ0bLe0Ls/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Cinemax
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19V9GvZUuJ8d2YQcZKQcycSuT%2B8wF7TwR1ufTk6%2Feeu2UjrjnvfmWcMoSqo3le6Vw1K6ZNfldHtpQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Y8ramoDT-7U/AAAAAAAAAAI/AAAAAAAAAAA/qA60DVD2y7c/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",TNT HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19bGnapHrIgF%2BEKTbr1S6%2FOV6gV42pFTuIXW7ndDv0E9SeGBUdGgBzXf0FLBMhCxrUa5RosZrmVig%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Y8ramoDT-7U/AAAAAAAAAAI/AAAAAAAAAAA/qA60DVD2y7c/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",TNT Series
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1827eWMbxZsJJ4UronHv63vkbi%2BNPtpVTgZRnVyeXLIdC1OiChYcDQC%2FaS7JmQFU3ltgBLyzQWZOQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zErHTmW67k8/AAAAAAAAAAI/AAAAAAAAAAA/b938z_FhLgs/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Space HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F%2F6vKIWTjvsKtJErGDNYa4YEGZt1h69xOe%2BkHQGzIe6HHQRBe%2F%2BzrX7Xel%2BhA1kbzNhGgKoL3l0w%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-h6HvtCKplxw/AAAAAAAAAAI/AAAAAAAAAAA/Cw9-TluUCQc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Golden HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1807qgpCNXJnU1MO2TJAon4%2FEgsdwgpprQmiEqZrc3Ejf%2FjI4jb7x6ms%2F%2FsM9rAk7gVAUyhPNW79A%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-h6HvtCKplxw/AAAAAAAAAAI/AAAAAAAAAAA/Cw9-TluUCQc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Golden Edge
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX187g1LMCbsNHjueBb6ZO5xXfvXyXG3Y9aeWZJ4qq4HUDYVCrVUfTrXZizdLL0F7dw4GxqL0YZwotg%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-2Z_I21xJShc/AAAAAAAAAAI/AAAAAAAAAAA/sk3_rtDVI7o/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Film Zone HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BIfWnU1FWIFfQdvpYS7DJf%2F9Ga5CQRAwi01SdW2YGa40g9FAK17yoSoUPOHQ%2B67Mz4PiPlF3tunQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://allvectorlogo.com/img/2016/07/de-pelicula-clasico-logo.png",De Pelicula HD
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=442&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDW-LlBrW1bUZdA0nait8ToCECWr8DAEFa7KtNAHKNgWMVvgM2",Fox 1 HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FvdQ9Zs98Ef0doggPhvfAqrmwMNYyHQh76vIhxMG39oC0cM%2BagwnBxWklWNLjBea6MbfTdfskQ%2Fw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-auFHR6BZgaU/AAAAAAAAAAI/AAAAAAAAAAA/AnnWbVSxB2E/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox Action HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BxWsiqAH%2B0M49f8hV2eezODWL6fZS1jdYG%2BjkNrdGb0HO%2F6BrYSZxYvhVk1mpcSKxr17nAKflh2Q%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJpXAhfXP3dpAZ7N1oXE8xHsZv84aHBlr46S58j7n-1OBC2vEc",Fox Cinèma
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=421&ch=1571&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-77Knvdiuo_k/AAAAAAAAAAI/AAAAAAAAAAA/R6jG1iKEyTU/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox Classics
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=424&ch=1575&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-4Rci-Xp9dCY/AAAAAAAAAAI/AAAAAAAAAAA/OrC4A3E59UY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox Movies HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Bu0rn4nG%2BKWcOehkAzTSuhJearBCiYMEWDqeqBp6%2FZSwWDl5L6X4rWXLf04dVp8F9waAnM9L3vlA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/207.png",HBO
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2BbT13mExqFzaX%2ByXJdKgDCy%2F6vGU8AbwDCNwkndN4I8usIUAdsVuawLPFDiOOUXlqST84Fv1vagg%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://cinema-world.cba.pl/images/hbo2hd.jpg",HBO 2
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2BufzYHr0d8HIqzAHzmyndNtLc1BPqW5OKR1r8MOi%2BbSVYfi%2F4hRy%2BLCB3GvehX%2FkJ6w7F6HaEB%2BA%3D%3D
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Ultra-Cine-TV_o.jpg",Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+ 
+#EXTINF:-1 group-title="INFANTILES",------------INFANTILES-----------
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eggxURdD4FQ/AAAAAAAAAAI/AAAAAAAAAAA/gJs0uyNpS-o/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Disney Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2F5%2B%2B%2FQXDuFRbNCsasjHqHAAxND0MitNaaH3SgsU%2BEU8UcgGi%2B37yngtpAsTTGpwrFJNufbhsnuFw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Cartoon Network
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BPeL0EwzSAKhTQ1svIQ4no831ESU5BmFcupwQJUQd2gAa6Ydn94d%2BizyoJkgxp6WQ%2BO1hJqB54Dw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-N6iBN7Qgwj0/AAAAAAAAAAI/AAAAAAAAAAA/JX4LTjpV6-o/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Disney XD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FpOw%2FRLuOxaqzNkykv%2BNrK1UByFYoFeR6HLhSKoLcD6c2qiiHZEUdT0kB%2FID1M5kHjGUhIOejrgA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-StkgniJST5Q/AAAAAAAAAAI/AAAAAAAAAAA/wnr6mooPs58/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Nickelodeon
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18wuRr7YgT3gmkNTVDYOE8EF8Y8r3w3FzSjzvkSii7WWjmlo9HF3ihMk%2Fu7JSoqMAAlfqPWtCj6pw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-yAPe3Bm72OE/AAAAAAAAAAI/AAAAAAAAAAA/fDE01KN1Lac/s176-c-k-no-mo-rj-c0xffffff/photo.jpg  ",Nick HD
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=315&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1LHlouV7lnc/AAAAAAAAAAI/AAAAAAAAAAA/sSGGwl2g6Dk/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Nicktoons
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18KC3tKeWR4iFpBxMHH0ulKTpsDi4pdYrx6RebI11ERYYPhwg3AFrAuN1kklzwXRbTBEB7hVUYPWQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-q5h6BunpbOA/AAAAAAAAAAI/AAAAAAAAAAA/daPHtjtr0Ng/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Boomerang
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2B20fkrc%2FCr5bgwWUNiotLxF3Y8FAT%2F%2BX%2FL74uZsL8j2mozOiOSO9mmkHWVO9yBgEg6m%2FgOr85Uvw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-g57P8ILRRCw/Vem9qoMDiyI/AAAAAAAADqs/0NOJNuD_YSU/s1600/Untitled%2B1.jpg",Tooncast
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FHkc0TO%2BXQWhnLabm8%2BAYdnryU3HSCt%2B2GGwzPSmYRDPo9C8sxTwOkveUn58S7%2Be5zSbtRjn1uJQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-CuyUzCBJ1Jk/AAAAAAAAAAI/AAAAAAAAAAA/poPgwgKtgDY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Discovery Kids
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18nR%2BurB05iQgJ9wiFV9eVUvnRb56cFWhvf4Plk54lFwjGjTN2Nb1LVxaLUAFfNbP%2B3wVxRUHIhgw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lrofuJsz1c8/AAAAAAAAAAI/AAAAAAAAAAA/8YJ0rAktf_o/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",CBeebies
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=305&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-e8lc2AnB-Z8/AAAAAAAAAAI/AAAAAAAAAAA/1kZk7GEiBxA/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Disney Jr
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2B0gjFlf52BwcNgZQShgv%2BjBqFdlHrObdTAuqu34jN1YaGrfCZ2uzV%2Brm2NgG8a1gSfNbow9ty37g%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iQ_Ozrm59fI/AAAAAAAAAAI/AAAAAAAAAAA/GHYBdyXeGyM/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Nick Jr
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-a0eOWP9wxWo/AAAAAAAAAAI/AAAAAAAAAAA/SSa1leT-HL4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",MTV
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BIIY%2B4dpurB9c5wazi%2FT4YW9AGPCVBVAj%2BsH%2FbUkroRlyq4BLiuagjdXHJOUO84dK204JHTkmeLg%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-t73DE96zDQQ/AAAAAAAAAAI/AAAAAAAAAAA/hvYoanhnhdM/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",MTV Live
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=701&ch=1699&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://yt3.ggpht.com/-CQHjkLVIP5M/AAAAAAAAAAI/AAAAAAAAAAA/BWP4iEfBcZI/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO6fvCZQXimWOlR6aKORQLo7-CS6Q4U39WsKjzfv_TpFLpyKyMeA" group-title="MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂSICA - MUSIC",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-WF6qT32CVUc/AAAAAAAAAAI/AAAAAAAAAAA/KF_jhtLuMl4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",VH1
+http://live.tvplayerlatino.com/streaming/src1/eriD9?iptv2016/lista/www.tecnotv.info/full
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2840368659/0d24b134f99c2b520fa520bc0711804a_400x400.jpeg",VH1 CLASSICS
+http://live.tvplayerlatino.com/streaming/src1/KW2YQ?iptv2016/lista/www.tecnotv.info/full
+ 
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkamtaUu3yglrBfK5M6CT4iPR6UGO5D1UNmHxu0bDP1JHTgWTIg" group-title="MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂSICA - MUSIC",OneTV Arg
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/--SfaBiEUuMw/AAAAAAAAAAI/AAAAAAAAAAA/nq2JIFJ5804/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",ClaroSports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAAAAAA/O9ATiv9wGJ0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",ESPN
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Frd4QD4Ht3fDQFtaOIGLhM5X3CvfB8E5boLgXhdAjEmqLDOn0s%2FI92ot%2FdymMwgtJ46%2FZWqXEXBtLrEzoqzc5EqydG8peGpvs%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAAAAAA/O9ATiv9wGJ0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",ESPN 2
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2F4GyBkuR2qwpg16dHAKVtr5N2HCY8EB6mQBpGXpH19AiTmC0dPlFk8%2FFo8d643q9sUzKoWlxKL9RyQSXRVhTFjJfc%2FLmC3q1Y%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAAAAAA/O9ATiv9wGJ0/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",ESPN 3
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2ByEIZyI%2BPSnPufcE1kegDIpGrB7SoxkTZc5uMr9%2FYf7hswXQ%2FK8w%2Fw8%2B619wRtbisdchbwLaw%2F%2BmRGSipj8D5TBPQVGUphKeY%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox Sports
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2Bn9CeZ7VYo5TIT36d9XEum2hMR7zZIzH41Ebzxq40gSjPVT3jM%2FsP5ezaC4RnYgsFzdDhtkwg99LkPZnynyzIpKx0aFguzKYI%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Fox Sports 2
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18WaaAXTX1nAje%2Bg0p9o3xkETWy9g5oeuZsPFbqGQClB5GRbAkOBdvyFSFjbu99vaVTgdcwdKMtRQ0ws%2BVyNYoY7np2evirFF8%3D
+ 
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/2.6.39/images/logo-header__us-es.png",Bein Sports
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX19Au4xp9OZxdc6G5SdhCMlHCWnu7Uk51dLfgkiCarZWKEBn7dP9KLFr5VHPQXMkRTUVZNpcYyPe%2BA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/Canal+_Liga.png",Canal + Liga
+http://iptvlatinototal.ml/s4.m3u8?user=app&id=ligaplus&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-g0WEZb4om9A/AAAAAAAAAAI/AAAAAAAAAAA/zJwduic4rz4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Win Sports
+http://iptvlatinototal.ml/s4.m3u8?user=app&id=winsd&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-g0WEZb4om9A/AAAAAAAAAAI/AAAAAAAAAAA/zJwduic4rz4/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Win Sports HD
+http://iptvlatinototal.ml/s4.m3u8?user=app&id=winhd/01&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 group-title="CIENCIA/CULTURA",-------CIENCIA/CULTURA------
+ 
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2i4s5k.jpg",Discovery Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX181TF9hMgPdepKmfV%2BtfRRn5jzCxGDIQM%2BUMFUc%2Bl6U4clLHEzzGRXtSQsEJnIhctbKTqr39eg2ow%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2dw7wa8.jpg",Investigacion Discovery
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX197F2ILQ2brCpoczmWcdavj0VfrubzqlCupSd%2BdSjBSualUo8wOiUjRpyGdAw79mOH7UdZ8uWv8Fw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Czdtn0hNKSQ/AAAAAAAAAAI/AAAAAAAAAAA/S2dVvLH6ZYo/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",National Geographic
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19K96xJMqHuUJJP5Ht%2FDe3XCEcfLK3oXpyd6xclA8ZowR4t5%2BY%2BABxPE0%2Bn9j1gmJ947eJRwmMgMw%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HH4qDZivPuE/AAAAAAAAAAI/AAAAAAAAAAA/dPjv2XCNQmM/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",NatGeo Wild HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BJriGfr0Xd0UdkHNRsaIjr%2FYJ025fk1DIzBVa%2F1efDiASs7pBmzomUfIXOZmj6INozpejaTub17Q%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-tIQN2Z8Fv0k/AAAAAAAAAAI/AAAAAAAAAAA/MubIOjgS83Q/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",History HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FjpnqCbI3sBCrE9nx815zOccc0NnTIUBZtr3F3PrYUaVWSZzDNKV9RXrhIdwAbmDF2Tlk3bCsq0A%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-FEsYkupUb-A/AAAAAAAAAAI/AAAAAAAAAAA/6SiqnVvRZJY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg",Animal Planet
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18kGdeJ53WUt731baeaAzbnW1%2BkDkgmkZ%2FHZznK1abkUeYjFocPgJdbgnTzh3slCmUQe2Zk3cT5UA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://portal2.iptvprivateserver.tv/stalker_portal/misc/logos/320/1493.png",Discovery World
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=356&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2jev779.jpg",Discovery Theather
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BvTgAW%2B%2FN%2FCidTF7uYGgJLTkTjF%2FS63sRbSOIhwQc9U6uou6PvRovOD%2BEeXAE2lAxmD%2F6aS7y0uA%3D%3D
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20science.png",Discovery Science
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=381&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20civilization.png",Discovery Civilization
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=382&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20turbo.png",Discovery Turbo
+http://iptvlatinototal.ml/s1.m3u8?user=app&id=383&cl=03&token=U2FsdGVkX185x2E4y1MGaz6%2Bj1lSOU0PtyWMrhqNp%2BRPCOqMw7rtDNU0Cdjg92DQ
+ 
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/r8gewg.jpg",Home and Health
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FQ%2F98yNiRFCjt0SLOrZNxCl8KthObyZaXiSpUYf6IXiEdh5HT0A%2FJ948Oizd4%2F5cS4438AoDBo3g%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0687/9031/files/Under18sm_a76e7ce8-3f69-4194-96d6-5f75c8e5b6d5.png?11903342358387533317",Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://cdn.ipernity.com/111/65/75/4726575.ed7e8d2b.640.jpg" group-title="XXX",Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://cdn.shopify.com/s/files/1/0687/9031/files/Under18sm_a76e7ce8-3f69-4194-96d6-5f75c8e5b6d5.png?11903342358387533317" group-title="XXX",Penthouse
+rtmp://edge1.everyon.tv/etv1sb/phd10927
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://hd-report.com/wp-content/uploads/2011/01/penthouse-logo.jpg" group-title="XXX",Penthouse Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0687/9031/files/Under18sm_a76e7ce8-3f69-4194-96d6-5f75c8e5b6d5.png?11903342358387533317"XXX",Ask
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0687/9031/files/Under18sm_a76e7ce8-3f69-4194-96d6-5f75c8e5b6d5.png?11903342358387533317",ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-logo="https://yt3.ggpht.com/-AoyTEALMBZQ/AAAAAAAAAAI/AAAAAAAAAAA/Ikzq4sJjf5A/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" , PlayboyTV
+http://latino-webtv.ml:8880/stalker/PlayboyTV/playlist.m3u
