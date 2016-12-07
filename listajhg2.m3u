@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0,1-hd
+acestream://f8349c83078b0e9533d39b7025cd7564a9816aff
+#EXTINF:0,1plus1
+acestream://e8f10ad0d2cb1c42c429ac16437ffd3d9e1d6660
+#EXTINF:0,1plus1-international
+acestream://2daebf062c9e89835691fa5a48d5f7dc4d42eba7
+#EXTINF:0,100-news
+acestream://3ad1b30e6bba6c4afda7096fbf15645b65d3b605
+#EXTINF:0,112-ukraina
+acestream://af8e10a1e56cbb33546abf743be63b525d85ec23
 #EXTINF:1,24 SATA
 http://83.139.104.123/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
 #EXTINF:1,24 vesti mms
