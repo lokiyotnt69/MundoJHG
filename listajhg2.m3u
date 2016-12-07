@@ -1,82 +1,143 @@
 #EXTM3U
+
+#EXTINF:1,BEINSPORTS 1HD
+http://http://176.53.21.99:8082/TV4001
+#EXTINF:1,BEINSPORTS 2HD
+http://http://176.53.21.99:8082/TV4002
+#EXTINF:1,BEINSPORTS 3HD
+http://http://176.53.21.99:8082/TV4003
+#EXTINF:1,BEINSPORTS 4HD
+http://http://176.53.21.99:8082/TV4004
+#EXTINF:1,BEINSPORTS 5HD
+http://http://176.53.21.99:8082/TV4005
+#EXTINF:1,BEINSPORTS 6HD
+http://http://176.53.21.99:8082/TV4006
+#EXTINF:1,BEINSPORTS 7HD
+http://http://176.53.21.99:8082/TV4007
+#EXTINF:1,BEINSPORTS 8HD
+http://http://176.53.21.99:8082/TV4008
+#EXTINF:1,BEINSPORTS 9HD
+http://http://176.53.21.99:8082/TV4009
+#EXTINF:1,BEINSPORTS 10HD
+http://http://176.53.21.99:8082/TV4010
+#EXTINF:1,BEINSPORTS 11HD
+http://http://176.53.21.99:8082/TV4011
+#EXTINF:1,BEINSPORTS 12HD
+http://http://176.53.21.99:8082/TV4012
+#EXTINF:1,BEINSPORTS 13HD
+http://http://176.53.21.99:8082/TV4013
+#EXTINF:1,BEINSPORTS 14HD
+http://176.53.21.99:8082/TV4014
+#EXTINF:-1, BeIN Sport 1 Low
+http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport 1 Medium
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport 1 HD
+http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport 2 Low
+http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport 2 Medium
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport 2 HD
+http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport Premier Low
+http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport Premier Medium
+http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
+#EXTINF:-1, BeIN Sport Premier HD
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+ #EXTINF:1,SKY SPORTS 1
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.64:443/liverepeater playpath=195085 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195085&width=620&height=490 token=deadsoon%%7
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=194484 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=194484&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,SKY SPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195086 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195086&width=620&height=490 token=deadsoon%%7
+#EXTINF:1, SKY SPORTS F1
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195088 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195088&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,SKY SPORTS 5 HD
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195087 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195087&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,Bt Sport 1
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195140 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=1951140&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,Fox Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195142 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=1951142&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,Eurosport
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195089 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195089&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,Eurosport 2
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195090 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=195090&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,TSN 1
+rtmp://$OPT:rtmp-raw=rtmp://178.18.31.60:443/liverepeater playpath=195143 swfUrl=http://bernardotv.club/player6.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=1951143&width=620&height=490 token=deadsoon%%7
+#EXTINF:1,Sky Movies Premiere
+http://http://176.53.21.99:8082/TV4251
+#EXTINF:1,Sky Movies Premiere+
+http://http://176.53.21.99:8082/TV4252
+#EXTINF:1,Sky Sky Movies Select
+http://http://176.53.21.99:8082/TV4254
+#EXTINF:1,Sky Movies Action
+http://http://176.53.21.99:8082/TV4245
+#EXTINF:1,Sky Movies Comedy
+http://http://176.53.21.99:8082/TV4246
+#EXTINF:1,Sky Movies Disney
+http://http://176.53.21.99:8082/TV4247
+#EXTINF:1,Sky Movies Family
+http://http://176.53.21.99:8082/TV4248
+#EXTINF:1,Sky Movies SciFi
+http://http://176.53.21.99:8082/TV4249
+#EXTINF:1,Sky sports 1
+http://http://176.53.21.99:8082/TV4284
  
-#EXTINF:-1,1.Sky Sports 3 (Спорт)
-acestream://84ca7ee087e9429cd042f4f5e27a5f57385590d3
-#EXTINF:-1,C More Tennis (Спорт)
-acestream://859800ec0b9ef3d0ab2e5fe66cb5f4682f6dca21
-#EXTINF:-1,Eurosport 1 (Спорт)
-acestream://284d09c1130fbb6434c184d6b416c9f468dd92f5
-#EXTINF:-1,Eurosport 1 HD (Спорт)
-acestream://70566ac52273602e0f7c272b5ffab260cab25fec
-#EXTINF:-1,Eurosport 2 (Спорт)
-acestream://55bc52602b9c475ee9f9666b03d5c4bcffeb25ab
-#EXTINF:-1,Extreme Sports (Спорт)
-acestream://5a420abc776077774fa5eb6e4241e7b51c6f803e
-#EXTINF:-1,Idman TV (Спорт)
-acestream://e47dbe53e6bb7f14e8cbd5444e5e82bdd6ef951b
-#EXTINF:-1,MUTV HD (Спорт)
-acestream://43011cb288bbede6f399470c30e7f7e880799802
-#EXTINF:-1,Motorsport (Спорт)
-acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16
-#EXTINF:-1,Real Madrid TV (Спорт)
-acestream://e1b3b363b9394241d1418d6f1fddb720d594809c
-#EXTINF:-1,Setanta Sports + HD (Спорт)
-acestream://a3d6475c17fc2c7789cc45f802a9018764f0352c
-#EXTINF:-1,Sky Sports 1 (Спорт)
-acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d
-#EXTINF:-1,Sky Sports 2 HD (Спорт)
-acestream://aadff76cf805f2b3f0a8ed5c9fca4502c462c017
-#EXTINF:-1,Sky Sports F1 (Спорт)
-acestream://2288397a21c4933d2359f19f54daa4101e297a48
-#EXTINF:-1,Sport 1 Cz (Спорт)
-acestream://224647f6b35f20a68f72633d588a8f208a896bcc
-#EXTINF:-1,Sport 2 Cz (Спорт)
-acestream://2cf97774d9d6fdfcc4584569b7dd48c041484eba
-#EXTINF:-1,Sports TV (Спорт)
-acestream://748ddc8b140f8059ece20af7c35085a7c0482a88
-#EXTINF:-1,Super Tennis HD (Спорт)
-acestream://111d650225e7b7fb8f0f1e968c6aa7f8b86684bd
-#EXTINF:-1,TSN 1 (Спорт)
-acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb
-#EXTINF:-1,Viasat Fotboll (Спорт)
-acestream://6afa3a57af1aa6f8d2474a6b51030a2e67139f59
-#EXTINF:-1,Viasat Golf (Спорт)
-acestream://4670f654f81deece92ec3ce00d5aa03fb38894af
-#EXTINF:-1,Viasat Hockey (Спорт)
-acestream://c3dbf1fc829e76e5f18e37354f454c2546558673
-#EXTINF:-1,Viasat Motor (Спорт)
-acestream://44682f2cef0d96026851082b69bed5bf6dedcbf7
-#EXTINF:-1,Viasat Sport (Спорт)
-acestream://e254a8f270e67501fcdc26dd59b1b3381611fad0
-#EXTINF:-1,Viasat Sport Baltic (Спорт)
-acestream://c01def5a9446cf1b38d1104a4a08cab4b4924613
-#EXTINF:-1,Viasat Sport HD (Спорт)
-acestream://d27c441f138563faf128ddb4b7110ec9e9bb5dfa
-#EXTINF:-1,Viasat Sport Sverige (Спорт)
-acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266
-#EXTINF:-1,Ziggo Sport Voetbal (Спорт)
-acestream://81c9facaa48a83516fcee2b7b058e40f6a8b968c
-#EXTINF:-1,Беларусь 5 (Спорт)
-acestream://421a97868cea21717296e0a97b146cd0494f995a
-#EXTINF:-1,КХЛ HD (Спорт)
-acestream://3d4132ba90651a9c76a9bdc066229e6d1c86a078
-#EXTINF:-1,КХЛ ТВ (Спорт)
-acestream://dedeaca94c297db86ca22bf21160d4beb706a49b
-#EXTINF:-1,Конный мир HD (Спорт)
-acestream://c7a2ff2c37d9b4f9a55f2a6af48c5f52f537f7c8
-#EXTINF:-1,Матч ТВ (Спорт)
-acestream://9678644bacb11a76916793f713f32934ccccdf8c
-#EXTINF:-1,Матч ТВ HD (Спорт)
-acestream://e34368628d9c1ee927d56cd4079ed155218a1232
-#EXTINF:-1,Матч! Арена (Спорт)
-acestream://3d2a82f7142890776f885244c792b975775ecabe
-#EXTINF:-1,Матч! Арена HD (Спорт)
-acestream://b360ed4482ec4bebe03f51b17a5086d15daa730c
-#EXTINF:-1,Матч! Игра (Спорт)
-acestream://15a152a93b99133d8a9c3e9552c28775c25491a6
-#EXTINF:-1,Матч! Игра HD (Спорт)
-acestream://f9f1c72273fe3485d7a204902915abada40bfe9d
-#EXTINF:-1,Матч! Наш Спорт (Спорт)
-acestream://f4826ede874046298477d999e117b47c81c3dd0b
-#EXTINF:-1,Матч! Планета (Спорт)
-acestream://bdd561eb9131bdcb93ce9e89a0a4aa3222cfa237
+#EXTINF:-1,Silk Sport HD 1
+http://80.77.52.6:4394/udp/226.1.1.7:12345
+#EXTINF:-1,Silk Sport HD 2
+http://80.77.52.6:4394/udp/226.1.1.8:12345
+#EXTINF:-1,Silk Sport HD 3
+http://80.77.52.6:4394/udp/226.1.1.9:12345
+#EXTINF:-1,Silk Sport HD 4
+http://80.77.52.6:4394/udp/226.1.1.10:12345
+#EXTINF:1, Sportal TV HD
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1,ESPN 2
+ http://tinyurl.com/o59p9pt
+ 
+#EXTINF:-1,ESPN 3
+ http://tinyurl.com/nd9r2xk
+ 
+#EXTINF:-1,ESPN
+http://tinyurl.com/ok97gms
+ 
+#EXTINF:1,svt1
+http://188.138.9.228:8001
+#EXTINF:1,svt2
+http://188.138.9.228:8002
+#EXTINF:1,TV3
+http://188.138.9.228:8003
+#EXTINF:1,TV4
+http://188.138.9.228:8004
+#EXTINF:1,Kanal5
+http://188.138.9.228:8005
+#EXTINF:1,TV6
+http://188.138.9.228:8006
+#EXTINF:1,Sjuan
+http://188.138.9.228:8007
+#EXTINF:1,TV8
+http://188.138.9.228:8008
+#EXTINF:1,TV9
+http://188.138.9.228:8009
+#EXTINF:1,Kanal 11
+http://188.138.9.228:8011
+#EXTINF:1,Kanal 12
+http://188.138.9.228:8012
+#EXTINF:1,Barnkanalen/svt24
+http://188.138.9.228:8013
+#EXTINF:1,C More Series
+http://188.138.9.228:8021
+#EXTINF:1,C More Sport
+http://188.138.9.228:8023
+#EXTINF:1,C More First
+http://188.138.9.228:8024
+#EXTINF:1,C More Emotion
+http://188.138.9.228:8025
+#EXTINF:1,Viasat Fotboll
+http://188.138.9.228:8033
+#EXTINF:1,C More Fotboll
+http://188.138.9.228:8034
+#EXTINF:1,C More Action
+http://188.138.9.228:8035
