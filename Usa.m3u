@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,USA: HBO  HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/960.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES ACTION HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/737.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES COMEDY HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/738.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES DISNEY HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/735.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/736.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES PREMIERE HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/733.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES SELECT HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/742.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UK: SKY MOVIES THRILLER HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/739.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TNT HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/582.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BASKET UNI.(Oregon)
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1509.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BASKET UNI.(Moutain)
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1508.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BASKET UNI.(Los Angeles)
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1507.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BASKET UNI.(Arizona)
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1506.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BEIN SPORTS  HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/170.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BOX NATION HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/369.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: ESPN HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/585.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: EUROSPORT
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1505.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: FOX SPORT 1
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/588.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/775.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/774.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: NBA TV
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/594.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: NBC GOLF
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1502.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: NFL HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/592.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: POKER CENTRAL HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/551.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: REDBULL TV
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1504.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: VIASAT GOLF HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/395.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: WWE HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/591.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: A&E HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/562.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: ABC HD LOCAL
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/629.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: ABC NEWS
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1516.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: CNN
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/1589.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TLC
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/567.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TBS HD
+plugin://plugin.video.f4mTester/?url=http://158.69.226.108:8000/live/xbox/xbox/583.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,GET TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2813.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ANTENNA TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2812.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESCAPE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2811.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC EAST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/948.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC WEST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2492.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NB
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2493.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC EAST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/938.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS EAST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/947.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CW HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/1528.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX 43 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC SPARK
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2636.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/847.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/936.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/828.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOUNCE TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2483.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BRAVO HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/941.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BRAVO_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2633.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2779.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BET_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2635.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BET HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2443.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BLOOMBERG HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2441.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BNN
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2634.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/827.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTOON NETWORK_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2632.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBC TORONTO
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2631.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS SPORTS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CHCH HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/1798.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/1391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX ACTIONMAX
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2740.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX 5STARMAX
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2741.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX MOREMAX
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/843.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C&I HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2416.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CITY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2259.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CTV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CMT
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/trial/trial/2628.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS NEWS
